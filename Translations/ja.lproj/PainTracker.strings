@@ -1,0 +1,1707 @@
+/* @LANGUAGE en 
+   @DIRECTORY Translations 
+   @FILE PainTracker.strings */
+
+/* \n\nAre you sure you wish to continue? */
+"\n\nAre you sure you wish to continue?" = "\n\nあなたが継続してもよろしいですか？\n";
+
+/* \n\nExported Diary Entries will be removed from your Diary. This step cannot be undone. */
+"\n\nExported Diary Entries will be removed from your Diary. This step cannot be undone." = "\n\nエクスポートされた日記のエントリは削除されます。このステップを取り消すことはできません。";
+
+/* \n\nThe entries have been removed from your Diary. */
+"\n\nThe entries have been removed from your Diary." = "\n\nエントリは、あなたの日記から削除されました。";
+
+/* \n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory. */
+"\n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory." = "\n\nエクスポートされたエントリは、名前のフォルダに保存されている\n\n%@\n\nあなたのドキュメントディレクトリにあります。";
+
+/* \n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory. */
+"\n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory." = "\n\nエクスポートされたエントリは、名前のzipファイルに保存されている\n\n%@.zip\n\nあなたのドキュメントディレクトリにあります。";
+
+/* Number of entries */
+"# of entries:" = "＃エントリの：";
+
+/* %i Diary Entry object was successfully exported. */
+"%i Diary Entry object was successfully exported." = "%i 日記のエントリがエクスポートされました。";
+
+/* %i Diary Entry objects were successfully exported. */
+"%i Diary Entry objects were successfully exported." = "%i 日記のエントリがエクスポートされました。";
+
+/* 1.00 */
+"1.00" = "1.00";
+
+/* 6am\nto\nNoon */
+"6am\nto\nNoon" = "午前6時00分12:00〜";
+
+/* 6pm\nto\nMidnight */
+"6pm\nto\nMidnight" = "18:00 0時";
+
+/* A QuickBuild item containing the same detail items already exists. */
+"A QuickBuild item containing the same detail items already exists." = "同じディテールのアイテムを含むトラッカーのコレクションがすでに存在しています。";
+
+/* A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary? */
+"A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary?" = "PainTrackerの以前のバージョンからのデータベースが発見されました。この日記にエントリをインポートしますか？";
+
+/* A previous entry containing the %@ Tracker object could not be found to copy from. */
+"A previous entry containing the %@ Tracker object could not be found to copy from." = "A previous entry containing the %@ Tracker object could not be found to copy from.";
+
+/* All dates */
+"All dates" = "すべての日付";
+
+/* An Internet connection is required to view this item. Connect your device to the internet and try connecting again. */
+"An Internet connection is required to view this item. Connect your device to the internet and try connecting again." = "インターネット接続は、この項目を表示するために必要です。インターネットにデバイスを接続し、再度接続してみてください。";
+
+/* Analysis Window (hours) */
+"Analysis Window (hours)" = "Analysis Window (hours)";
+
+/* App Security */
+"App Security" = "アプリケーションのセキュリティ";
+
+/* Apply */
+"Apply" = "適用";
+
+/* Are you sure you want to halt the conversion process? */
+"Are you sure you want to halt the conversion process?" = "あなたは、変換プロセスを停止してよろしいですか？";
+
+/* Avg Daily Pain Level */
+"Avg Daily Pain Level" = "Avg Daily Pain Level";
+
+/* Avg Pain Level */
+"Avg Pain Level" = "平均の痛みのレベル";
+
+/* BM */
+"BM" = "BM";
+
+/* BM Frequency (per week) */
+"BM Frequency (per week)" = "BM頻度（週）";
+
+/* BM per Week */
+"BM per Week" = "排便毎週";
+
+/* Back */
+"Back" = "禿上がる";
+
+/* Back Side */
+"Back Side" = "バックサイド";
+
+/* Based on (1-5) scale */
+"Based on (1-5) scale" = "に基づいて、（1-5）スケール";
+
+/* Begin Update Process */
+"Begin Update Process" = "プロセスを更新し始める";
+
+/* Beginning update process. */
+"Beginning update process." = "Beginning update process.";
+
+/* Blood was not present. */
+"Blood was not present." = "血は存在しませんでした。";
+
+/* Blood was present. */
+"Blood was present." = "血は存在していた。";
+
+/* Bowel Movement History */
+"Bowel Movement History" = "便通履歴";
+
+/* Bowel Movement vs Time */
+"Bowel Movement vs Time" = "便通対時間";
+
+/* Bowel Movements per Week */
+"Bowel Movements per Week" = "排便毎週";
+
+/* Bristol Scale */
+"Bristol Scale" = "ブリストルスケール";
+
+/* Bristol Scale Type Distribution */
+"Bristol Scale Type Distribution" = "ブリストルスケールタイプのディストリビューション";
+
+/* Location services are used to collect a weather related arthritis index that will be stored within the pain entry. */
+"CLLocationManagerPurpose" = "CLLocationManagerPurpose";
+
+/* CPT Connection */
+"CPT Connection" = "CPT Connection";
+
+/* CSV Data Export was successful for report:\n%@\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache. */
+"CSV Data Export was successful for report:\n%@\n\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache." = "CSVデータのエクスポート、レポートの成功した：\n%@\n\n使用して個々のCSVファイルとレポートの出力キャッシュ内のファイルのZIPアーカイブを含むフォルダを見つけることができます。";
+
+/* CSV Export was not successful for report:\n%@. */
+"CSV Export was not successful for report:\n%@." = "CSVエクスポート、レポートのため成功しませんでした：\n%@。";
+
+/* Cancel */
+"Cancel" = "キャンセル";
+
+/* Cancels all editing and closes this DiaryEntry without saving any changes. */
+"Cancels all editing and closes this DiaryEntry without saving any changes." = "すべての編集をキャンセルし、変更を保存せずにこのDiaryEntryを閉じます。";
+
+/* Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc. */
+"Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc." = "Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc.";
+
+/* Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc. */
+"Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc." = "Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc.";
+
+/* City */
+"City" = "都市";
+
+/* Clear
+   Clear button */
+"Clear" = "明確な";
+
+/* Clear All Cache Data */
+"Clear All Cache Data" = "すべてのキャッシュデータをクリア";
+
+/* Clear Cache in Mem */
+"Clear Cache in Mem" = "キャッシュを消去";
+
+/* Clearing Database Store */
+"Clearing Database Store" = "データベースのクリア";
+
+/* Close */
+"Close" = "閉じる";
+
+/* Closing all report sections */
+"Closing all report sections" = "すべてのレポートセクションを閉じる";
+
+/* Collapse the Tracker views within this Diary Entry. */
+"Collapses all the Tracker views within this Diary Entry." = "この日記内のすべてのトラッカービューを折りたたみます。";
+
+/* Collections Not Found */
+"Collections Not Found" = "コレクションが見つかりません";
+
+/* Colors label */
+"Colors:" = "カラー：";
+
+/* Comment */
+"Comment" = "コメント";
+
+/* Compacting Data */
+"Compacting Data" = "データ圧縮";
+
+/* Conditions */
+"Conditions" = "条件";
+
+/* Continue */
+"Continue" = "続行";
+
+/* Converting Entries */
+"Converting Entries" = "変換エントリ";
+
+/* Copy Last */
+"Copy Last" = "最後のコピー";
+
+/* Copy a Previous Entry */
+"Copy a Previous Entry" = "前のエントリをコピーします。";
+
+/* Country */
+"Country" = "カントリー";
+
+/* Create Entry */
+"Create Entry" = "エントリの作成";
+
+/* Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken. */
+"Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken." = "ここにあなたの薬の一覧を作成します。\n\nあなたが好きなだけ追加することができます。\n\nそれぞれの痛みのエントリを使用すると、撮影各薬剤の数量を記録することができます。";
+
+/* Create an HTML version of this DiaryEntry that can be emailed or printed. */
+"Create an HTML version of this DiaryEntry that can be emailed or printed." = "この日記のHTMLバージョンを作成します。HTMLは、メールで送ったり、印刷することができます。";
+
+/* Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions. */
+"Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions." = "独立した個人の健康状態を追跡したり、配偶者や他の家族が彼らの健康状態を追跡するために複数の日記を作成および管理。";
+
+/* Custom Report instructions */
+"Custom Report instructions" = "カスタム開始と終了の日付、あなたがそれを変更するピッカーを変更して使用したい日付の最初のクリックを選択する。\n\n一度希望の開始日/終了日を持って、結果を表示するために、[保存]ボタンをクリックします。";
+
+/* DB Update: 0001 */
+"DB Update: 0001" = "DBの更新：0001";
+
+/* DB Update: 0002 */
+"DB Update: 0002" = "DBの更新：0002";
+
+/* DB Update: 0003 */
+"DB Update: 0003" = "DBの更新：0003";
+
+/* Daily Avg Pain Level vs Time */
+"Daily Avg Pain Level vs Time" = "毎日の平均疼痛レベル対時間";
+
+/* Daily Pain Level Moving Avg vs Time */
+"Daily Pain Level Moving Avg vs Time" = "平均対時間を移動する毎日痛みレベル";
+
+/* Daily Pain Level vs Time */
+"Daily Pain Level vs Time" = "毎日痛みレベル対時間";
+
+/* Daily Summaries for Bowel Movements */
+"Daily Summaries for Bowel Movements" = "排便の毎日の歴史";
+
+/* Data Transfer Operations */
+"Data Transfer Operations" = "データ転送操作";
+
+/* Database Error */
+"Database Error" = "データベースエラー";
+
+/* Date Selection */
+"Date Selection" = "日付の選択";
+
+/* Date of Entry */
+"Date of Entry" = "エントリーの日付";
+
+/* Date range: */
+"Date range:" = "日付範囲：";
+
+/* Dates after: */
+"Dates after:" = "日付の後に：";
+
+/* Dates from: */
+"Dates from:" = "から日付：";
+
+/* Day of the Week */
+"Day of the Week" = "曜日";
+
+/* Day/Night Pain Levels */
+"Day/Night Pain Levels" = "デイ/ナイト痛みレベル";
+
+/* Delete Diary */
+"Delete Diary" = "日記を削除";
+
+/* Description */
+"Description" = "説明";
+
+/* Device Memory is Low */
+"Device Memory is Low" = "デバイスのメモリが不足しています";
+
+/* Diary */
+"Diary" = "日記";
+
+/* Diary Entries */
+"Diary Entries" = "日記エントリ";
+
+/* Diary Entries between %@ and %@ will be exported. */
+"Diary Entries between %@ and %@ will be exported." = "Diary Entries between %@ and %@ will be exported.";
+
+/* Diary Entry Count */
+"Diary Entry Count" = "日記のエントリ数";
+
+/* Diary Entry Export */
+"Diary Entry Export" = "日記エントリのエクスポート";
+
+/* Diary Entry Import */
+"Diary Entry Import" = "日記エントリのインポート";
+
+/* Diary Entry Report */
+"Diary Entry Report" = "日記のエントリーレポート";
+
+/* Diary Entry Time */
+"Diary Entry Time" = "日記の入力時間";
+
+/* Diary Log */
+"Diary Log" = "日記ログ";
+
+/* DiaryName */
+"Diary Name" = "日記の名前";
+
+/* Diary Name & Description */
+"Diary Name & Description" = "日記の名称と説明";
+
+/* Diary Removal */
+"Diary Removal" = "日記を削除";
+
+/* Diary Selection */
+"Diary Selection" = "日記の選択";
+
+/* Diary Statistics */
+"Diary Statistics" = "日記の統計";
+
+/* Diary entries: */
+"Diary entries:" = "日記エントリ：";
+
+/* Diary name: */
+"Diary name:" = "日記の名前：";
+
+/* DiaryEntry Trackers */
+"DiaryEntry Trackers" = "日記エントリートラッカー";
+
+/* Difference */
+"Difference" = "違い";
+
+/* Disable */
+"Disable" = "無効";
+
+/* Display Name */
+"Display Name" = "表示名";
+
+/* Display Report */
+"Display Report" = "レポートを表示";
+
+/* Do you want to use a copy of your last entry? */
+"Do you want to use a copy of your last entry?" = "あなたはあなたの最後のエントリのコピーを使用しますか？";
+
+/* Done button */
+"Done" = "行わ";
+
+/* Dropbox is Unlinked */
+"Dropbox is Unlinked" = "Dropboxがリンクされていないです。";
+
+/* Duplicate Diary Entries will be permitted. */
+"Duplicate Diary Entries will be permitted." = "Duplicate Diary Entries will be permitted.";
+
+/* Duration */
+"Duration" = "時間";
+
+/* Duration */
+"Duration:" = "時間:";
+
+/* E-mail Address */
+"E-mail Address" = "E-メールアドレス";
+
+/* Edit */
+"Edit" = "編集する";
+
+/* Edit Display Name */
+"Edit Display Name" = "表示名を編集します。";
+
+/* Edit Increment Quantity */
+"Edit Increment Quantity" = "インクリメント数量を編集";
+
+/* Edit Table Entries */
+"Edit Table Entries" = "テーブルエントリを編集します";
+
+/* Effective Treatment Frequency */
+"Effective Treatment Frequency" = "効果的な治療頻度";
+
+/* Email */
+"Email" = "メール";
+
+/* Enable */
+"Enable" = "有効にする";
+
+/* End date */
+"End date" = "最後の日付";
+
+/* End date: */
+"End date:" = "最後の日付:";
+
+/* End Date */
+"End:" = "終わり：";
+
+/* Enter Analysis Time Window in Hours. */
+"Enter Analysis Time Window in Hours." = "Enter Analysis Time Window in Hours.";
+
+/* Enter Units for Qty */
+"Enter Units for Qty" = "測定単位を入力してください";
+
+/* Enter Your Access Code */
+"Enter Your Access Code" = "あなたのアクセスコードを入力してください";
+
+/* Enter a brief description */
+"Enter a brief description" = "簡単な説明を入力します。";
+
+/* Enter a unique Diary name */
+"Enter a unique Diary name" = "ユニークな日記の名前を入力します。";
+
+/* Enter default Send-To email address */
+"Enter default Send-To email address" = "送信 - 電子メールアドレス既定値を入力します。";
+
+/* Enter details for this Milestone */
+"Enter details for this Milestone" = "このマイルストーンの詳細を入力します";
+
+/* Enter display name */
+"Enter display name" = "表示名を入力してください";
+
+/* Entery Units for Qty */
+"Entery Units for Qty" = "数量のエントリユニット";
+
+/* Entry %i of %i */
+"Entry %i of %i" = "エントリ%i月%i日";
+
+/* Entry Date */
+"Entry Date" = "入力日";
+
+/* Eraser */
+"Eraser" = "消しゴム";
+
+/* Error */
+"Error" = "エラー";
+
+/* Error: There are no v2.x pain databases on this device to import. */
+"Error: There are no v2.x pain databases on this device to import." = "エラー：インポートするには、このデバイスにはv2.xの痛みのデータベースはありません。";
+
+/* Export */
+"Export" = "エクスポート";
+
+/* Filter */
+"Filter" = "濾過器";
+
+/* Filter Settings */
+"Filter Settings" = "フィルタの設定";
+
+/* Finish Editing */
+"Finish Editing" = "仕上げの編集";
+
+/* Fri */
+"Fri" = "金";
+
+/* Front Side */
+"Front Side" = "フロント";
+
+/* Gosh NO! */
+"Gosh NO!" = "なし";
+
+/* Heat Index */
+"Heat Index" = "熱指数";
+
+/* Hide Help */
+"Hide Help" = "ヘルプを隠す";
+
+/* History */
+"History" = "歴史";
+
+/* History (filtered) */
+"History (filtered)" = "歴史（フィルタリング）";
+
+/* Hours Since Med Taken */
+"Hours Since Med Taken" = "薬からの時間";
+
+/* Hours Since Med Was Taken */
+"Hours Since Med Was Taken" = "薬からの時間がとられた";
+
+/* Humidity vs Time */
+"Humidity vs Time" = "湿度対時間";
+
+/* I'm sure */
+"I'm sure" = "はい";
+
+/* Import */
+"Import" = "インポート";
+
+/* Indicator Color */
+"Indicator Color" = "インジケータの色";
+
+/* Intensity */
+"Intensity" = "強度";
+
+/* Item Frequency */
+"Item Frequency" = "アイテムの周波数";
+
+/* Last used: */
+"Last used:" = "ラストが使用されています：";
+
+/* Latitude */
+"Latitude" = "緯度";
+
+/* ListItemDetail */
+"List Item Detail" = "リストアイテムの詳細";
+
+/* Lite alert message */
+"Lite message block" = "慢性疼痛のトラッカーのこのバージョンは、%i 痛みのログエントリの最大を可能にします。データベースは現在、その最大値内にとどまるように切り詰められます。\n\nこのアプリケーションが役立つと思うならば、すべて同じ偉大な機能に加えて、無制限の痛みのログエントリを可能にする私たちのフルバージョンにアップグレードしてください。";
+
+/* Loading Database */
+"Loading Database" = "データベースのロード";
+
+/* Loading... */
+"Loading..." = "読み込み中...";
+
+/* Location */
+"Location" = "場所";
+
+/* Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception. */
+"Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception." = "Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception.";
+
+/* Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception. */
+"Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception." = "Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception.";
+
+/* Longitude */
+"Longitude" = "経度";
+
+/* Medication */
+"Medication" = "投薬";
+
+/* Medication Name */
+"Medication Name" = "薬の名前";
+
+/* MemoryWarningMessageOption1 */
+"MemoryWarningMessageOption1" = "Your device has issued a low memory warning to this application.\n\nThis app will now take steps to reduce it's memory footprint to make more memory available to the active processes. You can also help free memory by closing one or more of your currently suspended applications. Rebooting the device the device from time to time is also advised to ensure that the maximum available memory pool is available for this application.\n\nFor more information on Device Memory Warnings and how they affect your device, please click on the More Info button below.";
+
+/* MemoryWarningMessageOption2 */
+"MemoryWarningMessageOption2" = "Your device's operating system has issued multiple low memory warnings in the last 2 minutes.\n\nThis application has taken steps to free memory, but the continued warnings suggest that other apps on your device are holding a significant percentage of the available memory. You can help by simply closing one or more of your currently suspended applications to free more memory. Rebooting the device will also ensure that the maximum available memory pool is available for this application.\n\nFor more information on Device Memory Warnings and how they affect your device, please click on the More Info button below.";
+
+/* Midnight\nto\n6am */
+"Midnight\nto\n6am" = "00:00〜6時00分";
+
+/* Milestone */
+"Milestone" = "マイルストーン";
+
+/* Modify the Date or Time of this entry as needed. */
+"Modify the Date or Time of this entry as needed." = "必要に応じて、このエントリの日付または時刻を変更します。";
+
+/* Mon */
+"Mon" = "月";
+
+/* More Info */
+"More Info" = "詳細情報";
+
+/* Most Effective Treatments */
+"Most Effective Treatments" = "最も効果的な治療法";
+
+/* Moving Avg Pain Level vs Time */
+"Moving Avg Pain Level vs Time" = "移動平均疼痛レベル対時間";
+
+/* Name */
+"Name" = "の名前";
+
+/* Name your new collection */
+"Name your new collection" = "あなたの新しいコレクションに名前を付けます";
+
+/* New collection: %@, has been created. */
+"New collection: %@, has been created." = "新しいコレクションは、：%@ は、作成されています。";
+
+/* NewUserMessage */
+"NewUserMessage" = "NewUserMessage";
+
+/* NewUserTitle */
+"NewUserTitle" = "NewUserTitle";
+
+/* No */
+"No" = "ノー";
+
+/* No Compatible Apps */
+"No Compatible Apps" = "互換性のあるアプリない";
+
+/* No Diary Entries fell within the targeted analysis period. */
+"No Diary Entries fell within the targeted analysis period." = "No Diary Entries fell within the targeted analysis period.";
+
+/* No Quick Build Collections have been defined yet. */
+"No Quick Build Collections have been defined yet." = "いいえトラッカーのコレクションは、まだ定義されていません。";
+
+/* No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken. */
+"No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken." = "No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken.";
+
+/* No previous entry containing this Tracker object was found to copy from. */
+"No previous entry containing this Tracker object was found to copy from." = "このトラッカーのオブジェクトを含む以前のエントリがコピー元に見つかりませんでした。";
+
+/* Noon\nto\n6pm */
+"Noon\nto\n6pm" = "午前12時〜18:00";
+
+/* Number of entries: */
+"Number of entries:" = "エントリ数：";
+
+/* OK */
+"OK" = "OK";
+
+/* Observation Time */
+"Observation Time" = "観測時間";
+
+/* Ok */
+"Ok" = "OK";
+
+/* One or more Trackers are still processing information. Please wait just a moment before saving this Entry. */
+"One or more Trackers are still processing information. Please wait just a moment before saving this Entry." = "One or more Trackers are still processing information. Please wait just a moment before saving this Entry.";
+
+/* Onset */
+"Onset" = "発症";
+
+/* Onset */
+"Onset:" = "発症:";
+
+/* Open */
+"Open" = "広げる";
+
+/* Open the Tracker item selection window to choose the Trackers to be included with this entry. */
+"Open the Tracker item selection window to choose the Trackers to be included with this entry." = "Open the Tracker item selection window to choose the Trackers to be included with this entry.";
+
+/* Open this page in Safari? */
+"Open this page in Safari?" = "Safariでこのページを開くには？";
+
+/* Open.. */
+"Open.." = "開いて..";
+
+/* Opening all report sections */
+"Opening all report sections" = "すべてのレポートセクションを開く";
+
+/* Open the Tracker views to show and edit the Tracker details. */
+"Opens all the Tracker views to show and edit the Tracker details." = "トラッカーの詳細を表示および編集するためのトラッカービューを開きます。";
+
+/* Other Symptom Cloud */
+"Other Symptom Cloud" = "その他の症状クラウド";
+
+/* Other Symptom Frequency */
+"Other Symptom Frequency" = "その他の症状周波数";
+
+/* Packing Paths */
+"Packing Paths" = "図面を簡略化";
+
+/* Pain Description Cloud */
+"Pain Description Cloud" = "痛みの説明クラウド";
+
+/* Pain Description Frequency */
+"Pain Description Frequency" = "痛みの説明周波数";
+
+/* Pain Duration Frequency */
+"Pain Duration Frequency" = "痛みの持続時間周波数";
+
+/* Pain Duration vs Time */
+"Pain Duration vs Time" = "痛みの持続時間対時間";
+
+/* Pain Level */
+"Pain Level" = "痛みのレベル";
+
+/* Pain Level Change Since Med Was Taken */
+"Pain Level Change Since Med Was Taken" = "薬を取った後の痛みに変更";
+
+/* Pain Level Distribution */
+"Pain Level Distribution" = "痛みのレベル分布";
+
+/* Pain Level Range */
+"Pain Level Range" = "痛みのレベル範囲";
+
+/* Pain Level Range Per Duration */
+"Pain Level Range Per Duration" = "痛みレベル対時間";
+
+/* Pain Level Range Per Onset */
+"Pain Level Range Per Onset" = "痛みのレベル対発症";
+
+/* Pain Level When Taken */
+"Pain Level When Taken" = "痛みのレベルを撮影";
+
+/* Pain Level over Day Night Hours */
+"Pain Level over Day Night Hours" = "デイの痛みレベル対時間";
+
+/* Pain Level vs Time */
+"Pain Level vs Time" = "痛みレベル対時間";
+
+/* Pain Level when Taken */
+"Pain Level when Taken" = "痛みのレベルを撮影";
+
+/* Pain Onset Frequency */
+"Pain Onset Frequency" = "痛みの発症の頻度";
+
+/* Pain Onset vs Time */
+"Pain Onset vs Time" = "痛みの発症対時間";
+
+/* Painter header title */
+"Pain Painter" = "痛みの画家";
+
+/* Pain Range per Duration */
+"Pain Range per Duration" = "痛みレベル対時間";
+
+/* Pain Range per Humidity Levels */
+"Pain Range per Humidity Levels" = "痛みのレベル対湿度";
+
+/* Pain Range per Humidity Range */
+"Pain Range per Humidity Range" = "痛みのレベル対湿度";
+
+/* Pain Range per Onset Level */
+"Pain Range per Onset Level" = "痛みのレベル対発症";
+
+/* Pain Range per Pressure Trend */
+"Pain Range per Pressure Trend" = "痛み対圧力トレンド";
+
+/* Pain Range per Weather Condition */
+"Pain Range per Weather Condition" = "痛みのレベル対気象条件";
+
+/* Pain Reduction Percentage */
+"Pain Reduction Percentage" = "痛みの減少率";
+
+/* PainMap Paths */
+"PainMap Paths" = "PainMap Paths";
+
+/* PainMap Thumbnails */
+"PainMap Thumbnails" = "PainMap Thumbnails";
+
+/* Patient Info */
+"Patient Info" = "患者情報";
+
+/* Patient Name */
+"Patient Name" = "患者名";
+
+/* Patient name: */
+"Patient name:" = "患者名：";
+
+/* Pen size label */
+"Pen Size:" = "ペンのサイズ：";
+
+/* Percentage of Entries */
+"Percentage of Entries" = "エントリの割合";
+
+/* Performing Updates */
+"Performing Updates" = "更新を行う";
+
+/* Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available. */
+"Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available." = "Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available.";
+
+/* Please enter a unit description for quantities you will be tracking. */
+"Please enter a unit description for quantities you will be tracking." = "あなたがトラッキングされる数量の単位の説明を入力してください。";
+
+/* Precip Today */
+"Precip Today" = "降水今日";
+
+/* Presence of blood in stool? */
+"Presence of blood in stool?" = "排便の血液の存在？";
+
+/* Pressure */
+"Pressure" = "圧力";
+
+/* Pressure (in) */
+"Pressure (in)" = "圧力 (in)";
+
+/* Pressure (mb) */
+"Pressure (mb)" = "圧力 (mb)";
+
+/* Pressure Trend */
+"Pressure Trend" = "圧力トレンド";
+
+/* Pressure Trend vs Time */
+"Pressure Trend vs Time" = "圧力トレンド対時間";
+
+/* Pressure vs Time */
+"Pressure vs Time" = "圧力対時間";
+
+/* Print */
+"Print" = "印刷";
+
+/* Process has completed. */
+"Process has completed." = "プロセスが完了した";
+
+/* Processed on: */
+"Processed on:" = "処理された日付：";
+
+/* Qty Increment */
+"Qty Increment" = "数量インクリメント";
+
+/* Qty Taken */
+"Qty Taken" = "数量撮影";
+
+/* Qty Taken (%@) */
+"Qty Taken (%@)" = "数量撮影（%@）";
+
+/* Qty Units */
+"Qty Units" = "数量の単位";
+
+/* Quantity: */
+"Quantity:" = "数量：";
+
+/* Recorded Pain Level */
+"Recorded Pain Level" = "記録された痛みのレベル";
+
+/* Red */
+"Red" = "赤";
+
+/* Refresh */
+"Refresh" = "更新";
+
+/* Refresh Report Data */
+"Refresh Report Data" = "リフレッシュレポートデータ";
+
+/* Regenerate */
+"Regenerate" = "再生成";
+
+/* Regenerate Report */
+"Regenerate Report" = "レポートを再生成";
+
+/* Rel Humidity */
+"Rel Humidity" = "湿度";
+
+/* Relative Humidity % */
+"Relative Humidity %" = "湿度 %";
+
+/* Report Categories */
+"Report Categories" = "レポートのカテゴリ";
+
+/* Report Options */
+"Report Options" = "レポートオプション";
+
+/* Report Output Cache */
+"Report Output Cache" = "出力キャッシュレポート";
+
+/* Report created using: Chronic Pain Tracker */
+"Report created using: Chronic Pain Tracker" = "使用して作成されたレポート： Chronic Pain Tracker";
+
+/* Report generated: */
+"Report generated:" = "生成されたレポート：";
+
+/* Report name: */
+"Report name:" = "レポート名：";
+
+/* Report sections: */
+"Report sections:" = "レポートセクション：";
+
+/* Report title */
+"Reports" = "レポート";
+
+/* Sat */
+"Sat" = "土";
+
+/* Save */
+"Save" = "保存";
+
+/* Save Diary */
+"Save Diary" = "日記を保存";
+
+/* Saved Reports */
+"Saved Reports" = "レポート保管";
+
+/* Saves the changes made to this DiaryEntry and returns to the Diary History tableview. */
+"Saves the changes made to this DiaryEntry and returns to the Diary History tableview." = "このエントリの変更を保存し、[履歴]ビューに戻ります";
+
+/* Saving New Entries */
+"Saving New Entries" = "新規エントリの保存";
+
+/* Saving Path Data */
+"Saving Path Data" = "節約描画データ";
+
+/* Section count: */
+"Section Count:" = "セクションの数:";
+
+/* Select a Milestone Category */
+"Select a Milestone Category" = "マイルストーンカテゴリを選択してください";
+
+/* Select filter method */
+"Select filter method" = "フィルタ方法を選択します";
+
+/* Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry. */
+"Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry." = "下のテーブルから1つまたは複数のトラッカーを選択します。あなたの日記のエントリに追加するには、[適用]ボタンをタップします。";
+
+/* Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries. */
+"Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries." = "日記のエントリの作成を開始するには、上の日記を選択してください。日記の名前または説明を編集するには、付属品ボタンをタップします\ n \ nもしあなたが複数の日記を管理する機能（別の傷害のためまたは配偶者のための例：）を必要とする、そして我々はあなたが慢性疼痛のトラッカーのフルバージョンを見て示唆している。それは無限の別々の日記をサポートしています。";
+
+/* Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis. */
+"Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis." = "トリガされるReminderの時刻を選択します。この通知は、日常的に繰り返されます。";
+
+/* Selection Error */
+"Selection Error" = "選択エラー";
+
+/* Selection count: */
+"Selection count:" = "選択した番号:";
+
+/* Serious Application Error */
+"Serious Application Error" = "重大なアプリケーションエラー";
+
+/* Settings */
+"Settings" = "設定";
+
+/* Show Milestone on Graphs */
+"Show Milestone on Graphs" = "グラフ上のマイルストーンを表示";
+
+/* Simplifying Path Data */
+"Simplifying Path Data" = "Simplifying Path Data";
+
+/* Single Diary Entry Report */
+"Single Diary Entry Report" = "シングル日記レポート";
+
+/* Sleep */
+"Sleep" = "スリープ";
+
+/* Staleness Factor: */
+"Staleness Factor:" = "失効ファクター：";
+
+/* Staleness factor: */
+"Staleness factor:" = "失効ファクター：";
+
+/* Start date */
+"Start date" = "日付を開始";
+
+/* Start date: */
+"Start date:" = "日付を開始:";
+
+/* Start Date */
+"Start:" = "開始：";
+
+/* State */
+"State" = "状態";
+
+/* Station ID */
+"Station ID" = "駅アイデンティティ";
+
+/* Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique. */
+"Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique." = "ステップ1：あなたの日記の名前と説明を入力します。\nは注意してください\、日記の名は一意でなければなりません。";
+
+/* Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports. */
+"Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports." = "ステップ2：レポートの生成で使用されるデータを定義します。\n患者の名前をnがエクスポートされたレポートに追加されます。電子メールアドレスがデフォルトになります送信-へのレポートのエクスポート時に対処する。";
+
+/* Database Actions\n(Note: these actions cannot be reversed) */
+"Step 3: (Optional) If you are upgrading from an earlier version of CPT, you can import your previous entries into this Diary.\nIf you are a new user, this step is not necessary." = "ステップ3：（省略可能）は、CPTの以前のバージョンからアップグレードする場合は、あなたがこの日記に以前のエントリをインポートすることができます\ nもしあなたが新しいユーザで、この手順は必要ありません。";
+
+/* Step Date Range Backward */
+"Step Date Range Backward" = "Step Date Range Backward";
+
+/* Step Date Range Forward */
+"Step Date Range Forward" = "Step Date Range Forward";
+
+/* Stores processed data for report graphs */
+"Stores processed data for report graphs" = "Stores processed data for report graphs";
+
+/* Summary & Analysis Report */
+"Summary & Analysis Report" = "要約および分析レポート";
+
+/* Sun */
+"Sun" = "日";
+
+/* Symptoms */
+"Symptoms" = "現象";
+
+/* Tap \"View Report\" to generate a PDF or HTML version of the report for export. */
+"Tap \"View Report\" to generate a PDF or HTML version of the report for export." = "輸出のためのレポートのPDFまたはHTMLバージョンを生成するために \"レポートの表示\"をタップします。";
+
+/* Tap the Tracker row to choose which info to include in the report. */
+"Tap the Tracker row to choose which info to include in the report." = "レポートに含める情報を選択するトラッカーの行をタップします。";
+
+/* Tap the action key to generate the report. */
+"Tap the action key to generate the report." = "レポートを生成するためのアクションキーをタップします。";
+
+/* Temperature (℃) */
+"Temperature (℃)" = "温度 (℃)";
+
+/* Temperature (℉) */
+"Temperature (℉)" = "温度（℉）";
+
+/* Temperature vs Time */
+"Temperature vs Time" = "温度グラフ";
+
+/* That Display Name already exists. Please enter a unique name. */
+"That Display Name already exists. Please enter a unique name." = "その表示名は既に存在します。一意の名前を入力してください。";
+
+/* That name is already being used by another Diary. */
+"That name is already being used by another Diary." = "その名前がすでに別の日記で使用されています。";
+
+/* The Display Name must not be blank. */
+"The Display Name must not be blank." = "表示名をブランクにすることはできません。";
+
+/* The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker. */
+"The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker." = "このアプリケーションのLiteバージョンは、以前のバージョンからのデータのインポートをサポートしていません。\n\nフルバージョンでは、慢性疼痛のトラッカーの以前のバージョンからデータをインポートすることができます。\n";
+
+/* The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed. */
+"The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed." = "このアプリケーションのLiteバージョンは、単一の日記のみの使用をサポートしています。\n\nこの日記は削除できませんが、必要に応じて名前/説明を変更することができます。";
+
+/* The Patient Name will appear on reports. */
+"The Patient Name will appear on reports." = "患者名は、レポートに表示されます。";
+
+/* The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance. */
+"The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance." = "アプリケーションは重大なエラーが発生しました。終了し、アプリケーションを再起動するデバイスのホームボタンを押してください。このエラーが続く場合は、援助のためsupport@chronicstimulation.comにお問い合わせください。";
+
+/* The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report. */
+"The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report." = "添付されたHTMLファイルは、慢性疼痛のトラッカーのレポートのデータが含まれています。レポートを表示および/または印刷するには、いかなる伝統的なブラウザで開きます。";
+
+/* The data transfer options allow you to import/export a date based range of Diary Entries to/from the database. */
+"The data transfer options allow you to import/export a date based range of Diary Entries to/from the database." = "データ転送オプションを使用すると、へ/データベースから日誌記録の日付ベースの範囲をインポート/エクスポートすることができます。";
+
+/* The export process was not successful. Please try again, or contact Customer Support for additional assistance. */
+"The export process was not successful. Please try again, or contact Customer Support for additional assistance." = "エクスポートプロセスは正常終了しませんでした。やり直して、または追加の支援のためのカスタマサポートまでお問い合わせください。";
+
+/* The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored. */
+"The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored." = "通知はもはや存在しないか名前が変更されていることを日記（％@）を指します。通知は無視されます。";
+
+/* The selection is a Folder. Please select a File and try again. */
+"The selection is a Folder. Please select a File and try again." = "選択はフォルダです。ファイルを選択し、もう一度試してください。";
+
+/* The update you have just loaded needs to make one or more changes to the app's database before you can continue. Please select OK to begin the updates. */
+"The update you have just loaded needs to make one or more changes to the app's database before you can continue.\n\nPlease select OK to begin the update process." = "The update you have just loaded needs to make one or more changes to the app's database before you can continue.\n\nPlease select OK to begin the update process.";
+
+/* There are no Diaries available to report on. Please first create a Diary with entries before running reports. */
+"There are no Diaries available to report on. Please first create a Diary with entries before running reports." = "に報告するために利用可能な日記はありません。最初に実行レポートの前のエントリで日記を作成してください。";
+
+/* There are no Diary Entries to export within the date range provided (%@ to %@). */
+"There are no Diary Entries to export within the date range provided (%@ to %@)." = "指定された日付の範囲内でエクスポートする日記のエントリがない（％を@に%@)";
+
+/* There was a problem saving your Tracker Collection template. Please try again. */
+"There was a problem saving your Tracker Collection template. Please try again." = "あなたのトラッカーコレクションテンプレートを保存する問題がありました。もう一度やり直してください。";
+
+/* This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail. */
+"This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail." = "この情報は、レポートの生成時に使用されます。患者名は、エクスポートされたレポートに追加され、メールアドレスが指定されたデフォルトの送信先アドレスに使用されたときに電子メール経由でレポートをエクスポートする。";
+
+/* This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team. */
+"This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team." = "この表は、アプリケーションによって使用されるキャッシュと二次データストアへのアクセスを提供します。\n\n慢性刺激のサポートチームからの指示がない限り、これらの項目をリセットする必要はありません。";
+
+/* This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue? */
+"This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue?" = "これは永久にあなたの日記のデータが削除されます。このオプションからの回復処理はありません。続行しますか？";
+
+/* This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone. */
+"This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone." = "これは日記と、データベースからそのデータをすべて削除します。注意してください、このステップを取り消すことはできません。";
+
+/* This will reset the list to its original system values. It cannot be undone. Do you want to proceed? */
+"This will reset the list to its original system values. It cannot be undone. Do you want to proceed?" = "これは、元のシステムの値にリストをリセットします。それを元に戻すことはできません。続行しますか？";
+
+/* Thu */
+"Thu" = "木";
+
+/* Time to process: */
+"Time to process:" = "処理時間：";
+
+/* Timestamp */
+"Timestamp" = "タイムスタンプ";
+
+/* Title */
+"Title" = "タイトル";
+
+/* Top Pain Descriptions */
+"Top Pain Descriptions" = "痛みの説明";
+
+/* Top Pain Triggers */
+"Top Pain Triggers" = "大手痛みトリガ";
+
+/* Tracker Collections */
+"Tracker Collections" = "トラッカーのコレクション";
+
+/* Tracker Count:
+   Tracker count: */
+"Tracker Count:" = "トラッカーカウント：";
+
+/* Tracker Selection */
+"Tracker Selection" = "トラッカーの選択";
+
+/* Treatment */
+"Treatment" = "治療";
+
+/* Treatment Cloud */
+"Treatment Cloud" = "治療クラウド";
+
+/* Treatment Frequency */
+"Treatment Frequency" = "治療頻度";
+
+/* Trigger */
+"Trigger" = "トリガ";
+
+/* Trigger Cloud */
+"Trigger Cloud" = "トリガ雲";
+
+/* Trigger Frequency */
+"Trigger Frequency" = "トリガ周波数";
+
+/* Tue */
+"Tue" = "火";
+
+/* UV Index */
+"UV Index" = "UVインデックス";
+
+/* Units */
+"Units" = "ユニット";
+
+/* Update is Running */
+"Update is Running" = "アップデートが実行されている";
+
+/* Upgrade */
+"Upgrade" = "アップグレード";
+
+/* Upgrade Now */
+"Upgrade Now" = "今すぐアップグレード";
+
+/* Usage count: */
+"Usage count:" = "使用カウント：";
+
+/* Use the Date/Time Picker to select the desired timestamp for this DiaryEntry. */
+"Use the Date/Time Picker to select the desired timestamp for this DiaryEntry." = "このDiaryEntryの目的のタイムスタンプを選択して日付/時刻ピッカーを使用してください。";
+
+/* View label */
+"View:" = "表示：";
+
+/* Weather */
+"Weather" = "天候";
+
+/* Weather Data */
+"Weather Data" = "気象データ";
+
+/* Wed */
+"Wed" = "水";
+
+/* Weekday Pain Levels */
+"Weekday Pain Levels" = "毎日痛みレベル";
+
+/* Which type of report do you want to create? */
+"Which type of report do you want to create?" = "Which type of report do you want to create?";
+
+/* Windchill */
+"Windchill" = "Windchill";
+
+/* Yellow */
+"Yellow" = "イエロー";
+
+/* Yes */
+"Yes" = "はい";
+
+/* You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox. */
+"You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox." = "あなたが現在お使いのDropboxアカウントにログインしていません。レポートを保存することができる前に、Dropboxのにログインする必要があります。";
+
+/* You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds. */
+"You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds." = "あなたは、アプリケーションへのデータの入力管理を支援する1つまたは複数の毎日リマインダを作成することができます。単に追加ボタンをクリックし、通知のための時間を選択します。リマインダは、押して2秒間テーブルの上に保持して、編集モードに切り替えることで削除することができます。";
+
+/* You can remove this Diary from your database. Please note, this step can NOT be undone. */
+"You can remove this Diary from your database. Please note, this step can NOT be undone." = "あなたのデータベースからこの日記を削除することができます。注意してください、このステップを元に戻すことができません。";
+
+/* You did not enter a valid number. Please try again. */
+"You did not enter a valid number. Please try again." = "あなたは有効な数値が入力されていません。もう一度やり直してください。";
+
+/* You do not have any apps on your device that have registered for opening this type of file. */
+"You do not have any apps on your device that have registered for opening this type of file." = "あなたはこの種類のファイルを開くために登録しているデバイス上の任意のアプリを持っていない。";
+
+/* You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed? */
+"You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed?" = "あなたが現在のプラットフォームにインポートすることができます以前のバージョンからの%i個のアイテムを持っている。続行しますか？\n";
+
+/* You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed? */
+"You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed?" = "あなたが現在のプラットフォームにインポートすることができます以前のバージョンからの%i個のアイテムを持っている。この多くの項目で、インポートプロセスは数分かかる場合があります。したがって、完全なバッテリーの充電をしてもらうか、またはプロセス中にUSBケーブルを介して給電されることをお勧めします。続行しますか？";
+
+/* You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@\n\nDo you wish to continue? */
+"You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@\n\nDo you wish to continue?" = "You have selected the following zip file for Diary Entry import:\n\n%1$@\n\n%2$@\n\nDo you wish to continue?";
+
+/* You must enter a numerical value for the analysis time. */
+"You must enter a numerical value for the analysis time." = "あなたは、分析時間のための数値を入力する必要があります。";
+
+/* You must enter a numerical value for the increment quantity. */
+"You must enter a numerical value for the increment quantity." = "あなたは、増分の量のための数値を入力する必要があります。";
+
+/* You must select a Collection from the list below before it can be applied to your Diary Entry. */
+"You must select a Collection from the list below before it can be applied to your Diary Entry." = "それがあなたの日記のエントリに適用することができる前に、以下のリストからコレクションを選択する必要があります。";
+
+/* You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available. */
+"You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available." = "You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available.";
+
+/* Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue? */
+"Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue?" = "あなたの日記のエントリーはすでに1つまたは複数のトラッカーが含まれています。続行すると、それらのトラッカーは削除され、選択されたコレクションからトラッカーに置き換えられます。続行しますか？";
+
+/* Your collection cannot be saved without a proper name. Please try again. */
+"Your collection cannot be saved without a proper name. Please try again." = "あなたのコレクションは、適切な名前なしで保存することはできません。もう一度やり直してください。";
+
+/* Zip */
+"Zip" = "郵便番号";
+
+/* Entries this month */
+"entries this month" = "エントリ今月";
+
+/* to: */
+"to:" = "へ：";
+
+/* 1 Month */
+" 1 Month" = "1ヶ月";
+
+/* 2 Month */
+" 2 Month" = "2月";
+
+/* 3 Month */
+" 3 Month" = "3ヶ月";
+
+/* 6 Month */
+" 6 Month" = "6ヶ月";
+
+/* 9 Month */
+" 9 Month" = "9月";
+
+/* 12 Month */
+"12 Month" = "12ヶ月";
+
+/* Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed. */
+"Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed." = "以前に生成されたレポートドキュメント（PDF、HTML、およびCSV出力）にアクセスします。\n\nそれらをあなたのデバイスに住んだり、印刷、メール確認、または必要に応じて他の装置に同期します。";
+
+/* Add Diary Entry */
+"Add Diary Entry" = "日誌項目を追加する";
+
+/* Add Diary */
+"Add Diary" = "日記を追加";
+
+/* Add-On Features */
+"Add-On Features" = "アドオン機能";
+
+/* Backup & Restore */
+"Backup & Restore" = "バックアップ＆リストア";
+
+/* Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record. */
+"Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record." = "各日記の完全な詳細は次の形式を確認して簡単に表示されます。\n\n毎日の健康記録にあなたの日にあなたとあなたの医師完全な可視性を提供します。";
+
+/* proVersionTextViewText */
+"Congratulations. This version of Chronic Pain Tracker already includes all currently available feature add-ons. With future updates, we may offer additional features here, so check back later.\n\nWe do appreciate your business and hope that our product helps you to better manage your chronic pain condition. If you have questions, suggestions, or want to share your story about the impact Chronic Pain Tracker has had for you, please contact us at support@chronicstimulation.com." = "おめでとうございます。Chronic Pain Trackerのこのバージョンは、既に、現在利用可能なすべての機能のアドオンが含まれています。将来のアップデートでは、我々はここで追加の機能を提供するかもしれないので、後で戻って確認してください。\n\n私達はあなたのビジネスに感謝し、私たちの製品は、より良いあなたの慢性的な痛みの状態を管理するために役立つことを願っていない。ご質問、提案がある場合や、衝撃Chronic Pain Trackerがあなたのために持っていた約あなたの物語を共有したい場合は、support@chronicstimulation.comまでご連絡ください。";
+
+/* Contents */
+"Contents" = "内容物";
+
+/* CPT Help */
+"CPT Help" = "CPTのヘルプ";
+
+/* Daily Pain Avg vs Time */
+"Daily Pain Avg vs Time" = "毎日痛み平均対時間";
+
+/* Database Restore Starting */
+"Database Restore Starting" = "データベースの起動を復元";
+
+/* Diary Capacity Limit */
+"Diary Capacity Limit" = "日記の容量制限";
+
+/* Diary History Report */
+"Diary History Report" = "日記の履歴レポート";
+
+/* Diary: %@ */
+"Diary: %@" = "日記：%@";
+
+/* entries */
+"entries" = "エントリー";
+
+/* Expand Your Diary Capacity: */
+"Expand Your Diary Capacity:" = "あなたの日記の容量を拡張する：";
+
+/* Export Graph */
+"Export Graph" = "グラフのエクスポート";
+
+/* Feature Addition */
+"Feature Addition" = "機能追加";
+
+/* Feature Expansion Options: */
+"Feature Expansion Options:" = "機能拡張オプション：";
+
+/* Filtering is Active */
+"Filtering is Active" = "フィルタリングがアクティブである";
+
+/* Filtering is Inactive */
+"Filtering is Inactive" = "フィルタリングは、非アクティブである";
+
+/* Graph Settings */
+"Graph Settings" = "グラフの設定";
+
+/* Help */
+"Help" = "助ける";
+
+/* Month Selection */
+"Month Selection" = "月の選択";
+
+/* Multi-Diary Support */
+"Multi-Diary Support" = "マルチ日記サポート";
+
+/* No Backup File Selected */
+"No Backup File Selected" = "選択したバックアップファイルがありません";
+
+/* Not Available */
+"Not Available" = "利用しない";
+
+/* Pain Entries vs Time */
+"Pain Entries vs Time" = "痛みのエントリー対時間";
+
+/* Pain Range per Other Symptom */
+"Pain Range per Other Symptom" = "痛みレベルVSその他の症状";
+
+/* Pain Range per Pain Description */
+"Pain Range per Pain Description" = "痛みレベル対痛みの説明";
+
+/* Pain Range per Pain Trigger */
+"Pain Range per Pain Trigger" = "トリガーの痛みレベルVSタイプ";
+
+/* Pain Range per Precipitation */
+"Pain Range per Precipitation" = "痛みレベル対降水";
+
+/* Pain Range per Pressure Range */
+"Pain Range per Pressure Range" = "痛みのレベルVS圧レベル";
+
+/* Pain Range per Temp Range */
+"Pain Range per Temp Range" = "痛みのレベル対室外温度";
+
+/* Pain Range per Temperature Range */
+"Pain Range per Temperature Range" = "痛みのレベル対室外温度";
+
+/* Pain Range per Treatment */
+"Pain Range per Treatment" = "痛みレベル対トリートメント";
+
+/* Report Archive */
+"Report Archive" = "レポートアーカイブ";
+
+/* Save & Continue */
+"Save & Continue" = "保存して続行";
+
+/* Select a period to view. */
+"Select a period to view." = "表示する期間を選択します。";
+
+/* Select the graph timeframe: */
+"Select the graph timeframe:" = "グラフの時間枠を選択します。";
+
+/* Select the type of graph to display: */
+"Select the type of graph to display:" = "表示するグラフの種類を選択します。";
+
+/* Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends. */
+"Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends." = "あなたの日記の統計分析は、あなたの慢性的な痛みの歴史を視覚的に要約すると次の医師の訪問のためにあなたを準備します。\n\n30種類以上の可視化では、キー·健康の動向を識別する際に役立ちます。";
+
+/* Stop Showing Help */
+"Stop Showing Help" = "ヘルプの表示を停止";
+
+/* Summary Report */
+"Summary Report" = "概略報告";
+
+/* Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary. */
+"Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary." = "あなたと仕事したい日記をタップします。これは、新しい日記を作成日記履歴を表示したり、レポートを実行するためのアクティブ日記になります。\n\nあなたは青いアクセサリボタンをタップすることで日記の詳細を編集することができます。\n\n新しい日記を作成するには、\"追加日記\"ボタンをタップします。";
+
+/* The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report? */
+"The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report?" = "レポートを実行する前に日記を保存する必要があります。あなたは、レポートに保存して続行しますか？";
+
+/* The purchase of %@ was cancelled or failed to process. */
+"The purchase of %@ was cancelled or failed to process." = "%@の購入はキャンセル処理に失敗しました。";
+
+/* The purchase of %@ was successfully completed. */
+"The purchase of %@ was successfully completed." = "%@の購入が正常に完了しました。";
+
+/* These optional feature components can be purchased at any time. */
+"These optional feature components can be purchased at any time." = "これらのオプション機能コンポーネントはいつでも購入することができます。";
+
+/* This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button. */
+"This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button." = "この日記は現在空です。\n\nあなたのデータを記録する前に、追加/トラッカーを削除ボタンをタップすることによって、1つ以上のトラッカーの項目を選択する必要があります。";
+
+/* This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more. */
+"This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more." = "このオプションでは、あなたのDropboxアカウントに保存されたバックアップには、ローカル·データベースを復元することができます。これは、あなたの他のデバイスからデータベースまたはCPT（フルバージョンへの例えばLite）の別のバージョンに移行することができます。\n\n警告：このプロセスは、ローカルデータベースが上書きされ、元に戻すことはできません。\n\n続行するには、右側の表にリストされているバックアップファイルのいずれかを選択します。その後、以下の[Restore]ボタンをタップします。データベースのサイズによっては、この処理に数秒​​以上かかる場合があります。";
+
+/* Time vs Humidity */
+"Time vs Humidity" = "時間と湿度";
+
+/* Time vs Pressure */
+"Time vs Pressure" = "圧力対時間";
+
+/* Time vs Temperature */
+"Time vs Temperature" = "時間と温度";
+
+/* Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application. */
+"Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application." = "あなたのCPTのデータベースのバックアップを作成するために使用します。それは他のデバイスとCPTアプリケーションの他のバージョンからアクセスできるように圧縮されたバックアップは、あなたのDropboxアカウントに追加されます。";
+
+/* WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation? */
+"WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation?" = "警告：あなたの現在の日記のデータベースを上書きしようとしています。このプロセスを取り消すことはできません。あなたは、復元操作を続行してもよろしいですか？";
+
+/* Would you like to open the App Store and view Chronic Pain Tracker? */
+"Would you like to open the App Store and view Chronic Pain Tracker?" = "あなたは、App StoreとビューChronic Pain Trackerを開きますか？";
+
+/* Would you like to open this page in Safari? */
+"Would you like to open this page in Safari?" = "あなたは、Safariでこのページを開きますか？";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used." = "あなたが現在あなたのDropboxアカウントにログインしていません。バックアップオプションを使用する前に、あなたのDropboxアカウントと、このアプリへのリンクにログインする必要があります。";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used." = "あなたが現在あなたのDropboxアカウントにログインしていません。リストアオプションを使用する前に、あなたのDropboxアカウントと、このアプリへのリンクにログインする必要があります。";
+
+/* You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds. */
+"You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds." = "あなたは、アプリケーションへのデータの入力管理を支援するために1つ以上の毎日リマインダを作成することができます。単に追加]ボタンをクリックして、アラームの時刻を選択します。\n\nアラームは2秒間押すと、テーブルの上に保持することにより、編集モードに切り替えることにより、削除することができます。";
+
+/* You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled. */
+"You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled." = "あなたはすでに無制限日記エントリのサポートオプションを購入しました。\nしたがって、この拡張オプションを購入する必要はありません。\nこのトランザクションは、今ではキャンセルされます。";
+
+/* You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary. */
+"You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary." = "あなたはまだ、複数の日記のサポートを有効にしていない。複数の日記を作成および管理するために、マルチ日記·サポート·オプションを購入する。";
+
+/* You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours. */
+"You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours." = "あなたは、あなたの日記の容量を拡張する方法は2つのオプションがあります。\nあなたが希望の場合ペイ·アズ·ユー·ゴー、モデルを単に必要に応じて50または200エントリ拡張パックを購入してください。を\nまた、無制限の日記エントリのサポート機能を購入し、あなたが好きな多くの日記のエントリとして追加することができます。選択はあなた次第です。";
+
+/* You need to select a file from the table to the right before the Restore process can begin. */
+"You need to select a file from the table to the right before the Restore process can begin." = "復元プロセスが開始する前に、テーブルから右にファイルを選択する必要があります。";
+
+/* Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry. */
+"Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry." = "あなたの日記は現在空です。\n\n最初の日記のエントリを作成するには\"追加日記\"ボタンをタップします。";
+
+/* Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option. */
+"Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option." = "あなたの日記は現在いっぱいです。さらにエントリを追加する前に、拡張パックを購入することによって、日記の容量を増やすことや、無制限の日記エントリのサポートオプションを購入することで、容量制限を削除することができます必要があります。";
+
+/* Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having. */
+"Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having." = "あなたの電子メールで最新のアプリケーション·ログ·ファイルを送信したいのですか？ログファイルは、あなたが持っている可能性のある問題を診断する上で私たちを支援することができます。";
+
+/* Diary %@ includes %i Diary Entries */
+"Diary %@ includes %i Diary Entries" = "日記%@は%i日記を含む";
+
+/* Recent Pain Levels */
+"Recent Pain Levels" = "最近の痛みのレベル";
+
+/* Showing %i entries. */
+"Showing %i entries." = "%iのエントリを表示しています。";
+
+/* Showing all Diary Entries with no filtering. */
+"Showing all Diary Entries with no filtering." = "フィルタリングなしですべての日誌項目を表示しています。";
+
+/* Showing Diary Entries between %@ and %@. */
+"Showing Diary Entries between %@ and %@." = "%@と%@の間日記のエントリを表示しています。";
+
+/* Showing Diary Entries for %@ and later. */
+"Showing Diary Entries for %@ and later." = "%@の日誌項目を表示し、後で。";
+
+/* Diary Details */
+"Diary Details" = "日記の詳細";
+
+/* The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export. */
+"The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export." = "日記は空です。\n\n現在の日記はエクスポートする任意の日誌項目が含まれていません。";
+
+/* The Diary must have a unique Name before being saved. Please change the Name and then try to save again. */
+"The Diary must have a unique Name before being saved. Please change the Name and then try to save again." = "日記は、保存される前にユニークな名前を持つ必要があります。名前を変更してから、もう一度保存してください。";
+
+/* Active */
+"Active" = "アクティブ";
+
+/* Default */
+"Default" = "デフォルト";
+
+/* Deleting Diary */
+"Deleting Diary" = "日記を削除";
+
+/* Diaries */
+"Diaries" = "日記";
+
+/* Change Timestamp */
+"Change Timestamp" = "日付/時刻を変える";
+
+/* Select Trackers */
+"Select Trackers" = "トラッカーを選択";
+
+/* Generate Report */
+"Generate Report" = "レポートを生成する";
+
+/* Use Current Time/Date */
+"Use Current Time/Date" = "今選択";
+
+/* It is %@.\nTime for your next Chronic Pain Tracker diary entry. */
+"It is %@.\nTime for your next Chronic Pain Tracker diary entry." = "それは%@です。\nあなたの次のChronic Pain Tracker日記エントリに要する時間。";
+
+/* Change Reporting Period */
+"Change Reporting Period" = "レポート期間を変更";
+
+/* Change the Reporting Period to use data from earlier in your Diary. */
+"Change the Reporting Period to use data from earlier in your Diary." = "あなたの日記の以前のデータを使用するレポート期間を変更します。";
+
+/* Sample Output: */
+"Sample Output:" = "サンプルの出力：";
+
+/* Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report. */
+"Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report." = "日記データのPDFまたはHTMLバージョンを生成するために \"レポートの表示\"をタップします。\n\nあなたのレポートに含めるトラッカーを選択するためのアイコンをタップします。";
+
+/* Today */
+"Today" = "今日";
+
+/* Activate Sync Services */
+"Activate Sync Services" = "シンクサービスをアクティブにします";
+
+/* Activity Level Frequency */
+"Activity Level Frequency" = "活動レベル周波数";
+
+/* Activity Level History */
+"Activity Level History" = "活動レベル履歴";
+
+/* Activity Level */
+"Activity Level" = "活動レベル";
+
+/* Activity */
+"Activity" = "活動";
+
+/* Apply a Collection */
+"Apply a Collection" = "コレクションを選択";
+
+/* Before you can create Diary Entries, you need to Add a New Diary. */
+"Before you can create Diary Entries, you need to Add a New Diary." = "あなたは日記のエントリを作成する前に、新しい日記を追加する必要があります。";
+
+/* Blood Pressure (mmHg) */
+"Blood Pressure (mmHg)" = "血圧（mmHgの）";
+
+/* Blood Pressure History */
+"Blood Pressure History" = "血圧";
+
+/* Body Weight (kg) */
+"Body Weight (kg)" = "体重（キロ）";
+
+/* Body Weight (lbs) */
+"Body Weight (lbs)" = "体重（ポンド）";
+
+/* Body Weight History */
+"Body Weight History" = "体重履歴";
+
+/* BP */
+"BP" = "血圧";
+
+/* Daily Sleep History */
+"Daily Sleep History" = "毎日の睡眠履歴";
+
+/* Deactivate Sync on this Device */
+"Deactivate Sync on this Device" = "このデバイスの同期を無効にします";
+
+/* Define a Collection */
+"Define a Collection" = "新しいコレクション";
+
+/* Disposition */
+"Disposition" = "処分";
+
+/* Do want to Restore previously made purchases? */
+"Do want to Restore previously made purchases?" = "以前に行われた購入を復元しますか？";
+
+/* Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker. */
+"Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker." = "あなたは、Sync Managerはクラウドリポジトリに保存されたデータを暗号化しますか？\n\nもしそうなら、あなたは Chronic Pain Tracker を実行している各デバイス上で使用する必要があり、パスワードを入力するように求められます。";
+
+/* Encryption Option */
+"Encryption Option" = "暗号化オプション";
+
+/* Enter Password */
+"Enter Password" = "Entrez Mot de passe";
+
+/* Entry Error */
+"Entry Error" = "入力エラー";
+
+/* Height */
+"Height" = "高さ";
+
+/* Hours of Sleep */
+"Hours of Sleep" = "睡眠時間";
+
+/* Login */
+"Login" = "ログイン";
+
+/* Manual Synchronization Failed */
+"Manual Synchronization Failed" = "手動同期が失敗しました";
+
+/* Manual Synchronization Succeeded */
+"Manual Synchronization Succeeded" = "手動同期が成功しました";
+
+/* Mental Disposition History */
+"Mental Disposition History" = "メンタル処分履歴";
+
+/* Mental */
+"Mental" = "メンタル";
+
+/* Mood History */
+"Mood History" = "ムード履歴";
+
+/* Mood Stability History */
+"Mood Stability History" = "気分安定履歴";
+
+/* Operation Failed */
+"Operation Failed" = "操作は失敗しました";
+
+/* Operation Succeded */
+"Operation Succeded" = "操作は正常に終了しました";
+
+/* Operation Succeeded */
+"Operation Succeeded" = "操作は正常に終了しました";
+
+/* Overnight Sleep Hours */
+"Overnight Sleep Hours" = "一晩スリープ時間";
+
+/* Overnight Sleep Interruption Frequency */
+"Overnight Sleep Interruption Frequency" = "一晩スリープ割り込み周波数";
+
+/* Pain Range per Activity Level */
+"Pain Range per Activity Level" = "痛み対活動レベル";
+
+/* Pain Range per Activity Levels */
+"Pain Range per Activity Levels" = "痛み対活動レベル";
+
+/* Pain Range per BMI Level */
+"Pain Range per BMI Level" = "痛みレベル対BMI";
+
+/* Pain Range per BMI Range */
+"Pain Range per BMI Range" = "痛みレベル対BMI";
+
+/* Pain Range per Diastolic BP */
+"Pain Range per Diastolic BP" = "痛みレベル対拡張期血圧";
+
+/* Pain Range per Mood Disposition */
+"Pain Range per Mood Disposition" = "痛みのレベル対メンタル処分";
+
+/* Pain Range per Mood Range */
+"Pain Range per Mood Range" = "痛みのレベル対メンタル処分";
+
+/* Pain Range per Mood Stability Level */
+"Pain Range per Mood Stability Level" = "痛みレベル対精神的安定";
+
+/* Pain Range per Mood Stability */
+"Pain Range per Mood Stability" = "痛みレベル対精神的安定";
+
+/* Pain Range per Pulse Rate */
+"Pain Range per Pulse Rate" = "痛みのレベル対パルスレート";
+
+/* Pain Range per Sleep Hours */
+"Pain Range per Sleep Hours" = "睡眠の痛みレベルVS時間";
+
+/* Pain Range per Sleep Quality */
+"Pain Range per Sleep Quality" = "睡眠の痛みレベルVS品質";
+
+/* Pain Range per Stress Level */
+"Pain Range per Stress Level" = "痛みレベル対精神的ストレス";
+
+/* Pain Range per Systolic BP */
+"Pain Range per Systolic BP" = "痛みのレベル対収縮期血圧";
+
+/* Pain Range per Total Sleep Hours */
+"Pain Range per Total Sleep Hours" = "睡眠の痛みレベルVS時間";
+
+/* Pain Range per Weight Level */
+"Pain Range per Weight Level" = "痛み対重量レベル";
+
+/* Pain Range per Weight Range */
+"Pain Range per Weight Range" = "痛み対重量レベル";
+
+/* Password */
+"Password" = "パスワード";
+
+/* Pulse Rate (BPM) */
+"Pulse Rate (BPM)" = "脈拍数（BPM）";
+
+/* Pulse Rate History */
+"Pulse Rate History" = "パルスレート過去";
+
+/* Quality of Sleep */
+"Quality of Sleep" = "睡眠の質を";
+
+/* Sleep Aid Impact on Sleep Hours */
+"Sleep Aid Impact on Sleep Hours" = "薬の影響をスリープ";
+
+/* Sleep  Aid Impact */
+"Sleep Aid Impact" = "薬の影響をスリープ";
+
+/* Sleep Hours Per Day */
+"Sleep Hours Per Day" = "1日あたりの睡眠時間";
+
+/* Sleep Hours */
+"Sleep Hours" = "睡眠時間";
+
+/* Sleep Interruption Frequency */
+"Sleep Interruption Frequency" = "中断周波数";
+
+/* Stress History */
+"Stress History" = "応力履歴";
+
+/* Stress Level History */
+"Stress Level History" = "応力履歴";
+
+/* This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button. */
+"This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button." = "この日記のエントリーは現在空です。\n\nあなたのデータを記録する前に、選択トラッカーボタンをタップすることによって、1つ以上のトラッカーの項目を選択する必要があります。";
+
+/* Time to Fall Asleep Frequency */
+"Time to Fall Asleep Frequency" = "スリープまでの時間";
+
+/* Time To Fall Asleep Frequency */
+"Time To Fall Asleep Frequency" = "スリープまでの時間";
+
+/* Time to Fall Asleep */
+"Time to Fall Asleep" = "スリープまでの時間";
+
+/* Time vs Activity Level */
+"Time vs Activity Level" = "活動レベル対時間";
+
+/* Times Sleep Interrupted */
+"Times Sleep Interrupted" = "割り込みカウントスリープ";
+
+/* Type of Sleep */
+"Type of Sleep" = "タイプスリープ";
+
+/* Weight */
+"Weight" = "重量";
+
+/* Temperature */
+"Temperature" = "温度";
+
+/* End Date: */
+"End Date:" = "最後の日付:";
+
+/* Remove Entries from Diary */
+"Remove Entries from Diary" = "エクスポートされたオブジェクトを削除する";
+
+/* Remove Entries */
+"Remove Entries" = "オブジェクトを削除する";
+
+/* Start Date: */
+"Start Date:" = "日付を開始:";
+
+/* Moving Avg Period */
+"Moving Avg Period" = "移動平均期間";
+
+/* days */
+"days" = "日";
+
+/* Pain when taken: */
+"Pain when taken: " = "メッドが撮影された痛みのレベル";
+
+/* Daily Totals: */
+"Daily Totals: " = "毎日合計：";
+
+/* Pain Impact: */
+"Pain Impact: " = "痛みへの影響";
+
+/* Refresh Weather Data */
+"Refresh Weather Data" = "リフレッシュ気象データ";
+
+/* Submit */
+"Submit" = "提出する";
+

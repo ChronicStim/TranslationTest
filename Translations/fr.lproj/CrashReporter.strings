@@ -1,0 +1,39 @@
+/* CrashReporter.strings
+ PainTracker
+ 
+ Created by Development on 8/2/10.
+ Copyright 2010 Chronic Stimulation, LLC. All rights reserved. */
+
+/* Alert box button if the users wants to send crash data always automatically */
+"Always" = "Toujours";
+
+/* Description explaining that crash data has been found and ask the user if the data might be uplaoded to the developers server */
+"CrashDataFoundDescription" = "Le programme s'est planté auparavant. Seriez-vous d'accord de fournir les données d'accident de façon anonyme, ils peuvent essayer de résoudre le problème.";
+
+/* Crash dialogTitle showing in the alert box when crash report data has been found */
+"CrashDataFoundTitle" = "Données du plantage";
+
+/* Full text telling the bug is fixed and an update is available in the AppStore */
+"CrashResponseAvailable" = "Le bug qui faisait que votre problème a été résolu et la nouvelle version de la Douleur Chronique Tracker est maintenant dans l'AppStore. S'il vous plaît!";
+
+/* Full text telling the bug is fixed and will be available in the next release */
+"CrashResponseNextRelease" = "Le bug qui faisait que votre problème a été résolu et la solution sera inclus dans la prochaine version de la Douleur Chronique Tracker.";
+
+/* Title for the alertview giving feedback about the crash */
+"CrashResponseTitle" = "Bug status";
+
+/* Full text telling the bug is fixed and the new release is waiting at Apple */
+"CrashResponseWaitingApple" = "Le bug qui faisait que votre problème a été résolu et la nouvelle version de la Douleur Chronique Tracker est en attente d'approbation par Apple";
+
+/* For dialogs no buttons */
+"No" = "Non";
+
+/* For dialogs ok buttons */
+"Ok" = "Ok";
+
+/* Text showing in a processing box that the crash data is being uploaded to the server */
+"Sending" = "Sending ...";
+
+/* Global stringsFor dialogs yes buttons */
+"Yes" = "Oui";
+

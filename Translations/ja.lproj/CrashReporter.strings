@@ -1,0 +1,39 @@
+/* CrashReporter.strings
+ PainTracker
+ 
+ Created by Development on 8/2/10.
+ Copyright 2010 Chronic Stimulation, LLC. All rights reserved. */
+
+/* Alert box button if the users wants to send crash data always automatically */
+"Always" = "常に";
+
+/* Description explaining that crash data has been found and ask the user if the data might be uplaoded to the developers server */
+"CrashDataFoundDescription" = "このアプリは、以前クラッシュあなたが匿名クラッシュデータは、彼らがこの問題を解決しようとすることができるよう開発者に提供しますか？";
+
+/* Crash dialogTitle showing in the alert box when crash report data has been found */
+"CrashDataFoundTitle" = "クラッシュデータが見つかりません";
+
+/* Full text telling the bug is fixed and an update is available in the AppStore */
+"CrashResponseAvailable" = "あなたの問題は慢性疼痛トラッカーの新しいバージョンが解決されており、現在は、AppStoreにあるバグはアップデートしてください！";
+
+/* Full text telling the bug is fixed and will be available in the next release */
+"CrashResponseNextRelease" = "あなたの問題が解決解決されている慢性疼痛トラッカーの次のバージョンに含まれるバグ。";
+
+/* Title for the alertview giving feedback about the crash */
+"CrashResponseTitle" = "バグステータス";
+
+/* Full text telling the bug is fixed and the new release is waiting at Apple */
+"CrashResponseWaitingApple" = "あなたの問題は慢性疼痛トラッカーの新バージョンのAppleによる承認を待っている解決されているバグ。";
+
+/* For dialogs no buttons */
+"No" = "ノー";
+
+/* For dialogs ok buttons */
+"Ok" = "良し";
+
+/* Text showing in a processing box that the crash data is being uploaded to the server */
+"Sending" = "Sending ...";
+
+/* Global stringsFor dialogs yes buttons */
+"Yes" = "はい";
+

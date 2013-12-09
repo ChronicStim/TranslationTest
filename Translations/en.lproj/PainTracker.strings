@@ -1,0 +1,2013 @@
+/* @LANGUAGE en 
+   @DIRECTORY Translations 
+   @FILE PainTracker.strings */
+
+/* \n\nAre you sure you wish to continue? */
+"\n\nAre you sure you wish to continue?" = "\n\nAre you sure you wish to continue?";
+
+/* \n\nExported Diary Entries will be removed from your Diary. This step cannot be undone. */
+"\n\nExported Diary Entries will be removed from your Diary. This step cannot be undone." = "\n\nExported Diary Entries will be removed from your Diary. This step cannot be undone.";
+
+/* \n\nThe entries have been removed from your Diary. */
+"\n\nThe entries have been removed from your Diary." = "\n\nThe entries have been removed from your Diary.";
+
+/* \n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory. */
+"\n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory." = "\n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory.";
+
+/* \n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory. */
+"\n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory." = "\n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory.";
+
+/* Number of entries */
+"# of entries:" = "# of entries:";
+
+/* %i Diary Entry object was successfully exported. */
+"%i Diary Entry object was successfully exported." = "%i Diary Entry object was successfully exported.";
+
+/* %i Diary Entry objects were successfully exported. */
+"%i Diary Entry objects were successfully exported." = "%i Diary Entry objects were successfully exported.";
+
+/* 1.00 */
+"1.00" = "1.00";
+
+/* 6am\nto\nNoon */
+"6am\nto\nNoon" = "06:00 to 12:00";
+
+/* 6pm\nto\nMidnight */
+"6pm\nto\nMidnight" = "18:00 to 00:00";
+
+/* A QuickBuild item containing the same detail items already exists. */
+"A QuickBuild item containing the same detail items already exists." = "A Tracker Collection item containing the same items already exists.";
+
+/* A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary? */
+"A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary?" = "A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary?";
+
+/* A previous entry containing the %@ Tracker object could not be found to copy from. */
+"A previous entry containing the %@ Tracker object could not be found to copy from." = "A previous entry containing the %@ Tracker object could not be found to copy from.";
+
+/* All dates */
+"All dates" = "All dates";
+
+/* An Internet connection is required to view this item. Connect your device to the internet and try connecting again. */
+"An Internet connection is required to view this item. Connect your device to the internet and try connecting again." = "An Internet connection is required to view this item. Connect your device to the internet and try connecting again.";
+
+/* Analysis Window (hours) */
+"Analysis Window (hours)" = "Analysis Window (hours)";
+
+/* App Security */
+"App Security" = "App Security";
+
+/* Apply */
+"Apply" = "Apply";
+
+/* Are you sure you want to halt the conversion process? */
+"Are you sure you want to halt the conversion process?" = "Are you sure you want to stop the conversion process?";
+
+/* Avg Daily Pain Level */
+"Avg Daily Pain Level" = "Avg Daily Pain Level";
+
+/* Avg Pain Level */
+"Avg Pain Level" = "Avg Pain Level";
+
+/* BM */
+"BM" = "BM";
+
+/* BM Frequency (per week) */
+"BM Frequency (per week)" = "BM Frequency (per week)";
+
+/* BM per Week */
+"BM per Week" = "Bowel Movements per Week";
+
+/* Back */
+"Back" = "Back";
+
+/* Back Side */
+"Back Side" = "Back Side";
+
+/* Based on (1-5) scale */
+"Based on (1-5) scale" = "Based on (1-5) scale";
+
+/* Begin Update Process */
+"Begin Update Process" = "Begin Update Process";
+
+/* Beginning update process. */
+"Beginning update process." = "Beginning update process.";
+
+/* Blood was not present. */
+"Blood was not present." = "Blood was not present.";
+
+/* Blood was present. */
+"Blood was present." = "Blood was present.";
+
+/* Bowel Movement History */
+"Bowel Movement History" = "Bowel Movement History";
+
+/* Bowel Movement vs Time */
+"Bowel Movement vs Time" = "Bowel Movement vs Time";
+
+/* Bowel Movements per Week */
+"Bowel Movements per Week" = "Bowel Movements per Week";
+
+/* Bristol Scale */
+"Bristol Scale" = "Bristol Scale";
+
+/* Bristol Scale Type Distribution */
+"Bristol Scale Type Distribution" = "Bristol Scale Type Distribution";
+
+/* Location services are used to collect a weather related arthritis index that will be stored within the pain entry. */
+"CLLocationManagerPurpose" = "CLLocationManagerPurpose";
+
+/* CPT Connection */
+"CPT Connection" = "CPT Connection";
+
+/* CSV Data Export was successful for report:\n%@\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache. */
+"CSV Data Export was successful for report:\n%@\n\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache." = "CSV Data Export was successful for report:\n%@\n\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache.";
+
+/* CSV Export was not successful for report:\n%@. */
+"CSV Export was not successful for report:\n%@." = "CSV Export was not successful for report:\n%@.";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Cancels all editing and closes this DiaryEntry without saving any changes. */
+"Cancels all editing and closes this DiaryEntry without saving any changes." = "Cancels all editing and closes this Diary Entry without saving any changes.";
+
+/* Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc. */
+"Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc." = "Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc.";
+
+/* Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc. */
+"Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc." = "Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc.";
+
+/* City */
+"City" = "City";
+
+/* Clear
+   Clear button */
+"Clear" = "Clear";
+
+/* Clear All Cache Data */
+"Clear All Cache Data" = "Clear All Cache Data";
+
+/* Clear Cache in Mem */
+"Clear Cache in Mem" = "Clear Cache in Memory";
+
+/* Clearing Database Store */
+"Clearing Database Store" = "Clearing Database Store";
+
+/* Close */
+"Close" = "Close";
+
+/* Closing all report sections */
+"Closing all report sections" = "Closing all report sections";
+
+/* Collapse the Tracker views within this Diary Entry. */
+"Collapses all the Tracker views within this Diary Entry." = "Collapses all the Tracker views within this Diary Entry.";
+
+/* Collections Not Found */
+"Collections Not Found" = "Collections Not Found";
+
+/* Colors label */
+"Colors:" = "Colors:";
+
+/* Comment */
+"Comment" = "Comment";
+
+/* Compacting Data */
+"Compacting Data" = "Compacting Data";
+
+/* Conditions */
+"Conditions" = "Conditions";
+
+/* Continue */
+"Continue" = "Continue";
+
+/* Converting Entries */
+"Converting Entries" = "Converting Entries";
+
+/* Copy Last */
+"Copy Last" = "Copy Last";
+
+/* Copy a Previous Entry */
+"Copy a Previous Entry" = "Copy a Previous Entry";
+
+/* Country */
+"Country" = "Country";
+
+/* Create Entry */
+"Create Entry" = "Create Entry";
+
+/* Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken. */
+"Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken." = "Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken.";
+
+/* Create an HTML version of this DiaryEntry that can be emailed or printed. */
+"Create an HTML version of this DiaryEntry that can be emailed or printed." = "Create an HTML version of this Diary Entry that can be emailed or printed.";
+
+/* Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions. */
+"Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions." = "Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions.";
+
+/* Custom Report instructions */
+"Custom Report instructions" = "To select custom Start & End dates, first tap on the date button you wish to change. You can then use the date picker to select the new target date.\n\nOnce you have the desired Start/End dates, tap the Run button to display the results.";
+
+/* DB Update: 0001 */
+"DB Update: 0001" = "DB Update: 0001";
+
+/* DB Update: 0002 */
+"DB Update: 0002" = "DB Update: 0002";
+
+/* DB Update: 0003 */
+"DB Update: 0003" = "DB Update: 0003";
+
+/* Daily Avg Pain Level vs Time */
+"Daily Avg Pain Level vs Time" = "Daily Avg Pain Level vs Time";
+
+/* Daily Pain Level Moving Avg vs Time */
+"Daily Pain Level Moving Avg vs Time" = "Daily Pain Level Moving Avg vs Time";
+
+/* Daily Pain Level vs Time */
+"Daily Pain Level vs Time" = "Daily Pain Level vs Time";
+
+/* Daily Summaries for Bowel Movements */
+"Daily Summaries for Bowel Movements" = "Daily Summaries for Bowel Movements";
+
+/* Data Transfer Operations */
+"Data Transfer Operations" = "Data Transfer Operations";
+
+/* Database Error */
+"Database Error" = "Database Error";
+
+/* Date Selection */
+"Date Selection" = "Date Selection";
+
+/* Date of Entry */
+"Date of Entry" = "Date of Entry";
+
+/* Date range: */
+"Date range:" = "Date range:";
+
+/* Dates after: */
+"Dates after:" = "Dates after:";
+
+/* Dates from: */
+"Dates from:" = "Dates from:";
+
+/* Day of the Week */
+"Day of the Week" = "Day of the Week";
+
+/* Day/Night Pain Levels */
+"Day/Night Pain Levels" = "Day/Night Pain Levels";
+
+/* Delete Diary */
+"Delete Diary" = "Delete Diary";
+
+/* Description */
+"Description" = "Description";
+
+/* Device Memory is Low */
+"Device Memory is Low" = "Device Memory is Low";
+
+/* Diary */
+"Diary" = "Diary";
+
+/* Diary Entries */
+"Diary Entries" = "Diary Entries";
+
+/* Diary Entries between %@ and %@ will be exported. */
+"Diary Entries between %@ and %@ will be exported." = "Diary Entries between %1$@ and %2$@ will be exported.";
+
+/* Diary Entry Count */
+"Diary Entry Count" = "Diary Entry Count";
+
+/* Diary Entry Export */
+"Diary Entry Export" = "Diary Entry Export";
+
+/* Diary Entry Import */
+"Diary Entry Import" = "Diary Entry Import";
+
+/* Diary Entry Report */
+"Diary Entry Report" = "Diary Entry Report";
+
+/* Diary Entry Time */
+"Diary Entry Time" = "Diary Entry Time";
+
+/* Diary Log */
+"Diary Log" = "Diary Log";
+
+/* DiaryName */
+"Diary Name" = "Diary Name";
+
+/* Diary Name & Description */
+"Diary Name & Description" = "Diary Name & Description";
+
+/* Diary Removal */
+"Diary Removal" = "Diary Removal";
+
+/* Diary Selection */
+"Diary Selection" = "Diary Selection";
+
+/* Diary Statistics */
+"Diary Statistics" = "Diary Statistics";
+
+/* Diary entries: */
+"Diary entries:" = "Diary entries:";
+
+/* Diary name: */
+"Diary name:" = "Diary name:";
+
+/* DiaryEntry Trackers */
+"DiaryEntry Trackers" = "DiaryEntry Trackers";
+
+/* Difference */
+"Difference" = "Difference";
+
+/* Disable */
+"Disable" = "Disable";
+
+/* Display Name */
+"Display Name" = "Display Name";
+
+/* Display Report */
+"Display Report" = "Display Report";
+
+/* Do you want to use a copy of your last entry? */
+"Do you want to use a copy of your last entry?" = "Do you want to use a copy of your last entry?";
+
+/* Done button */
+"Done" = "Done";
+
+/* Dropbox */
+"Dropbox" = "Dropbox";
+
+/* Dropbox is Unlinked */
+"Dropbox is Unlinked" = "Dropbox is Unlinked";
+
+/* Duplicate Diary Entries will be permitted. */
+"Duplicate Diary Entries will be permitted." = "Duplicate Diary Entries will be permitted.";
+
+/* Duration */
+"Duration" = "Duration";
+
+/* Duration */
+"Duration:" = "Duration:";
+
+/* E-mail Address */
+"E-mail Address" = "E-mail Address";
+
+/* Edit */
+"Edit" = "Edit";
+
+/* Edit Display Name */
+"Edit Display Name" = "Edit Display Name";
+
+/* Edit Increment Quantity */
+"Edit Increment Quantity" = "Edit Increment Quantity";
+
+/* Edit Table Entries */
+"Edit Table Entries" = "Edit Table Entries";
+
+/* Effective Treatment Frequency */
+"Effective Treatment Frequency" = "Effective Treatment Frequency";
+
+/* Email */
+"Email" = "Email";
+
+/* Enable */
+"Enable" = "Enable";
+
+/* End date */
+"End date" = "End date";
+
+/* End date: */
+"End date:" = "End date:";
+
+/* End Date */
+"End:" = "End:";
+
+/* Enter Analysis Time Window in Hours. */
+"Enter Analysis Time Window in Hours." = "Enter Analysis Time Window in Hours.";
+
+/* Enter Units for Qty */
+"Enter Units for Qty" = "Enter Units for Qty";
+
+/* Enter Your Access Code */
+"Enter Your Access Code" = "Enter Your Access Code";
+
+/* Enter a brief description */
+"Enter a brief description" = "Enter a brief description";
+
+/* Enter a unique Diary name */
+"Enter a unique Diary name" = "Enter a unique Diary name";
+
+/* Enter default Send-To email address */
+"Enter default Send-To email address" = "Enter default Send-To email address";
+
+/* Enter details for this Milestone */
+"Enter details for this Milestone" = "Enter details for this Milestone";
+
+/* Enter display name */
+"Enter display name" = "Enter display name";
+
+/* Entery Units for Qty */
+"Entery Units for Qty" = "Entery Units for Qty";
+
+/* Entry %i of %i */
+"Entry %i of %i" = "Entry %i of %i";
+
+/* Entry Date */
+"Entry Date" = "Entry Date";
+
+/* Eraser */
+"Eraser" = "Eraser";
+
+/* Error */
+"Error" = "Error";
+
+/* Error: There are no v2.x pain databases on this device to import. */
+"Error: There are no v2.x pain databases on this device to import." = "Error: There are no v2.x pain databases on this device to import.";
+
+/* Export */
+"Export" = "Export";
+
+/* Feels Like */
+"Feels Like" = "Feels Like";
+
+/* Filter */
+"Filter" = "Filter";
+
+/* Filter Settings */
+"Filter Settings" = "Filter Settings";
+
+/* Finish Editing */
+"Finish Editing" = "Finish Editing";
+
+/* Fri */
+"Fri" = "Fri";
+
+/* Front Side */
+"Front Side" = "Front";
+
+/* Gosh NO! */
+"Gosh NO!" = "No";
+
+/* Heat Index */
+"Heat Index" = "Heat Index";
+
+/* Hide Help */
+"Hide Help" = "Hide Help";
+
+/* History */
+"History" = "History";
+
+/* History (filtered) */
+"History (filtered)" = "History (filtered)";
+
+/* Hours Since Med Taken */
+"Hours Since Med Taken" = "Hours Since Med Taken";
+
+/* Hours Since Med Was Taken */
+"Hours Since Med Was Taken" = "Hours Since Med Was Taken";
+
+/* Humidity vs Time */
+"Humidity vs Time" = "Humidity vs Time";
+
+/* I'm sure */
+"I'm sure" = "Yes";
+
+/* Import */
+"Import" = "Import";
+
+/* Indicator Color */
+"Indicator Color" = "Indicator Color";
+
+/* Intensity */
+"Intensity" = "Intensity";
+
+/* Item Frequency */
+"Item Frequency" = "Item Frequency";
+
+/* Last used: */
+"Last used:" = "Last used:";
+
+/* Latitude */
+"Latitude" = "Latitude";
+
+/* ListItemDetail */
+"List Item Detail" = "List Item Detail";
+
+/* Lite alert message */
+"Lite message block" = "This version of Chronic Pain Tracker allows a maximum of %i pain log entries. The database will now be trimmed to remain within that maximum.\n\nIf you find this application useful, please upgrade to our full version which allows all the same great features, plus unlimited pain log entries.";
+
+/* Loading Database */
+"Loading Database" = "Loading Database";
+
+/* Loading... */
+"Loading..." = "Loading...";
+
+/* Location */
+"Location" = "Location";
+
+/* Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception. */
+"Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception." = "Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception.";
+
+/* Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception. */
+"Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception." = "Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception.";
+
+/* Longitude */
+"Longitude" = "Longitude";
+
+/* Medication */
+"Medication" = "Medication";
+
+/* Medication Name */
+"Medication Name" = "Medication Name";
+
+/* MemoryWarningMessageOption1 */
+"MemoryWarningMessageOption1" = "Your device has issued a low memory warning to this application.\n\nThis app will now take steps to reduce it's memory footprint to make more memory available to the active processes. You can also help free memory by closing one or more of your currently suspended applications. Rebooting the device the device from time to time is also advised to ensure that the maximum available memory pool is available for this application.\n\nFor more information on Device Memory Warnings and how they affect your device, please click on the More Info button below.";
+
+/* MemoryWarningMessageOption2 */
+"MemoryWarningMessageOption2" = "Your device's operating system has issued multiple low memory warnings in the last 2 minutes.\n\nThis application has taken steps to free memory, but the continued warnings suggest that other apps on your device are holding a significant percentage of the available memory. You can help by simply closing one or more of your currently suspended applications to free more memory. Rebooting the device will also ensure that the maximum available memory pool is available for this application.\n\nFor more information on Device Memory Warnings and how they affect your device, please click on the More Info button below.";
+
+/* Midnight\nto\n6am */
+"Midnight\nto\n6am" = "00:00 to 06:00";
+
+/* Milestone */
+"Milestone" = "Milestone";
+
+/* Modify the Date or Time of this entry as needed. */
+"Modify the Date or Time of this entry as needed." = "Modify the Date or Time of this entry as needed.";
+
+/* Mon */
+"Mon" = "Mon";
+
+/* More Info */
+"More Info" = "More Info";
+
+/* Most Effective Treatments */
+"Most Effective Treatments" = "Most Effective Treatments";
+
+/* Moving Avg Pain Level vs Time */
+"Moving Avg Pain Level vs Time" = "Moving Avg Pain Level vs Time";
+
+/* Name */
+"Name" = "Name";
+
+/* Name your new collection */
+"Name your new collection" = "Name your new collection";
+
+/* New collection: %@, has been created. */
+"New collection: %@, has been created." = "New collection: %@, has been created.";
+
+/* NewUserMessage */
+"NewUserMessage" = "NewUserMessage";
+
+/* NewUserTitle */
+"NewUserTitle" = "NewUserTitle";
+
+/* No */
+"No" = "No";
+
+/* No Compatible Apps */
+"No Compatible Apps" = "No Compatible Apps";
+
+/* No Diary Entries fell within the targeted analysis period. */
+"No Diary Entries fell within the targeted analysis period." = "No Diary Entries fell within the targeted analysis period.";
+
+/* No Quick Build Collections have been defined yet. */
+"No Quick Build Collections have been defined yet." = "No Quick Build Collections have been defined yet.";
+
+/* No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken. */
+"No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken." = "No data points were produced. Increasing the analysis time window for the medication is advised.\nThe current window is %.0f hours from the time the medication is taken.";
+
+/* No previous entry containing this Tracker object was found to copy from. */
+"No previous entry containing this Tracker object was found to copy from." = "No previous entry containing this Tracker object was found to copy from.";
+
+/* Noon\nto\n6pm */
+"Noon\nto\n6pm" = "12:00 to 18:00";
+
+/* Number of entries: */
+"Number of entries:" = "Number of entries:";
+
+/* OK */
+"OK" = "OK";
+
+/* Observation Time */
+"Observation Time" = "Observation Time";
+
+/* Ok */
+"Ok" = "OK";
+
+/* One or more Trackers are still processing information. Please wait just a moment before saving this Entry. */
+"One or more Trackers are still processing information. Please wait just a moment before saving this Entry." = "One or more Trackers are still processing information. Please wait just a moment before saving this Entry.";
+
+/* Onset */
+"Onset" = "Onset";
+
+/* Onset */
+"Onset:" = "Onset:";
+
+/* Open */
+"Open" = "Open";
+
+/* Open the Tracker item selection window to choose the Trackers to be included with this entry. */
+"Open the Tracker item selection window to choose the Trackers to be included with this entry." = "Open the Tracker item selection window to choose the Trackers to be included with this entry.";
+
+/* Open this page in Safari? */
+"Open this page in Safari?" = "Open this page in Safari?";
+
+/* Open.. */
+"Open.." = "Open..";
+
+/* Opening all report sections */
+"Opening all report sections" = "Opening all report sections";
+
+/* Open the Tracker views to show and edit the Tracker details. */
+"Opens all the Tracker views to show and edit the Tracker details." = "Opens all the Tracker views to show and edit the Tracker details.";
+
+/* Other Symptom Cloud */
+"Other Symptom Cloud" = "Other Symptom Cloud";
+
+/* Other Symptom Frequency */
+"Other Symptom Frequency" = "Other Symptom Frequency";
+
+/* Packing Paths */
+"Packing Paths" = "Packing Paths";
+
+/* Pain Description Cloud */
+"Pain Description Cloud" = "Pain Description Cloud";
+
+/* Pain Description Frequency */
+"Pain Description Frequency" = "Pain Description Frequency";
+
+/* Pain Duration Frequency */
+"Pain Duration Frequency" = "Pain Duration Frequency";
+
+/* Pain Duration vs Time */
+"Pain Duration vs Time" = "Pain Duration vs Time";
+
+/* Pain Level */
+"Pain Level" = "Pain Level";
+
+/* Pain Level Change Since Med Was Taken */
+"Pain Level Change Since Med Was Taken" = "Pain Level Change Since Med Was Taken";
+
+/* Pain Level Distribution */
+"Pain Level Distribution" = "Pain Level Distribution";
+
+/* Pain Level Range */
+"Pain Level Range" = "Pain Level Range";
+
+/* Pain Level Range Per Duration */
+"Pain Level Range Per Duration" = "Pain Level vs Duration";
+
+/* Pain Level Range Per Onset */
+"Pain Level Range Per Onset" = "Pain Level vs Onset";
+
+/* Pain Level When Taken */
+"Pain Level When Taken" = "Pain Level When Taken";
+
+/* Pain Level over Day Night Hours */
+"Pain Level over Day Night Hours" = "Pain Level vs Time of Day";
+
+/* Pain Level vs Time */
+"Pain Level vs Time" = "Pain Level vs Time";
+
+/* Pain Level when Taken */
+"Pain Level when Taken" = "Pain Level When Taken";
+
+/* Pain Onset Frequency */
+"Pain Onset Frequency" = "Pain Onset Frequency";
+
+/* Pain Onset vs Time */
+"Pain Onset vs Time" = "Pain Onset vs Time";
+
+/* Painter header title */
+"Pain Painter" = "Pain Painter";
+
+/* Pain Range per Duration */
+"Pain Range per Duration" = "Pain Level vs Duration";
+
+/* Pain Range per Humidity Levels */
+"Pain Range per Humidity Levels" = "Pain Level vs Humidity";
+
+/* Pain Range per Humidity Range */
+"Pain Range per Humidity Range" = "Pain Level vs Humidity";
+
+/* Pain Range per Onset Level */
+"Pain Range per Onset Level" = "Pain Level vs Onset";
+
+/* Pain Range per Pressure Trend */
+"Pain Range per Pressure Trend" = "Pain Level vs Pressure Trend";
+
+/* Pain Range per Weather Condition */
+"Pain Range per Weather Condition" = "Pain Level vs Weather Condition";
+
+/* Pain Reduction Percentage */
+"Pain Reduction Percentage" = "Pain Reduction Percentage";
+
+/* PainMap Paths */
+"PainMap Paths" = "PainMap Paths";
+
+/* PainMap Thumbnails */
+"PainMap Thumbnails" = "PainMap Thumbnails";
+
+/* Patient Info */
+"Patient Info" = "Patient Information";
+
+/* Patient Name */
+"Patient Name" = "Patient Name";
+
+/* Patient name: */
+"Patient name:" = "Patient name:";
+
+/* Pen size label */
+"Pen Size:" = "Pen Size:";
+
+/* Percentage of Entries */
+"Percentage of Entries" = "Percentage of Entries";
+
+/* Performing Updates */
+"Performing Updates" = "Performing Updates";
+
+/* Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available. */
+"Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available." = "Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available.";
+
+/* Please enter a unit description for quantities you will be tracking. */
+"Please enter a unit description for quantities you will be tracking." = "Please enter a unit description for quantities you will be tracking.";
+
+/* Precip Today */
+"Precip Today" = "Precip Today";
+
+/* Presence of blood in stool? */
+"Presence of blood in stool?" = "Presence of blood in stool?";
+
+/* Pressure */
+"Pressure" = "Pressure";
+
+/* Pressure (in) */
+"Pressure (in)" = "Pressure (in)";
+
+/* Pressure (mb) */
+"Pressure (mb)" = "Pressure (mb)";
+
+/* Pressure Trend */
+"Pressure Trend" = "Pressure Trend";
+
+/* Pressure Trend vs Time */
+"Pressure Trend vs Time" = "Pressure Trend vs Time";
+
+/* Pressure vs Time */
+"Pressure vs Time" = "Pressure vs Time";
+
+/* Print */
+"Print" = "Print";
+
+/* Process has completed. */
+"Process has completed." = "Process has completed";
+
+/* Processed on: */
+"Processed on:" = "Date processed:";
+
+/* Qty Increment */
+"Qty Increment" = "Qty Increment";
+
+/* Qty Taken */
+"Qty Taken" = "Qty Taken";
+
+/* Qty Taken (%@) */
+"Qty Taken (%@)" = "Qty Taken (%@)";
+
+/* Qty Units */
+"Qty Units" = "Qty Units";
+
+/* Quantity: */
+"Quantity:" = "Quantity:";
+
+/* Recorded Pain Level */
+"Recorded Pain Level" = "Recorded Pain Level";
+
+/* Red */
+"Red" = "Red";
+
+/* Refresh */
+"Refresh" = "Refresh";
+
+/* Refresh Report Data */
+"Refresh Report Data" = "Refresh Report Data";
+
+/* Regenerate */
+"Regenerate" = "Regenerate";
+
+/* Regenerate Report */
+"Regenerate Report" = "Regenerate Report";
+
+/* Rel Humidity */
+"Rel Humidity" = "Humidity";
+
+/* Relative Humidity % */
+"Relative Humidity %" = "Humidity %";
+
+/* Report Categories */
+"Report Categories" = "Report Categories";
+
+/* Report Options */
+"Report Options" = "Report Options";
+
+/* Report Output Cache */
+"Report Output Cache" = "Report Output Cache";
+
+/* Report created using: Chronic Pain Tracker */
+"Report created using: Chronic Pain Tracker" = "Report created using: Chronic Pain Tracker";
+
+/* Report generated: */
+"Report generated:" = "Report generated:";
+
+/* Report name: */
+"Report name:" = "Report name:";
+
+/* Report sections: */
+"Report sections:" = "Report sections:";
+
+/* Report title */
+"Reports" = "Reports";
+
+/* Required DB Updates */
+"Required DB Updates" = "Required DB Updates";
+
+/* Reset Cache Statistics */
+"Reset Cache Statistics" = "Reset Cache Statistics";
+
+/* Resetting this update will cause the update to be reapplied on the next application launch. Are you sure you wish to continue? */
+"Resetting this update will cause the update to be reapplied on the next application launch. Are you sure you wish to continue?" = "Resetting this update will cause the update to be reapplied on the next application launch. Are you sure you wish to continue?";
+
+/* Sat */
+"Sat" = "Sat";
+
+/* Save */
+"Save" = "Save";
+
+/* Save Diary */
+"Save Diary" = "Save Diary";
+
+/* Saved Reports */
+"Saved Reports" = "Saved Reports";
+
+/* Saves the changes made to this DiaryEntry and returns to the Diary History tableview. */
+"Saves the changes made to this DiaryEntry and returns to the Diary History tableview." = "Saves the changes made to this Diary Entry and returns to the Diary History tableview.";
+
+/* Saving New Entries */
+"Saving New Entries" = "Saving New Entries";
+
+/* Saving Path Data */
+"Saving Path Data" = "Saving Drawing Data";
+
+/* Section count: */
+"Section Count:" = "Section Count:";
+
+/* Select a Milestone Category */
+"Select a Milestone Category" = "Select a Milestone Category";
+
+/* Select filter method */
+"Select filter method" = "Select filter method";
+
+/* Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry. */
+"Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry." = "Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry.";
+
+/* Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries. */
+"Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries." = "Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries.";
+
+/* Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis. */
+"Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis." = "Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis.";
+
+/* Selection Error */
+"Selection Error" = "Selection Error";
+
+/* Selection count: */
+"Selection count:" = "Selection count:";
+
+/* Serious Application Error */
+"Serious Application Error" = "Serious Application Error";
+
+/* Settings */
+"Settings" = "Settings";
+
+/* Show Milestone on Graphs */
+"Show Milestone on Graphs" = "Show Milestone on Graphs";
+
+/* Simplifying Path Data */
+"Simplifying Path Data" = "Simplifying Path Data";
+
+/* Single Diary Entry Report */
+"Single Diary Entry Report" = "Single Diary Entry Report";
+
+/* Sleep */
+"Sleep" = "Sleep";
+
+/* Staleness Factor: */
+"Staleness Factor:" = "Staleness Factor:";
+
+/* Staleness factor: */
+"Staleness factor:" = "Staleness factor:";
+
+/* Start date */
+"Start date" = "Start date";
+
+/* Start date: */
+"Start date:" = "Start date:";
+
+/* Start Date */
+"Start:" = "Start:";
+
+/* State */
+"State" = "State";
+
+/* Station ID */
+"Station ID" = "Station ID";
+
+/* Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique. */
+"Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique." = "Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique.";
+
+/* Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports. */
+"Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports." = "Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports.";
+
+/* Database Actions\n(Note: these actions cannot be reversed) */
+"Step 3: (Optional) If you are upgrading from an earlier version of CPT, you can import your previous entries into this Diary.\nIf you are a new user, this step is not necessary." = "Step 3: (Optional) If you are upgrading from an earlier version of CPT, you can import your previous entries into this Diary.\nIf you are a new user, this step is not necessary.";
+
+/* Step Date Range Backward */
+"Step Date Range Backward" = "Step Date Range Backward";
+
+/* Step Date Range Forward */
+"Step Date Range Forward" = "Step Date Range Forward";
+
+/* Stores processed data for report graphs */
+"Stores processed data for report graphs" = "Stores processed data for report graphs";
+
+/* Summary & Analysis Report */
+"Summary & Analysis Report" = "Summary & Analysis Report";
+
+/* Sun */
+"Sun" = "Sun";
+
+/* Symptoms */
+"Symptoms" = "Symptoms";
+
+/* Tap \"View Report\" to generate a PDF or HTML version of the report for export. */
+"Tap \"View Report\" to generate a PDF or HTML version of the report for export." = "Tap \"View Report\" to generate a PDF or HTML version of the report for export.";
+
+/* Tap the Tracker row to choose which info to include in the report. */
+"Tap the Tracker row to choose which info to include in the report." = "Tap the Tracker row to choose which info to include in the report.";
+
+/* Tap the action key to generate the report. */
+"Tap the action key to generate the report." = "Tap the action key to generate the report.";
+
+/* Temperature (℃) */
+"Temperature (℃)" = "Temperature (℃)";
+
+/* Temperature (℉) */
+"Temperature (℉)" = "Temperature (℉)";
+
+/* Temperature vs Time */
+"Temperature vs Time" = "Temperature vs Time";
+
+/* That Display Name already exists. Please enter a unique name. */
+"That Display Name already exists. Please enter a unique name." = "That Display Name already exists. Please enter a unique name.";
+
+/* That name is already being used by another Diary. */
+"That name is already being used by another Diary." = "That name is already being used by another Diary.";
+
+/* The Display Name must not be blank. */
+"The Display Name must not be blank." = "The Display Name must not be blank.";
+
+/* The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker. */
+"The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker." = "The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker.";
+
+/* The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed. */
+"The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed." = "The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed.";
+
+/* The Patient Name will appear on reports. */
+"The Patient Name will appear on reports." = "The Patient Name will appear on reports.";
+
+/* The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance. */
+"The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance." = "The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance.";
+
+/* The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report. */
+"The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report." = "The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report.";
+
+/* The data transfer options allow you to import/export a date based range of Diary Entries to/from the database. */
+"The data transfer options allow you to import/export a date based range of Diary Entries to/from the database." = "The data transfer options allow you to import/export a date based range of Diary Entries to/from the database.";
+
+/* The export process was not successful. Please try again, or contact Customer Support for additional assistance. */
+"The export process was not successful. Please try again, or contact Customer Support for additional assistance." = "The export process was not successful. Please try again, or contact Customer Support for additional assistance.";
+
+/* The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored. */
+"The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored." = "The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored.";
+
+/* The selection is a Folder. Please select a File and try again. */
+"The selection is a Folder. Please select a File and try again." = "The selection is a Folder. Please select a File and try again.";
+
+/* The update you have just loaded needs to make one or more changes to the app's database before you can continue. Please select OK to begin the updates. */
+"The update you have just loaded needs to make one or more changes to the app's database before you can continue.\n\nPlease select OK to begin the update process." = "The update you have just loaded needs to make one or more changes to the app's database before you can continue.\n\nPlease select OK to begin the update process.";
+
+/* There are no Diaries available to report on. Please first create a Diary with entries before running reports. */
+"There are no Diaries available to report on. Please first create a Diary with entries before running reports." = "There are no Diaries available to report on. Please first create a Diary with entries before running reports.";
+
+/* There are no Diary Entries to export within the date range provided (%@ to %@). */
+"There are no Diary Entries to export within the date range provided (%@ to %@)." = "There are no Diary Entries to export within the date range provided (%1$@ to %2$@).";
+
+/* There was a problem saving your Tracker Collection template. Please try again. */
+"There was a problem saving your Tracker Collection template. Please try again." = "There was a problem saving your Tracker Collection template. Please try again.";
+
+/* This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail. */
+"This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail." = "This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail.";
+
+/* This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team. */
+"This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team." = "This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team.";
+
+/* This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue? */
+"This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue?" = "This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue?";
+
+/* This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone. */
+"This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone." = "This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone.";
+
+/* This will reset the list to its original system values. It cannot be undone. Do you want to proceed? */
+"This will reset the list to its original system values. It cannot be undone. Do you want to proceed?" = "This will reset the list to its original system values. It cannot be undone. Do you want to proceed?";
+
+/* Thu */
+"Thu" = "Thu";
+
+/* Time to process: */
+"Time to process:" = "Time to process:";
+
+/* Timestamp */
+"Timestamp" = "Timestamp";
+
+/* Title */
+"Title" = "Title";
+
+/* Top Pain Descriptions */
+"Top Pain Descriptions" = "Top Pain Descriptions";
+
+/* Top Pain Triggers */
+"Top Pain Triggers" = "Top Pain Triggers";
+
+/* Tracker Collections */
+"Tracker Collections" = "Tracker Collections";
+
+/* Tracker Count:
+   Tracker count: */
+"Tracker Count:" = "Tracker Count:";
+
+/* Tracker Selection */
+"Tracker Selection" = "Tracker Selection";
+
+/* Treatment */
+"Treatment" = "Treatment";
+
+/* Treatment Cloud */
+"Treatment Cloud" = "Treatment Cloud";
+
+/* Treatment Frequency */
+"Treatment Frequency" = "Treatment Frequency";
+
+/* Trigger */
+"Trigger" = "Trigger";
+
+/* Trigger Cloud */
+"Trigger Cloud" = "Trigger Cloud";
+
+/* Trigger Frequency */
+"Trigger Frequency" = "Trigger Frequency";
+
+/* Tue */
+"Tue" = "Tue";
+
+/* UV Index */
+"UV Index" = "UV Index";
+
+/* Units */
+"Units" = "Units";
+
+/* Update is Running */
+"Update is Running" = "Update is Running";
+
+/* Upgrade */
+"Upgrade" = "Upgrade";
+
+/* Upgrade Now */
+"Upgrade Now" = "Upgrade Now";
+
+/* Usage count: */
+"Usage count:" = "Usage count:";
+
+/* Use the Date/Time Picker to select the desired timestamp for this DiaryEntry. */
+"Use the Date/Time Picker to select the desired timestamp for this DiaryEntry." = "Use the Date/Time Picker to select the desired timestamp for this DiaryEntry.";
+
+/* View label */
+"View:" = "View:";
+
+/* Weather */
+"Weather" = "Weather";
+
+/* Weather Data */
+"Weather Data" = "Weather Data";
+
+/* Wed */
+"Wed" = "Wed";
+
+/* Weekday Pain Levels */
+"Weekday Pain Levels" = "Weekday Pain Levels";
+
+/* Which type of report do you want to create? */
+"Which type of report do you want to create?" = "Which type of report do you want to create?";
+
+/* Windchill */
+"Windchill" = "Windchill";
+
+/* Yellow */
+"Yellow" = "Yellow";
+
+/* Yes */
+"Yes" = "Yes";
+
+/* You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox. */
+"You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox." = "You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox.";
+
+/* You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds. */
+"You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds." = "You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds.";
+
+/* You can remove this Diary from your database. Please note, this step can NOT be undone. */
+"You can remove this Diary from your database. Please note, this step can NOT be undone." = "You can remove this Diary from your database. Please note, this step can NOT be undone.";
+
+/* You did not enter a valid number. Please try again. */
+"You did not enter a valid number. Please try again." = "You did not enter a valid number. Please try again.";
+
+/* You do not have any apps on your device that have registered for opening this type of file. */
+"You do not have any apps on your device that have registered for opening this type of file." = "You do not have any apps on your device that have registered for opening this type of file.";
+
+/* You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed? */
+"You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed?" = "You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed?";
+
+/* You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed? */
+"You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed?" = "You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed?";
+
+/* You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@\n\nDo you wish to continue? */
+"You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@\n\nDo you wish to continue?" = "You have selected the following zip file for Diary Entry import:\n\n%1$@\n\n%2$@\n\nDo you wish to continue?";
+
+/* You must enter a numerical value for the analysis time. */
+"You must enter a numerical value for the analysis time." = "You must enter a numerical value for the analysis time.";
+
+/* You must enter a numerical value for the increment quantity. */
+"You must enter a numerical value for the increment quantity." = "You must enter a numerical value for the increment quantity.";
+
+/* You must select a Collection from the list below before it can be applied to your Diary Entry. */
+"You must select a Collection from the list below before it can be applied to your Diary Entry." = "You must select a Collection from the list below before it can be applied to your Diary Entry.";
+
+/* You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available. */
+"You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available." = "You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available.";
+
+/* Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue? */
+"Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue?" = "Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue?";
+
+/* Your collection cannot be saved without a proper name. Please try again. */
+"Your collection cannot be saved without a proper name. Please try again." = "Your collection cannot be saved without a proper name. Please try again.";
+
+/* Zip */
+"Zip" = "Zip";
+
+/* Entries this month */
+"entries this month" = "entries this month";
+
+/* to: */
+"to:" = "to:";
+
+/* 1 Month */
+" 1 Month" = " 1 Month";
+
+/* 2 Month */
+" 2 Month" = " 2 Month";
+
+/* 3 Month */
+" 3 Month" = " 3 Month";
+
+/* 6 Month */
+" 6 Month" = " 6 Month";
+
+/* 9 Month */
+" 9 Month" = " 9 Month";
+
+/* 12 Month */
+"12 Month" = "12 Month";
+
+/* Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed. */
+"Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed." = "Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed.";
+
+/* Add Diary Entry */
+"Add Diary Entry" = "Add Diary Entry";
+
+/* Add Diary */
+"Add Diary" = "Add Diary";
+
+/* Add-On Features */
+"Add-On Features" = "Add-On Features";
+
+/* Backup & Restore */
+"Backup & Restore" = "Backup & Restore";
+
+/* Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record. */
+"Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record." = "Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record.";
+
+/* proVersionTextViewText */
+"Congratulations. This version of Chronic Pain Tracker already includes all currently available feature add-ons. With future updates, we may offer additional features here, so check back later.\n\nWe do appreciate your business and hope that our product helps you to better manage your chronic pain condition. If you have questions, suggestions, or want to share your story about the impact Chronic Pain Tracker has had for you, please contact us at support@chronicstimulation.com." = "Congratulations. This version of Chronic Pain Tracker already includes all currently available feature add-ons. With future updates, we may offer additional features here, so check back later.\n\nWe do appreciate your business and hope that our product helps you to better manage your chronic pain condition. If you have questions, suggestions, or want to share your story about the impact Chronic Pain Tracker has had for you, please contact us at support@chronicstimulation.com.";
+
+/* Contents */
+"Contents" = "Contents";
+
+/* CPT Help */
+"CPT Help" = "CPT Help";
+
+/* Daily Pain Avg vs Time */
+"Daily Pain Avg vs Time" = "Daily Pain Avg vs Time";
+
+/* Database Restore Starting */
+"Database Restore Starting" = "Database Restore Starting";
+
+/* Diary Capacity Limit */
+"Diary Capacity Limit" = "Diary Capacity Limit";
+
+/* Diary History Report */
+"Diary History Report" = "Diary History Report";
+
+/* Diary: %@ */
+"Diary: %@" = "Diary: %@";
+
+/* entries */
+"entries" = "entries";
+
+/* Expand Your Diary Capacity: */
+"Expand Your Diary Capacity:" = "Expand Your Diary Capacity:";
+
+/* Export Graph */
+"Export Graph" = "Export Graph";
+
+/* Feature Addition */
+"Feature Addition" = "Feature Addition";
+
+/* Feature Expansion Options: */
+"Feature Expansion Options:" = "Feature Expansion Options:";
+
+/* Filtering is Active */
+"Filtering is Active" = "Filtering is Active";
+
+/* Filtering is Inactive */
+"Filtering is Inactive" = "Filtering is Inactive";
+
+/* Graph Settings */
+"Graph Settings" = "Graph Settings";
+
+/* Help */
+"Help" = "Help";
+
+/* Month Selection */
+"Month Selection" = "Month Selection";
+
+/* Multi-Diary Support */
+"Multi-Diary Support" = "Multi-Diary Support";
+
+/* No Backup File Selected */
+"No Backup File Selected" = "No Backup File Selected";
+
+/* Not Available */
+"Not Available" = "Not Available";
+
+/* Pain Entries vs Time */
+"Pain Entries vs Time" = "Pain Entries vs Time";
+
+/* Pain Range per Other Symptom */
+"Pain Range per Other Symptom" = "Pain Level vs Other Symptoms";
+
+/* Pain Range per Pain Description */
+"Pain Range per Pain Description" = "Pain Level vs Pain Descriptions";
+
+/* Pain Range per Pain Trigger */
+"Pain Range per Pain Trigger" = "Pain Level vs Trigger Type";
+
+/* Pain Range per Precipitation */
+"Pain Range per Precipitation" = "Pain Level vs Precipitation";
+
+/* Pain Range per Pressure Range */
+"Pain Range per Pressure Range" = "Pain Level vs Pressure Level";
+
+/* Pain Range per Temp Range */
+"Pain Range per Temp Range" = "Pain Level vs Outdoor Temperature";
+
+/* Pain Range per Temperature Range */
+"Pain Range per Temperature Range" = "Pain Level vs Outdoor Temperature";
+
+/* Pain Range per Treatment */
+"Pain Range per Treatment" = "Pain Level vs Treatment";
+
+/* Report Archive */
+"Report Archive" = "Report Archive";
+
+/* Save & Continue */
+"Save & Continue" = "Save & Continue";
+
+/* Select a period to view. */
+"Select a period to view." = "Select a period to view.";
+
+/* Select the graph timeframe: */
+"Select the graph timeframe:" = "Select the graph timeframe:";
+
+/* Select the type of graph to display: */
+"Select the type of graph to display:" = "Select the type of graph to display:";
+
+/* Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends. */
+"Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends." = "Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends.";
+
+/* Stop Showing Help */
+"Stop Showing Help" = "Stop Showing Help";
+
+/* Summary Report */
+"Summary Report" = "Summary Report";
+
+/* Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary. */
+"Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary." = "Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary.";
+
+/* The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report? */
+"The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report?" = "The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report?";
+
+/* The purchase of %@ was cancelled or failed to process. */
+"The purchase of %@ was cancelled or failed to process." = "The purchase of %@ was cancelled or failed to process.";
+
+/* The purchase of %@ was successfully completed. */
+"The purchase of %@ was successfully completed." = "The purchase of %@ was successfully completed.";
+
+/* These optional feature components can be purchased at any time. */
+"These optional feature components can be purchased at any time." = "These optional feature components can be purchased at any time.";
+
+/* This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button. */
+"This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button." = "This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button.";
+
+/* This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more. */
+"This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more." = "This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more.";
+
+/* Time vs Humidity */
+"Time vs Humidity" = "Humidity vs Time";
+
+/* Time vs Pressure */
+"Time vs Pressure" = "Pressure vs Time";
+
+/* Time vs Temperature */
+"Time vs Temperature" = "Temperature vs Time";
+
+/* Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application. */
+"Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application." = "Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application.";
+
+/* WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation? */
+"WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation?" = "WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation?";
+
+/* Would you like to open the App Store and view Chronic Pain Tracker? */
+"Would you like to open the App Store and view Chronic Pain Tracker?" = "Would you like to open the App Store and view Chronic Pain Tracker?";
+
+/* Would you like to open this page in Safari? */
+"Would you like to open this page in Safari?" = "Would you like to open this page in Safari?";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used." = "You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used.";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used." = "You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used.";
+
+/* You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds. */
+"You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds." = "You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds.";
+
+/* You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled. */
+"You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled." = "You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled.";
+
+/* You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary. */
+"You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary." = "You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary.";
+
+/* You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours. */
+"You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours." = "You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours.";
+
+/* You need to select a file from the table to the right before the Restore process can begin. */
+"You need to select a file from the table to the right before the Restore process can begin." = "You need to select a file from the table to the right before the Restore process can begin.";
+
+/* Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry. */
+"Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry." = "Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry.";
+
+/* Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option. */
+"Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option." = "Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option.";
+
+/* Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having. */
+"Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having." = "Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having.";
+
+/* Diary %@ includes %i Diary Entries */
+"Diary %@ includes %i Diary Entries" = "Diary %1$@ includes %2$i Diary Entries";
+
+/* Recent Pain Levels */
+"Recent Pain Levels" = "Recent Pain Levels";
+
+/* Showing %i entries. */
+"Showing %i entries." = "Showing %i entries.";
+
+/* Showing all Diary Entries with no filtering. */
+"Showing all Diary Entries with no filtering." = "Showing all Diary Entries with no filtering.";
+
+/* Showing Diary Entries between %@ and %@. */
+"Showing Diary Entries between %@ and %@." = "Showing Diary Entries between %1$@ and %2$@.";
+
+/* Showing Diary Entries for %@ and later. */
+"Showing Diary Entries for %@ and later." = "Showing Diary Entries for %@ and later.";
+
+/* Diary Details */
+"Diary Details" = "Diary Details";
+
+/* The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export. */
+"The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export." = "The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export.";
+
+/* The Diary must have a unique Name before being saved. Please change the Name and then try to save again. */
+"The Diary must have a unique Name before being saved. Please change the Name and then try to save again." = "The Diary must have a unique Name before being saved. Please change the Name and then try to save again.";
+
+/* Active */
+"Active" = "Active";
+
+/* Default */
+"Default" = "Default";
+
+/* Deleting Diary */
+"Deleting Diary" = "Deleting Diary";
+
+/* Diaries */
+"Diaries" = "Diaries";
+
+/* Change Timestamp */
+"Change Timestamp" = "Change Timestamp";
+
+/* Select Trackers */
+"Select Trackers" = "Select Trackers";
+
+/* Generate Report */
+"Generate Report" = "Generate Report";
+
+/* Use Current Time/Date */
+"Use Current Time/Date" = "Use Current Time/Date";
+
+/* It is %@.\nTime for your next Chronic Pain Tracker diary entry. */
+"It is %@.\nTime for your next Chronic Pain Tracker diary entry." = "It is %@.\nTime for your next Chronic Pain Tracker diary entry.";
+
+/* Change Reporting Period */
+"Change Reporting Period" = "Change Reporting Period";
+
+/* Change the Reporting Period to use data from earlier in your Diary. */
+"Change the Reporting Period to use data from earlier in your Diary." = "Change the Reporting Period to use data from earlier in your Diary.";
+
+/* Sample Output: */
+"Sample Output:" = "Sample Output:";
+
+/* Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report. */
+"Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report." = "Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report.";
+
+/* Today */
+"Today" = "Today";
+
+/* Activate Sync on Secondary Device */
+"Activate Sync on Secondary Device" = "Activate Sync on Secondary Device";
+
+/* Activate Sync Services */
+"Activate Sync Services" = "Activate Sync Services";
+
+/* Activation of Secondary Device Failed */
+"Activation of Secondary Device Failed" = "Activation of Secondary Device Failed";
+
+/* Activation of Secondary Device Succeeded */
+"Activation of Secondary Device Succeeded" = "Activation of Secondary Device Succeeded";
+
+/* Activity Level Frequency */
+"Activity Level Frequency" = "Activity Level Frequency";
+
+/* Activity Level History */
+"Activity Level History" = "Activity Level History";
+
+/* Activity Level */
+"Activity Level" = "Activity Level";
+
+/* Activity */
+"Activity" = "Activity";
+
+/* All Sync Data stored in the Cloud Repository has been removed. All locally stored sync data has also been deleted, and the Sync Services on this device has been disabled. */
+"All Sync Data stored in the Cloud Repository has been removed. All locally stored sync data has also been deleted, and the Sync Services on this device has been disabled." = "All Sync Data stored in the Cloud Repository has been removed. All locally stored sync data has also been deleted, and the Sync Services on this device has been disabled.";
+
+/* Apply a Collection */
+"Apply a Collection" = "Apply a Collection";
+
+/* Before you can create Diary Entries, you need to Add a New Diary. */
+"Before you can create Diary Entries, you need to Add a New Diary." = "Before you can create Diary Entries, you need to Add a New Diary.";
+
+/* Blood Pressure (mmHg) */
+"Blood Pressure (mmHg)" = "Blood Pressure (mmHg)";
+
+/* Blood Pressure History */
+"Blood Pressure History" = "Blood Pressure History";
+
+/* BMI History */
+"BMI History" = "BMI History";
+
+/* Body Mass Index */
+"Body Mass Index" = "Body Mass Index";
+
+/* Body Weight (kg) */
+"Body Weight (kg)" = "Body Weight (kg)";
+
+/* Body Weight (lbs) */
+"Body Weight (lbs)" = "Body Weight (lbs)";
+
+/* Body Weight History */
+"Body Weight History" = "Body Weight History";
+
+/* BP */
+"BP" = "BP";
+
+/* Daily Sleep History */
+"Daily Sleep History" = "Daily Sleep History";
+
+/* DB Synchronization Op */
+"DB Synchronization Op" = "DB Synchronization Op";
+
+/* Deactivate Sync on this Device */
+"Deactivate Sync on this Device" = "Deactivate Sync on this Device";
+
+/* Deactivation of Sync Operations Failed */
+"Deactivation of Sync Operations Failed" = "Deactivation of Sync Operations Failed";
+
+/* Deactivation of Sync Operations Succeeded */
+"Deactivation of Sync Operations Succeeded" = "Deactivation of Sync Operations Succeeded";
+
+/* Define a Collection */
+"Define a Collection" = "New Collection";
+
+/* Disposition */
+"Disposition" = "Disposition";
+
+/* Do want to Restore previously made purchases? */
+"Do want to Restore previously made purchases?" = "Do want to Restore previously made purchases?";
+
+/* Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker. */
+"Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker." = "Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker.";
+
+/* Download Master DB to Device */
+"Download Master DB to Device" = "Download Master DB to Device";
+
+/* Download of Master DB to Device Failed */
+"Download of Master DB to Device Failed" = "Download of Master DB to Device Failed";
+
+/* Download of Master DB to Device Succeeded */
+"Download of Master DB to Device Succeeded" = "Download of Master DB to Device Succeeded";
+
+/* Dropbox is generating an error indicating an Invalid Token. Try Unlinking and then re-Linking to your Dropbox account. You may also need to restart the app to ensure that the invalid token is replaced.\n\nIf that does not resolve the error, then you should manually delete the folder for this application contained within the Dropbox App folder. This will manually reset the Token on your next login.\n\nIf the problem persists, please contact us at support@chronicstimulation.com */
+"Dropbox is generating an error indicating an Invalid Token. Try Unlinking and then re-Linking to your Dropbox account. You may also need to restart the app to ensure that the invalid token is replaced.\n\nIf that does not resolve the error, then you should manually delete the folder for this application contained within the Dropbox App folder. This will manually reset the Token on your next login.\n\nIf the problem persists, please contact us at support@chronicstimulation.com" = "Dropbox is generating an error indicating an Invalid Token. Try Unlinking and then re-Linking to your Dropbox account. You may also need to restart the app to ensure that the invalid token is replaced.\n\nIf that does not resolve the error, then you should manually delete the folder for this application contained within the Dropbox App folder. This will manually reset the Token on your next login.\n\nIf the problem persists, please contact us at support@chronicstimulation.com";
+
+/* Dropbox Link Failed */
+"Dropbox Link Failed" = "Dropbox Link Failed";
+
+/* Dropbox Link Success */
+"Dropbox Link Success" = "Dropbox Link Success";
+
+/* Encryption Option */
+"Encryption Option" = "Encryption Option";
+
+/* Enter Password */
+"Enter Password" = "Enter Password";
+
+/* Entry Error */
+"Entry Error" = "Entry Error";
+
+/* ft in */
+"ft in" = "ft in";
+
+/* Height */
+"Height" = "Height";
+
+/* Hours of Sleep */
+"Hours of Sleep" = "Hours of Sleep";
+
+/* If the databases on your devices become out of sync, you can use this operation to upload a Master Database to the cloud repository.\n\nOnce uploaded, you can download this version of the database to the out of sync devices to bring them back into alignment with your main device. */
+"If the databases on your devices become out of sync, you can use this operation to upload a Master Database to the cloud repository.\n\nOnce uploaded, you can download this version of the database to the out of sync devices to bring them back into alignment with your main device." = "If the databases on your devices become out of sync, you can use this operation to upload a Master Database to the cloud repository.\n\nOnce uploaded, you can download this version of the database to the out of sync devices to bring them back into alignment with your main device.";
+
+/* If you continue to receive this error, please restart your device, reopen Chronic Pain Tracker, and try the operation again. If the error persists, please contact our support team by tapping the Contact button below. */
+"If you continue to receive this error, please restart your device, reopen Chronic Pain Tracker, and try the operation again. If the error persists, please contact our support team by tapping the Contact button below." = "If you continue to receive this error, please restart your device, reopen Chronic Pain Tracker, and try the operation again. If the error persists, please contact our support team by tapping the Contact button below.";
+
+/* Invalid Dropbox Token */
+"Invalid Dropbox Token" = "Invalid Dropbox Token";
+
+/* kg */
+"kg" = "kg";
+
+/* lbs */
+"lbs" = "lbs";
+
+/* Login */
+"Login" = "Login";
+
+/* m */
+"m" = "m";
+
+/* Manual Synchronization Failed */
+"Manual Synchronization Failed" = "Manual Synchronization Failed";
+
+/* Manual Synchronization Succeeded */
+"Manual Synchronization Succeeded" = "Manual Synchronization Succeeded";
+
+/* Mental Disposition History */
+"Mental Disposition History" = "Mental Disposition History";
+
+/* Mental */
+"Mental" = "Mental";
+
+/* Mood History */
+"Mood History" = "Mood History";
+
+/* Mood Stability History */
+"Mood Stability History" = "Mood Stability History";
+
+/* Operation Failed */
+"Operation Failed" = "Operation Failed";
+
+/* Operation Succeded */
+"Operation Succeded" = "Operation Succeeded";
+
+/* Operation Succeeded */
+"Operation Succeeded" = "Operation Succeeded";
+
+/* Overnight Sleep Hours */
+"Overnight Sleep Hours" = "Overnight Sleep Hours";
+
+/* Overnight Sleep Interruption Frequency */
+"Overnight Sleep Interruption Frequency" = "Overnight Sleep Interruption Frequency";
+
+/* Pain Range per Activity Level */
+"Pain Range per Activity Level" = "Pain Level vs Activity Level";
+
+/* Pain Range per Activity Levels */
+"Pain Range per Activity Levels" = "Pain Level vs Activity Level";
+
+/* Pain Range per BMI Level */
+"Pain Range per BMI Level" = "Pain Level vs BMI";
+
+/* Pain Range per BMI Range */
+"Pain Range per BMI Range" = "Pain Level vs BMI";
+
+/* Pain Range per Diastolic BP */
+"Pain Range per Diastolic BP" = "Pain Level vs Diastolic Pressure";
+
+/* Pain Range per Mood Disposition */
+"Pain Range per Mood Disposition" = "Pain Level vs Mental Disposition";
+
+/* Pain Range per Mood Range */
+"Pain Range per Mood Range" = "Pain Level vs Mental Disposition";
+
+/* Pain Range per Mood Stability Level */
+"Pain Range per Mood Stability Level" = "Pain Level vs Mental Stability";
+
+/* Pain Range per Mood Stability */
+"Pain Range per Mood Stability" = "Pain Level vs Mental Stability";
+
+/* Pain Range per Pulse Rate */
+"Pain Range per Pulse Rate" = "Pain Level vs Pulse Rate";
+
+/* Pain Range per Sleep Hours */
+"Pain Range per Sleep Hours" = "Pain Level vs Hours of Sleep";
+
+/* Pain Range per Sleep Quality */
+"Pain Range per Sleep Quality" = "Pain Level vs Quality of Sleep";
+
+/* Pain Range per Stress Level */
+"Pain Range per Stress Level" = "Pain Level vs Mental Stress";
+
+/* Pain Range per Systolic BP */
+"Pain Range per Systolic BP" = "Pain Level vs Systolic Pressure";
+
+/* Pain Range per Total Sleep Hours */
+"Pain Range per Total Sleep Hours" = "Pain Level vs Hours of Sleep";
+
+/* Pain Range per Weight Level */
+"Pain Range per Weight Level" = "Pain Level vs Weight Level";
+
+/* Pain Range per Weight Range */
+"Pain Range per Weight Range" = "Pain Level vs Weight Level";
+
+/* Password */
+"Password" = "Password";
+
+/* Pulse Rate (BPM) */
+"Pulse Rate (BPM)" = "Pulse Rate (BPM)";
+
+/* Pulse Rate History */
+"Pulse Rate History" = "Pulse Rate History";
+
+/* Quality of Sleep */
+"Quality of Sleep" = "Sleep Quality";
+
+/* Removal of Sync Repository Data Failed */
+"Removal of Sync Repository Data Failed" = "Removal of Sync Repository Data Failed";
+
+/* Removal of Sync Repository Data Succeeded */
+"Removal of Sync Repository Data Succeeded" = "Removal of Sync Repository Data Succeeded";
+
+/* Remove All Repository Data */
+"Remove All Repository Data" = "Remove All Repository Data";
+
+/* Restore Failed */
+"Restore Failed" = "Restore Failed";
+
+/* Restore Success */
+"Restore Success" = "Restore Success";
+
+/* Restore Transactions */
+"Restore Transactions" = "Restore Transactions";
+
+/* Restore */
+"Restore" = "Restore";
+
+/* Should your database ever become out of sync with your other devices, you can use this operation to force a download of the most recent Master database from the cloud repository.\n\nBefore running this process, you should first select the most up to date database between your devices and use the Upload Master DB to Cloud operation to ensure you will download the correct version.\n\nThis process will overwrite your existing database and cannot be undone. */
+"Should your database ever become out of sync with your other devices, you can use this operation to force a download of the most recent Master database from the cloud repository.\n\nBefore running this process, you should first select the most up to date database between your devices and use the Upload Master DB to Cloud operation to ensure you will download the correct version.\n\nThis process will overwrite your existing database and cannot be undone." = "Should your database ever become out of sync with your other devices, you can use this operation to force a download of the most recent Master database from the cloud repository.\n\nBefore running this process, you should first select the most up to date database between your devices and use the Upload Master DB to Cloud operation to ensure you will download the correct version.\n\nThis process will overwrite your existing database and cannot be undone.";
+
+/* Sleep Aid Impact on Sleep Hours */
+"Sleep Aid Impact on Sleep Hours" = "Sleep Medication Impact";
+
+/* Sleep  Aid Impact */
+"Sleep Aid Impact" = "Sleep Medication Impact";
+
+/* Sleep Hours Per Day */
+"Sleep Hours Per Day" = "Sleep Hours Per Day";
+
+/* Sleep Hours */
+"Sleep Hours" = "Sleep Hours";
+
+/* Sleep Interruption Frequency */
+"Sleep Interruption Frequency" = "Sleep Interruption Frequency";
+
+/* Stress History */
+"Stress History" = "Stress History";
+
+/* Stress Level History */
+"Stress Level History" = "Stress Level History";
+
+/* Sync Operation Error */
+"Sync Operation Error" = "Sync Operation Error";
+
+/* Sync Services Activation Failed */
+"Sync Services Activation Failed" = "Sync Services Activation Failed";
+
+/* Sync Services Are Now Active */
+"Sync Services Are Now Active" = "Sync Services Are Now Active";
+
+/* Synchronization services for this device have been turned off. Chronic Pain Tracker will not synchronize with the remote repository, nor will any changes made on this device be synchronized with CPT on your other devices.\n\nIf you have other devices running CPT, they will continue to synchronize between one another normally. */
+"Synchronization services for this device have been turned off. Chronic Pain Tracker will not synchronize with the remote repository, nor will any changes made on this device be synchronized with CPT on your other devices.\n\nIf you have other devices running CPT, they will continue to synchronize between one another normally." = "Synchronization services for this device have been turned off. Chronic Pain Tracker will not synchronize with the remote repository, nor will any changes made on this device be synchronized with CPT on your other devices.\n\nIf you have other devices running CPT, they will continue to synchronize between one another normally.";
+
+/* Synchronize the Database Now */
+"Synchronize the Database Now" = "Synchronize the Database Now";
+
+/* Tap the \"Trackers\" key to select which Trackers will be included with this Diary Entry. */
+"Tap the \"Trackers\" key to select which Trackers will be included with this Diary Entry." = "Tap the \"Trackers\" key to select which Trackers will be included with this Diary Entry.";
+
+/* The Restore operation failed to recover previous purchases. Error: %@ */
+"The Restore operation failed to recover previous purchases. Error: %@" = "The Restore operation failed to recover previous purchases. Error: %@";
+
+/* This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button. */
+"This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button." = "This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button.";
+
+/* This instance of Chronic Pain Tracker is now activated for database synchronization services. CPT will now automatically synchronize any additions or changes to your Diary information with your cloud repository.\n\nIn addition, because you indicated that this was a Secondary Device, we have downloaded the Master Database to this device. */
+"This instance of Chronic Pain Tracker is now activated for database synchronization services. CPT will now automatically synchronize any additions or changes to your Diary information with your cloud repository.\n\nIn addition, because you indicated that this was a Secondary Device, we have downloaded the Master Database to this device." = "This instance of Chronic Pain Tracker is now activated for database synchronization services. CPT will now automatically synchronize any additions or changes to your Diary information with your cloud repository.\n\nIn addition, because you indicated that this was a Secondary Device, we have downloaded the Master Database to this device.";
+
+/* This instance of Chronic Pain Tracker is now activated for database synchronization services. */
+"This instance of Chronic Pain Tracker is now activated for database synchronization services. CPT will now automatically synchronize any additions or changes to your Diary information with your cloud repository." = "This instance of Chronic Pain Tracker is now activated for database synchronization services. CPT will now automatically synchronize any additions or changes to your Diary information with your cloud repository.";
+
+/* This operation should be run on your secondary devices AFTER you have activated synchronization services on your primary device.\n\nThe process will activate sync on this device and will synchronize to the Dropbox repository you created from your Primary device. */
+"This operation should be run on your secondary devices AFTER you have activated synchronization services on your primary device.\n\nThe process will activate sync on this device and will synchronize to the Dropbox repository you created from your Primary device." = "This operation should be run on your secondary devices AFTER you have activated synchronization services on your primary device.\n\nThe process will activate sync on this device and will synchronize to the Dropbox repository you created from your Primary device.";
+
+/* This operation will activate the automatic Sync Managers on your device. */
+"This operation will activate the automatic Sync Managers on your device." = "This operation will activate the automatic Sync Managers on your device.";
+
+/* This operation will remove all sync data stored in the cloud repository. It will also remove local sync data from this device, and will deactivate the Synchronization Services on this device.\n\nAlthough this operation will not delete your local CPT database, if you have any devices that have not synchronized to the latest version, they will no longer be able to access the sync data. You will need to reactivate Synchronization Services on all devices before sync will function again. */
+"This operation will remove all sync data stored in the cloud repository. It will also remove local sync data from this device, and will deactivate the Synchronization Services on this device.\n\nAlthough this operation will not delete your local CPT database, if you have any devices that have not synchronized to the latest version, they will no longer be able to access the sync data. You will need to reactivate Synchronization Services on all devices before sync will function again." = "This operation will remove all sync data stored in the cloud repository. It will also remove local sync data from this device, and will deactivate the Synchronization Services on this device.\n\nAlthough this operation will not delete your local CPT database, if you have any devices that have not synchronized to the latest version, they will no longer be able to access the sync data. You will need to reactivate Synchronization Services on all devices before sync will function again.";
+
+/* This operation will shut down the automatic sync managers and processes on this device and will remove all sync data. Other devices that have synchronization still active will continue to sync between themselves, and you can always re-add this device back by activating sync services in the future. */
+"This operation will shut down the automatic sync managers and processes on this device and will remove all sync data. Other devices that have synchronization still active will continue to sync between themselves, and you can always re-add this device back by activating sync services in the future." = "This operation will shut down the automatic sync managers and processes on this device and will remove all sync data. Other devices that have synchronization still active will continue to sync between themselves, and you can always re-add this device back by activating sync services in the future.";
+
+/* This operation will trigger the synchronization process. */
+"This operation will trigger the synchronization process." = "This operation will trigger the synchronization process.";
+
+/* Time to Fall Asleep Frequency */
+"Time to Fall Asleep Frequency" = "Time to Fall Asleep Frequency";
+
+/* Time To Fall Asleep Frequency */
+"Time To Fall Asleep Frequency" = "Time to Fall Asleep Frequency";
+
+/* Time to Fall Asleep */
+"Time to Fall Asleep" = "Time to Fall Asleep";
+
+/* Time vs Activity Level */
+"Time vs Activity Level" = "Activity Level vs Time";
+
+/* Times Sleep Interrupted */
+"Times Sleep Interrupted" = "Times Sleep Interrupted";
+
+/* Type of Sleep */
+"Type of Sleep" = "Sleep Type";
+
+/* Upload Master DB to Cloud */
+"Upload Master DB to Cloud" = "Upload Master DB to Cloud";
+
+/* Upload of Master DB to Cloud Failed */
+"Upload of Master DB to Cloud Failed" = "Upload of Master DB to Cloud Failed";
+
+/* Upload of Master DB to Cloud Succeeded */
+"Upload of Master DB to Cloud Succeeded" = "Upload of Master DB to Cloud Succeeded";
+
+/* Use the following controls to customize the display range of the picker controls used within the Body Weight Tracker interface. Setting a narrow range will make it easier to select during a diary entry. */
+"Use the following controls to customize the display range of the picker controls used within the Body Weight Tracker interface. Setting a narrow range will make it easier to select during a diary entry." = "Use the following controls to customize the display range of the picker controls used within the Body Weight Tracker interface. Setting a narrow range will make it easier to select during a diary entry.";
+
+/* Was Sleeping Aid Used? */
+"Was Sleeping Aid Used?" = "Was Sleeping Aid Used?";
+
+/* We were not able to link Chronic Pain Tracker and Dropbox using the login details you provided.\n\nPlease try entering the information again. */
+"We were not able to link Chronic Pain Tracker and Dropbox using the login details you provided.\n\nPlease try entering the information again." = "We were not able to link Chronic Pain Tracker and Dropbox using the login details you provided.\n\nPlease try entering the information again.";
+
+/* Weight */
+"Weight" = "Weight";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before activating or using the Sync Services. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before activating or using the Sync Services." = "You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before activating or using the Sync Services.";
+
+/* You did not enter a valid increment quantity. The value must be greater than zero. Please try again. */
+"You did not enter a valid increment quantity. The value must be greater than zero. Please try again." = "You did not enter a valid increment quantity. The value must be greater than zero. Please try again.";
+
+/* You have already registered this device with the Synchronization Services. You do not need to register it again. */
+"You have already registered this device with the Synchronization Services. You do not need to register it again." = "You have already registered this device with the Synchronization Services. You do not need to register it again.";
+
+/* You have successfully synchronized your local CPT database with the cloud based repository. */
+"You have successfully synchronized your local CPT database with the cloud based repository." = "You have successfully synchronized your local CPT database with the cloud based repository.";
+
+/* Tap the \"+\" key to create a new Diary Entry. */
+"Tap the \"+\" key to create a new Diary Entry." = "Tap the \"+\" key to create a new Diary Entry.";
+
+/* You must first register this device with the Synchronization Services before you can perform this operation. */
+"You must first register this device with the Synchronization Services before you can perform this operation." = "You must first register this device with the Synchronization Services before you can perform this operation.";
+
+/* You must select one or more Tracker items to include in a Collection. Select some items and try again. */
+"You must select one or more Tracker items to include in a Collection. Select some items and try again." = "You must select one or more Tracker items to include in a Collection. Select some items and try again.";
+
+/* Tap the Refresh button to regenerate report data and graphs using your latest Diary Entries. */
+"Tap the \"Refresh\" button to regenerate report data and graphs using your latest Diary Entries." = "Tap the \"Refresh\" button to regenerate report data and graphs using your latest Diary Entries.";
+
+/* You successfully linked Chronic Pain Tracker to your Dropbox account.\n\nYour login details will be securely stored on this device so that future connections are automated.\n\nYou can now take advantage of CPT's Cloud Service Features. */
+"You successfully linked Chronic Pain Tracker to your Dropbox account.\n\nYour login details will be securely stored on this device so that future connections are automated.\n\nYou can now take advantage of CPT's Cloud Service Features." = "You successfully linked Chronic Pain Tracker to your Dropbox account.\n\nYour login details will be securely stored on this device so that future connections are automated.\n\nYou can now take advantage of CPT's Cloud Service Features.";
+
+/* Tap the Refresh button to regenerate report data to include your latest Diary Entries. */
+"Tap the \"Refresh\" button to regenerate report data to include your latest Diary Entries." = "Tap the \"Refresh\" button to regenerate report data to include your latest Diary Entries.";
+
+/* The db update has successfully been reset. It will be reapplied on the next application launch. */
+"The db update has successfully been reset. It will be reapplied on the next application launch." = "The db update has successfully been reset. It will be reapplied on the next application launch.";
+
+/* UpgradingMessage */
+"UpgradingMessage" = "UpgradingMessage";
+
+/* Your local CPT database has been synchronized to the repository's Master Database. This will ensure that CPT on this device will match your other synchronized devices. */
+"Your local CPT database has been synchronized to the repository's Master Database. This will ensure that CPT on this device will match your other synchronized devices." = "Your local CPT database has been synchronized to the repository's Master Database. This will ensure that CPT on this device will match your other synchronized devices.";
+
+/* Tap the Diary you wish to work with. This will become the Active diary for viewing history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"+\" button to add a new Diary. */
+"Tap the Diary you wish to work with. This will become the Active diary for viewing history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"+\" button to add a new Diary." = "Tap the Diary you wish to work with. This will become the Active diary for viewing history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"+\" button to add a new Diary.";
+
+/* Tap the Printer icon to include or exclude that Tracker section from the PDF or HTML version of the report. */
+"Tap the Printer icon to include or exclude that Tracker section from the PDF or HTML version of the report." = "Tap the Printer icon to include or exclude that Tracker section from the PDF or HTML version of the report.";
+
+/* The FWD and REV buttons will step the start/end dates of the report by the default time period. */
+"The FWD and REV buttons will step the start/end dates of the report by the default time period." = "The FWD and REV buttons will step the start/end dates of the report by the default time period.";
+
+/* UpgradingTitle */
+"UpgradingTitle" = "UpgradingTitle";
+
+/* Your local CPT database has been uploaded to the cloud based repository and marked as the current Master Database.\n\nTo synchronize your other devices to this Master Database, open CPT on each of the secondary devices and Download the Master Database to the device. This will ensure that all of your devices are working and syncing from the same starting point. */
+"Your local CPT database has been uploaded to the cloud based repository and marked as the current Master Database.\n\nTo synchronize your other devices to this Master Database, open CPT on each of the secondary devices and Download the Master Database to the device. This will ensure that all of your devices are working and syncing from the same starting point." = "Your local CPT database has been uploaded to the cloud based repository and marked as the current Master Database.\n\nTo synchronize your other devices to this Master Database, open CPT on each of the secondary devices and Download the Master Database to the device. This will ensure that all of your devices are working and syncing from the same starting point.";
+
+/* Your previous purchases have been successfully restored. */
+"Your previous purchases have been successfully restored." = "Your previous purchases have been successfully restored.";
+
+/* v2 Data Import */
+"v2 Data Import" = "v2 Data Import";
+
+/* Tapping on a Tracker below will display the graphs for that report section. */
+"Tapping on a Tracker below will display the graphs for that report section." = "Tapping on a Tracker below will display the graphs for that report section.";
+
+/* The use of Location Services is not permitted on this device for this application. This may be due to parental restrictions having been placed on the device. */
+"The use of Location Services is not permitted on this device for this application. This may be due to parental restrictions having been placed on the device." = "The use of Location Services is not permitted on this device for this application. This may be due to parental restrictions having been placed on the device.";
+
+/* Your Synchronization Repository requires an encryption password to be supplied when registering new devices.\n\nPlease submit your password or cancel the Synchronization Services registration process. */
+"Your Synchronization Repository requires an encryption password to be supplied when registering new devices.\n\nPlease submit your password or cancel the Synchronization Services registration process." = "Your Synchronization Repository requires an encryption password to be supplied when registering new devices.\n\nPlease submit your password or cancel the Synchronization Services registration process.";
+
+/* Temperature */
+"Temperature" = "Temperature";
+
+/* End Date: */
+"End Date:" = "End Date:";
+
+/* Remove Entries from Diary */
+"Remove Entries from Diary" = "Remove Entries from Diary";
+
+/* Remove Entries */
+"Remove Entries" = "Remove Entries";
+
+/* Start Date: */
+"Start Date:" = "Start Date:";
+
+/* Moving Avg Period */
+"Moving Avg Period" = "Moving Avg Period";
+
+/* days */
+"days" = "days";
+
+/* Pain when taken: */
+"Pain when taken: " = "Pain when taken: ";
+
+/* Daily Totals: */
+"Daily Totals: " = "Daily Totals: ";
+
+/* Pain Impact: */
+"Pain Impact: " = "Pain Impact: ";
+
+/* Are you ready to begin? */
+"Are you ready to begin?" = "Are you ready to begin?";
+
+/* Are you sure you wish to continue? */
+"Are you sure you wish to continue?" = "Are you sure you wish to continue?";
+
+/* Cancel Active Sync Ops */
+"Cancel Active Sync Ops" = "Cancel Active Sync Ops";
+
+/* Cancelling Sync Ops Failed */
+"Cancelling Sync Ops Failed" = "Cancelling Sync Ops Failed";
+
+/* Cancelling Sync Ops Succeeded */
+"Cancelling Sync Ops Succeeded" = "Cancelling Sync Ops Succeeded";
+
+/* Daily Pain Level Range vs Time */
+"Daily Pain Level Range vs Time" = "Daily Pain Level Range vs Time";
+
+/* Diary Name cannot be left blank. */
+"Diary Name cannot be left blank." = "Diary Name cannot be left blank.";
+
+/* Do you want to continue? */
+"Do you want to continue?" = "Do you want to continue?";
+
+/* Do you want to refresh your Diary Entry with the current weather conditions? */
+"Do you want to refresh your Diary Entry with the current weather conditions?" = "Do you want to refresh your Diary Entry with the current weather conditions?";
+
+/* Do you want to send the most recent application log files with your e-mail? */
+"Do you want to send the most recent application log files with your e-mail?" = "Do you want to send the most recent application log files with your e-mail?";
+
+/* Do you wish to continue? */
+"Do you wish to continue?" = "Do you wish to continue?";
+
+/* Hide this comment in reports? */
+"Hide this comment in reports?" = "Hide this comment in reports?";
+
+/* No Active Operations */
+"No Active Operations" = "No Active Operations";
+
+/* No Interruptions */
+"No Interruptions " = "No Interruptions ";
+
+/* Refresh Weather Data */
+"Refresh Weather Data" = "Refresh Weather Data";
+
+/* Relink */
+"Relink" = "Relink";
+
+/* Reset */
+"Reset" = "Reset";
+
+/* Resetting this update will cause the update to be reapplied on the next application launch. */
+"Resetting this update will cause the update to be reapplied on the next application launch." = "Resetting this update will cause the update to be reapplied on the next application launch.";
+
+/* Show Milestone on Graphs? */
+"Show Milestone on Graphs?" = "Show Milestone on Graphs?";
+
+/* Submit */
+"Submit" = "Submit";
+
+/* The log files can assist us in diagnosing any problems you may be having. */
+"The log files can assist us in diagnosing any problems you may be having." = "The log files can assist us in diagnosing any problems you may be having.";
+
+/* This operation will cancel any active and queued sync operations. */
+"This operation will cancel any active and queued sync operations." = "This operation will cancel any active and queued sync operations.";
+
+/* You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@ */
+"You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@" = "You have selected the following zip file for Diary Entry import:\n\n%1$@\n\n%2$@";
+
+/* You have successfully cancelled the active sync ops that were running on your device. */
+"You have successfully cancelled the active sync ops that were running on your device." = "You have successfully cancelled the active sync ops that were running on your device.";
+
+/* Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. */
+"Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection." = "Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection.";
+
+/* Your Diary is currently empty.\n\nTap the \"✚\" button to create your first Diary Entry. */
+"Your Diary is currently empty.\n\nTap the \"✚\" button to create your first Diary Entry." = "Your Diary is currently empty.\n\nTap the \"✚\" button to create your first Diary Entry.";
+

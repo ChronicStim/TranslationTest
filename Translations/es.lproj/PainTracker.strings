@@ -1,0 +1,1713 @@
+/* @LANGUAGE en 
+   @DIRECTORY Translations 
+   @FILE PainTracker.strings */
+
+/* \n\nAre you sure you wish to continue? */
+"\n\nAre you sure you wish to continue?" = "\n\n¿Desea continuar?";
+
+/* \n\nExported Diary Entries will be removed from your Diary. This step cannot be undone. */
+"\n\nExported Diary Entries will be removed from your Diary. This step cannot be undone." = "\n\nEntradas exported diario será removido de su diario. Este paso no se puede deshacer. ";
+
+/* \n\nThe entries have been removed from your Diary. */
+"\n\nThe entries have been removed from your Diary." = "\n\nEl entradas se han eliminado de su agenda.";
+
+/* \n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory. */
+"\n\nThe exported entries have been saved to a folder named\n%@\nin your Documents directory." = "\n\nEl entradas exportadas han sido guardados en una carpeta denominada\n%@\nen el directorio de documentos. ";
+
+/* \n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory. */
+"\n\nThe exported entries have been saved to a zip file named\n%@.zip\nin your Documents directory." = "\n\nEl entradas exportadas se han guardado en un archivo zip con el nombre\n%@.zip\nen el directorio de documentos. ";
+
+/* Number of entries */
+"# of entries:" = "Número de entradas:";
+
+/* %i Diary Entry object was successfully exported. */
+"%i Diary Entry object was successfully exported." = "%i diario de objeto de entrada se ha exportado con éxito.";
+
+/* %i Diary Entry objects were successfully exported. */
+"%i Diary Entry objects were successfully exported." = "%i objetos de entrada de su diario fueron exportados con éxito.";
+
+/* 1.00 */
+"1.00" = "1.00";
+
+/* 6am\nto\nNoon */
+"6am\nto\nNoon" = "06:00-12:00";
+
+/* 6pm\nto\nMidnight */
+"6pm\nto\nMidnight" = "18:00 a 00:00";
+
+/* A QuickBuild item containing the same detail items already exists. */
+"A QuickBuild item containing the same detail items already exists." = "Un elemento que contiene los elementos Tracker Collection mismo detalle ya existe.";
+
+/* A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary? */
+"A database from an earlier version of PainTracker has been found. Do you wish to import the entries into this Diary?" = "Una base de datos desde una versión anterior de PainTracker se ha encontrado. ¿Desea importar las entradas en este diario?";
+
+/* A previous entry containing the %@ Tracker object could not be found to copy from. */
+"A previous entry containing the %@ Tracker object could not be found to copy from." = "A previous entry containing the %@ Tracker object could not be found to copy from.";
+
+/* All dates */
+"All dates" = "Todas las fechas";
+
+/* An Internet connection is required to view this item. Connect your device to the internet and try connecting again. */
+"An Internet connection is required to view this item. Connect your device to the internet and try connecting again." = "Una conexión a Internet es necesario para ver este tema. Conecte el dispositivo a Internet e intente conectarse de nuevo.";
+
+/* Analysis Window (hours) */
+"Analysis Window (hours)" = "Analysis Window (hours)";
+
+/* App Security */
+"App Security" = "Fecha de Seguridad";
+
+/* Apply */
+"Apply" = "Aplicar";
+
+/* Are you sure you want to halt the conversion process? */
+"Are you sure you want to halt the conversion process?" = "¿Estás seguro de que desea detener el proceso de conversión?";
+
+/* Avg Daily Pain Level */
+"Avg Daily Pain Level" = "Avg Daily Pain Level";
+
+/* Avg Pain Level */
+"Avg Pain Level" = "Media de nivel de dolor";
+
+/* BM */
+"BM" = "BM";
+
+/* BM Frequency (per week) */
+"BM Frequency (per week)" = "BM Frequency (per week)";
+
+/* BM per Week */
+"BM per Week" = "Los movimientos intestinales por semana";
+
+/* Back */
+"Back" = "Espalda";
+
+/* Back Side */
+"Back Side" = "Posterior";
+
+/* Based on (1-5) scale */
+"Based on (1-5) scale" = "Basado en (1-5) escala";
+
+/* Begin Update Process */
+"Begin Update Process" = "Comience el proceso de actualización";
+
+/* Beginning update process. */
+"Beginning update process." = "Beginning update process.";
+
+/* Blood was not present. */
+"Blood was not present." = "La sangre no estaba presente.";
+
+/* Blood was present. */
+"Blood was present." = "La sangre estaba presente.";
+
+/* Bowel Movement History */
+"Bowel Movement History" = "Historia del Movimiento intestinal";
+
+/* Bowel Movement vs Time */
+"Bowel Movement vs Time" = "El movimiento del intestino\nvs Tiempo";
+
+/* Bowel Movements per Week */
+"Bowel Movements per Week" = "Los movimientos intestinales por semana";
+
+/* Bristol Scale */
+"Bristol Scale" = "Bristol Scale";
+
+/* Bristol Scale Type Distribution */
+"Bristol Scale Type Distribution" = "Bristol escala de tipo de distribución";
+
+/* Location services are used to collect a weather related arthritis index that will be stored within the pain entry. */
+"CLLocationManagerPurpose" = "CLLocationManagerPurpose";
+
+/* CPT Connection */
+"CPT Connection" = "CPT Connection";
+
+/* CSV Data Export was successful for report:\n%@\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache. */
+"CSV Data Export was successful for report:\n%@\n\nYou can find a folder containing the individual CSV files AND a ZIP archive of the files in the Report Output Cache." = "CSV de exportación de datos fue un éxito para el informe:\n%@\n\nNo se puede encontrar una carpeta que contiene los archivos CSV individuales y un archivo ZIP de los archivos en la caché de salida del informe.";
+
+/* CSV Export was not successful for report:\n%@. */
+"CSV Export was not successful for report:\n%@." = "CSV de exportación no tuvo éxito para el informe:\n%@.";
+
+/* Cancel */
+"Cancel" = "Cancelar";
+
+/* Cancels all editing and closes this DiaryEntry without saving any changes. */
+"Cancels all editing and closes this DiaryEntry without saving any changes." = "Cancela todas las ediciones y se cierra esta entrada del diario sin guardar los cambios. ";
+
+/* Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc. */
+"Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc." = "Chronic Pain Tracker is designed for general education purposes only and is not a substitute for medical advice. Users should consult their healthcare professional before making any health, medical or other decisions based upon the data contained herein. Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc.";
+
+/* Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc. */
+"Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc." = "Chronic Pain Tracker is designed for general education purposes only. Your healthcare professional is the single best source of information regarding your health. Please consult your healthcare professional if you have any questions about your health or treatment. Chronic Pain Tracker, Chronic Stimulation, and the Chronic Stimulation logo are trademarks of Chronic Stimulation, LLC. Apple, the Apple logo, iPod, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. iPhone is a trademark of Apple Inc. App Store is a service mark of Apple Inc.";
+
+/* City */
+"City" = "Ciudad";
+
+/* Clear
+   Clear button */
+"Clear" = "Borrar";
+
+/* Clear All Cache Data */
+"Clear All Cache Data" = "Borrar todos los datos de caché";
+
+/* Clear Cache in Mem */
+"Clear Cache in Mem" = "Borrar caché";
+
+/* Clearing Database Store */
+"Clearing Database Store" = "Compensación de bases de datos";
+
+/* Close */
+"Close" = "Cerca";
+
+/* Closing all report sections */
+"Closing all report sections" = "Cierre todas las secciones del informe";
+
+/* Collapse the Tracker views within this Diary Entry. */
+"Collapses all the Tracker views within this Diary Entry." = "Collapses all the Tracker views within this Diary Entry.";
+
+/* Collections Not Found */
+"Collections Not Found" = "Colecciones No se ha encontrado";
+
+/* Colors label */
+"Colors:" = "Colores:";
+
+/* Comment */
+"Comment" = "Comentario";
+
+/* Compacting Data */
+"Compacting Data" = "La compresión de los datos";
+
+/* Conditions */
+"Conditions" = "Condiciones";
+
+/* Continue */
+"Continue" = "Continuar";
+
+/* Converting Entries */
+"Converting Entries" = "Entradas de la conversión de";
+
+/* Copy Last */
+"Copy Last" = " Copia Última";
+
+/* Copy a Previous Entry */
+"Copy a Previous Entry" = "Copia de una entrada previa";
+
+/* Country */
+"Country" = "País";
+
+/* Create Entry */
+"Create Entry" = "Create Entry";
+
+/* Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken. */
+"Create a list of your medications here.\nYou can add as many as you like.\nWith each pain entry, you can record the qty of each medication taken." = "Crear una lista de sus medicamentos aquí.\nNo puede añadir tantos como quieras.\nCon cada entrada el dolor, puede grabar la Cantidad de cada medicamento que se tome.";
+
+/* Create an HTML version of this DiaryEntry that can be emailed or printed. */
+"Create an HTML version of this DiaryEntry that can be emailed or printed." = "Crear una versión HTML de este DiaryEntry que puede ser enviado por correo electrónico o impreso.";
+
+/* Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions. */
+"Create and manage multiple Diaries to track separate personal health conditions OR help a spouse or other family member track their health conditions." = "Crear y gestionar múltiples diarios para realizar un seguimiento por separado las condiciones de salud personal o ayudar a un familiar u otro cónyuge el seguimiento de sus condiciones de salud.";
+
+/* Custom Report instructions */
+"Custom Report instructions" = "Para seleccionar las fechas de inicio y fin de encargo, primero haz clic en la fecha que desea cambiar y luego utilizar el selector para cambiar.\n\nUna vez que tenga el deseado inicio / fin de las fechas, haga clic en el botón Guardar para mostrar los resultados.";
+
+/* DB Update: 0001 */
+"DB Update: 0001" = "DB Update: 0001";
+
+/* DB Update: 0002 */
+"DB Update: 0002" = "DB Update: 0001";
+
+/* DB Update: 0003 */
+"DB Update: 0003" = "DB Update: 0001";
+
+/* Daily Avg Pain Level vs Time */
+"Daily Avg Pain Level vs Time" = "Promedios Dolor Nivel vs Tiempo";
+
+/* Daily Pain Level Moving Avg vs Time */
+"Daily Pain Level Moving Avg vs Time" = "Nivel de dolor diario \nMedia móvil vs Tiempo";
+
+/* Daily Pain Level vs Time */
+"Daily Pain Level vs Time" = "Diario Pain Nivel vs Tiempo";
+
+/* Daily Summaries for Bowel Movements */
+"Daily Summaries for Bowel Movements" = "Los resúmenes diarios de los movimientos intestinales";
+
+/* Data Transfer Operations */
+"Data Transfer Operations" = "Operaciones de transferencia de datos";
+
+/* Database Error */
+"Database Error" = "Base de datos de error";
+
+/* Date Selection */
+"Date Selection" = "Fecha de selección";
+
+/* Date of Entry */
+"Date of Entry" = "Fecha de entrada";
+
+/* Date range: */
+"Date range:" = "Rango de fechas:";
+
+/* Dates after: */
+"Dates after:" = "Fechas posteriores:";
+
+/* Dates from: */
+"Dates from:" = "Fechas a partir de:";
+
+/* Day of the Week */
+"Day of the Week" = "Día de la semana";
+
+/* Day/Night Pain Levels */
+"Day/Night Pain Levels" = "Niveles de dolor de día / noche";
+
+/* Delete Diary */
+"Delete Diary" = "Eliminar Diario";
+
+/* Description */
+"Description" = "Descripción";
+
+/* Device Memory is Low */
+"Device Memory is Low" = "Memoria del dispositivo es baja";
+
+/* Diary */
+"Diary" = "Diario";
+
+/* Diary Entries */
+"Diary Entries" = "Anotaciones en el diario";
+
+/* Diary Entries between %@ and %@ will be exported. */
+"Diary Entries between %@ and %@ will be exported." = "Diario de entradas entre %@ y %@ se exportará.";
+
+/* Diary Entry Count */
+"Diary Entry Count" = "Diario de número de registros";
+
+/* Diary Entry Export */
+"Diary Entry Export" = "Exportación de entrada de su diario";
+
+/* Diary Entry Import */
+"Diary Entry Import" = "Importar entrada de su diario";
+
+/* Diary Entry Report */
+"Diary Entry Report" = "Informe diario de la entrada";
+
+/* Diary Entry Time */
+"Diary Entry Time" = "Diario de tiempo de entrada";
+
+/* Diary Log */
+"Diary Log" = "Diario de registro";
+
+/* DiaryName */
+"Diary Name" = "Diario de nombre:";
+
+/* Diary Name & Description */
+"Diary Name & Description" = "Diario de Nombre y Descripción";
+
+/* Diary Removal */
+"Diary Removal" = "Retire el Diario";
+
+/* Diary Selection */
+"Diary Selection" = "Diario de Selección";
+
+/* Diary Statistics */
+"Diary Statistics" = "Diario de Estadísticas";
+
+/* Diary entries: */
+"Diary entries:" = "Un diario de notas:";
+
+/* Diary name: */
+"Diary name:" = "Diario de nombre:";
+
+/* DiaryEntry Trackers */
+"DiaryEntry Trackers" = "Trackers entrada del diario";
+
+/* Difference */
+"Difference" = "Diferencia";
+
+/* Disable */
+"Disable" = "Inhabilitar";
+
+/* Display Name */
+"Display Name" = "Display Name";
+
+/* Display Report */
+"Display Report" = "Mostrar informe";
+
+/* Do you want to use a copy of your last entry? */
+"Do you want to use a copy of your last entry?" = "¿Quieres usar una copia de su última entrada?";
+
+/* Done button */
+"Done" = "Hecho";
+
+/* Dropbox is Unlinked */
+"Dropbox is Unlinked" = "Dropbox es Unlinked";
+
+/* Duplicate Diary Entries will be permitted. */
+"Duplicate Diary Entries will be permitted." = "Duplicar anotaciones en el diario será permitida.";
+
+/* Duration */
+"Duration" = "Duración";
+
+/* Duration */
+"Duration:" = "Duración:";
+
+/* E-mail Address */
+"E-mail Address" = "E-mail";
+
+/* Edit */
+"Edit" = "Editar";
+
+/* Edit Display Name */
+"Edit Display Name" = "Editar Nombre para mostrar";
+
+/* Edit Increment Quantity */
+"Edit Increment Quantity" = "Editar Cantidad de incremento";
+
+/* Edit Table Entries */
+"Edit Table Entries" = "Modificar las entradas en la tabla";
+
+/* Effective Treatment Frequency */
+"Effective Treatment Frequency" = "Efectiva Frecuencia del tratamiento";
+
+/* Email */
+"Email" = "E-mail";
+
+/* Enable */
+"Enable" = "Permitir";
+
+/* End date */
+"End date" = "Fecha de finalización";
+
+/* End date: */
+"End date:" = "Fecha de finalización:";
+
+/* End Date */
+"End:" = "Final:";
+
+/* Enter Analysis Time Window in Hours. */
+"Enter Analysis Time Window in Hours." = "Enter Analysis Time Window in Hours.";
+
+/* Enter Units for Qty */
+"Enter Units for Qty" = "Entre las unidades de medida";
+
+/* Enter Your Access Code */
+"Enter Your Access Code" = "Entre su Código de Acceso";
+
+/* Enter a brief description */
+"Enter a brief description" = "Escriba una breve descripción";
+
+/* Enter a unique Diary name */
+"Enter a unique Diary name" = "Escriba un nombre único diario";
+
+/* Enter default Send-To email address */
+"Enter default Send-To email address" = "Introduzca por defecto Enviar a dirección de correo electrónico";
+
+/* Enter details for this Milestone */
+"Enter details for this Milestone" = "Introduzca los detalles de este hito";
+
+/* Enter display name */
+"Enter display name" = "Escriba el nombre para mostrar";
+
+/* Entery Units for Qty */
+"Entery Units for Qty" = "Ingrese Unidades de Cantidad";
+
+/* Entry %i of %i */
+"Entry %i of %i" = "Entrada %i de %i";
+
+/* Entry Date */
+"Entry Date" = "Fecha de entrada";
+
+/* Eraser */
+"Eraser" = "Goma de borrar";
+
+/* Error */
+"Error" = "Error";
+
+/* Error: There are no v2.x pain databases on this device to import. */
+"Error: There are no v2.x pain databases on this device to import." = "Error: There are no v2.x pain databases on this device to import.";
+
+/* Export */
+"Export" = "Exportar";
+
+/* Feels Like */
+"Feels Like" = "Se siente como";
+
+/* Filter */
+"Filter" = "Filtro";
+
+/* Filter Settings */
+"Filter Settings" = "Configuración del filtro";
+
+/* Finish Editing */
+"Finish Editing" = "Terminar de editar";
+
+/* Fri */
+"Fri" = "Vi";
+
+/* Front Side */
+"Front Side" = "Frente";
+
+/* Gosh NO! */
+"Gosh NO!" = "No";
+
+/* Heat Index */
+"Heat Index" = "Índice de calor";
+
+/* Hide Help */
+"Hide Help" = "Esconder la ayuda en";
+
+/* History */
+"History" = "Historia";
+
+/* History (filtered) */
+"History (filtered)" = "Historia (filtrado)";
+
+/* Hours Since Med Taken */
+"Hours Since Med Taken" = "Tiempo transcurrido desde la medicina";
+
+/* Hours Since Med Was Taken */
+"Hours Since Med Was Taken" = "Horas desde la medicación se tomó";
+
+/* Humidity vs Time */
+"Humidity vs Time" = "Humedad vs Tiempo";
+
+/* I'm sure */
+"I'm sure" = "Si";
+
+/* Import */
+"Import" = "Importar";
+
+/* Indicator Color */
+"Indicator Color" = "Indicador de color";
+
+/* Intensity */
+"Intensity" = "Intensidad";
+
+/* Item Frequency */
+"Item Frequency" = "Frecuencia del artículo";
+
+/* Last used: */
+"Last used:" = "Última usado:";
+
+/* Latitude */
+"Latitude" = "Latitud";
+
+/* ListItemDetail */
+"List Item Detail" = "Lista detallada del artículo";
+
+/* Lite alert message */
+"Lite message block" = "Esta versión de Tracker dolor crónico permite un máximo de %i el dolor entradas de registro. La base de datos se va a recortar a permanecer dentro de ese máximo.\n\nSi usted encuentra esta útil aplicación, por favor, actualice a nuestra versión completa que permite a todos las mismas características, además de ilimitada entradas en el registro del dolor.";
+
+/* Loading Database */
+"Loading Database" = "Cargando datos";
+
+/* Loading... */
+"Loading..." = "Cargando ...";
+
+/* Location */
+"Location" = "Ubicación";
+
+/* Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception. */
+"Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception." = "Location Manager was unable to determine your location. The Weather Tracker will be removed from the Diary Entry for now.\n\nTry adding the Weather Tracker in a few moments, once you have better cellular or WiFi network reception.";
+
+/* Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception. */
+"Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception." = "Location Manager was unable to find a network needed to detect your approximate position. The Weather Tracker will be removed from the Diary Entry for now.\n\nAdd the Weather Tracker to this Diary Entry in a few moments, once you have better cellular or WiFi network reception.";
+
+/* Longitude */
+"Longitude" = "Longitud";
+
+/* Medication */
+"Medication" = "Medicación";
+
+/* Medication Name */
+"Medication Name" = "Nombre del medicamento";
+
+/* MemoryWarningMessageOption1 */
+"MemoryWarningMessageOption1" = "Your device has issued a low memory warning to this application.\n\nThis app will now take steps to reduce it's memory footprint to make more memory available to the active processes. You can also help free memory by closing one or more of your currently suspended applications. Rebooting the device the device from time to time is also advised to ensure that the maximum available memory pool is available for this application.\n\nFor more information on Device Memory Warnings and how they affect your device, please click on the More Info button below.";
+
+/* MemoryWarningMessageOption2 */
+"MemoryWarningMessageOption2" = "Your device's operating system has issued multiple low memory warnings in the last 2 minutes.\n\nThis application has taken steps to free memory, but the continued warnings suggest that other apps on your device are holding a significant percentage of the available memory. You can help by simply closing one or more of your currently suspended applications to free more memory. Rebooting the device will also ensure that the maximum available memory pool is available for this application.\n\nFor more information on Device Memory Warnings and how they affect your device, please click on the More Info button below.";
+
+/* Midnight\nto\n6am */
+"Midnight\nto\n6am" = "00:00 a 06:00";
+
+/* Milestone */
+"Milestone" = "Hito";
+
+/* Modify the Date or Time of this entry as needed. */
+"Modify the Date or Time of this entry as needed." = "Modificar la fecha y hora de esta entrada, según sea necesario.";
+
+/* Mon */
+"Mon" = "Lu";
+
+/* More Info */
+"More Info" = "Más Info";
+
+/* Most Effective Treatments */
+"Most Effective Treatments" = "Los tratamientos más eficaces";
+
+/* Moving Avg Pain Level vs Time */
+"Moving Avg Pain Level vs Time" = "Media móvil Dolor Nivel vs Tiempo";
+
+/* Name */
+"Name" = "Nombre";
+
+/* Name your new collection */
+"Name your new collection" = "El nombre de su nueva colección";
+
+/* New collection: %@, has been created. */
+"New collection: %@, has been created." = "Nueva colección: %@, se ha creado.";
+
+/* NewUserMessage */
+"NewUserMessage" = "NewUserMessage";
+
+/* NewUserTitle */
+"NewUserTitle" = "NewUserTitle";
+
+/* No */
+"No" = "No";
+
+/* No Compatible Apps */
+"No Compatible Apps" = "No hay aplicaciones compatibles";
+
+/* No Diary Entries fell within the targeted analysis period. */
+"No Diary Entries fell within the targeted analysis period." = "No hay anotaciones en el diario entraba en el período de análisis objetivo.";
+
+/* No Quick Build Collections have been defined yet. */
+"No Quick Build Collections have been defined yet." = "No Colecciones rápida construcción se han definido todavía.";
+
+/* No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken. */
+"No data points were produced. Increasing the\nanalysis time window for the medication is advised.\nThe current window is %.0f hours from the\ntime the medication is taken." = "No data points were produced. Increasing the analysis time window for the medication is advised.\nThe current window is %.0f hours from the time the medication is taken.";
+
+/* No previous entry containing this Tracker object was found to copy from. */
+"No previous entry containing this Tracker object was found to copy from." = "No hay entrada anterior que contiene este objeto Tracker fue encontrado a copiar.";
+
+/* Noon\nto\n6pm */
+"Noon\nto\n6pm" = "12:00-18:00";
+
+/* Number of entries: */
+"Number of entries:" = "Número de entradas:";
+
+/* OK */
+"OK" = "OK";
+
+/* Observation Time */
+"Observation Time" = "Tiempo de Observación";
+
+/* Ok */
+"Ok" = "OK";
+
+/* One or more Trackers are still processing information. Please wait just a moment before saving this Entry. */
+"One or more Trackers are still processing information. Please wait just a moment before saving this Entry." = "One or more Trackers are still processing information. Please wait just a moment before saving this Entry.";
+
+/* Onset */
+"Onset" = "Inicio";
+
+/* Onset */
+"Onset:" = "Inicio:";
+
+/* Open */
+"Open" = "Abrirse";
+
+/* Open the Tracker item selection window to choose the Trackers to be included with this entry. */
+"Open the Tracker item selection window to choose the Trackers to be included with this entry." = "Open the Tracker item selection window to choose the Trackers to be included with this entry.";
+
+/* Open this page in Safari? */
+"Open this page in Safari?" = "Abrir esta página en Safari?";
+
+/* Open.. */
+"Open.." = "Abrir ..";
+
+/* Opening all report sections */
+"Opening all report sections" = "Apertura de todas las secciones del informe";
+
+/* Open the Tracker views to show and edit the Tracker details. */
+"Opens all the Tracker views to show and edit the Tracker details." = "Opens all the Tracker views to show and edit the Tracker details.";
+
+/* Other Symptom Cloud */
+"Other Symptom Cloud" = "Other Symptom Cloud";
+
+/* Other Symptom Frequency */
+"Other Symptom Frequency" = "Other Symptom Frequency";
+
+/* Packing Paths */
+"Packing Paths" = "simplificación de dibujo";
+
+/* Pain Description Cloud */
+"Pain Description Cloud" = "Dolor Descripción Nube";
+
+/* Pain Description Frequency */
+"Pain Description Frequency" = "Dolor Descripción Frecuencia";
+
+/* Pain Duration Frequency */
+"Pain Duration Frequency" = "El dolor Duración Frecuencia";
+
+/* Pain Duration vs Time */
+"Pain Duration vs Time" = "El dolor Duración vs Tiempo";
+
+/* Pain Level */
+"Pain Level" = "Nivel de Dolor";
+
+/* Pain Level Change Since Med Was Taken */
+"Pain Level Change Since Med Was Taken" = "Cambio en el dolor Puesto medicación se tomó";
+
+/* Pain Level Distribution */
+"Pain Level Distribution" = "Distribución Nivel de dolor";
+
+/* Pain Level Range */
+"Pain Level Range" = "Rango de nivel de dolor";
+
+/* Pain Level Range Per Duration */
+"Pain Level Range Per Duration" = "Nivel de dolor vs Duración";
+
+/* Pain Level Range Per Onset */
+"Pain Level Range Per Onset" = "Dolor Nivel vs Onset";
+
+/* Pain Level When Taken */
+"Pain Level When Taken" = "Nivel de dolor cuando se toma";
+
+/* Pain Level over Day Night Hours */
+"Pain Level over Day Night Hours" = "Dolor Nivel vs Tiempo del Día";
+
+/* Pain Level vs Time */
+"Pain Level vs Time" = "Dolor Nivel vs Tiempo";
+
+/* Pain Level when Taken */
+"Pain Level when Taken" = "Nivel de dolor cuando se toma";
+
+/* Pain Onset Frequency */
+"Pain Onset Frequency" = "El dolor inicio de frecuencia";
+
+/* Pain Onset vs Time */
+"Pain Onset vs Time" = "El dolor inicio vs Tiempo";
+
+/* Painter header title */
+"Pain Painter" = "Dolor Pintor";
+
+/* Pain Range per Duration */
+"Pain Range per Duration" = "Nivel de dolor vs Duración";
+
+/* Pain Range per Humidity Levels */
+"Pain Range per Humidity Levels" = "Dolor Nivel vs Humedad";
+
+/* Pain Range per Humidity Range */
+"Pain Range per Humidity Range" = "Dolor Nivel vs Humedad";
+
+/* Pain Range per Onset Level */
+"Pain Range per Onset Level" = "Dolor Nivel vs Onset";
+
+/* Pain Range per Pressure Trend */
+"Pain Range per Pressure Trend" = "Dolor nivel vs \nde tendencia presión";
+
+/* Pain Range per Weather Condition */
+"Pain Range per Weather Condition" = "Dolor Nivel vs \nCondiciones meteorológicas";
+
+/* Pain Reduction Percentage */
+"Pain Reduction Percentage" = "Dolor Reducción porcentual";
+
+/* PainMap Paths */
+"PainMap Paths" = "PainMap Paths";
+
+/* PainMap Thumbnails */
+"PainMap Thumbnails" = "PainMap Thumbnails";
+
+/* Patient Info */
+"Patient Info" = "Información para el paciente";
+
+/* Patient Name */
+"Patient Name" = "Nombre del paciente";
+
+/* Patient name: */
+"Patient name:" = "Nombre del paciente:";
+
+/* Pen size label */
+"Pen Size:" = "Pluma Tamaño:";
+
+/* Percentage of Entries */
+"Percentage of Entries" = "Porcentaje de las entradas";
+
+/* Performing Updates */
+"Performing Updates" = "Realizar actualizaciones";
+
+/* Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available. */
+"Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available." = "Permission to use Location Services could not be determined.\n\nTo ensure permission has been granted, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Make sure Location Services are ON for this app. Then restart the app and the Weather Tracker should be available.";
+
+/* Please enter a unit description for quantities you will be tracking. */
+"Please enter a unit description for quantities you will be tracking." = "Por favor, introduzca una descripción de la unidad de las cantidades que se de seguimiento.";
+
+/* Precip Today */
+"Precip Today" = "Precipitación Hoy";
+
+/* Presence of blood in stool? */
+"Presence of blood in stool?" = "La presencia de sangre en las heces?";
+
+/* Pressure */
+"Pressure" = "Presión";
+
+/* Pressure (in) */
+"Pressure (in)" = "Presión (in)";
+
+/* Pressure (mb) */
+"Pressure (mb)" = "Presión (mb)";
+
+/* Pressure Trend */
+"Pressure Trend" = "Tendencia de presión";
+
+/* Pressure Trend vs Time */
+"Pressure Trend vs Time" = "Presión Tendencia vs Tiempo";
+
+/* Pressure vs Time */
+"Pressure vs Time" = "La presión vs del tiempo";
+
+/* Print */
+"Print" = "Imprimir";
+
+/* Process has completed. */
+"Process has completed." = "Proceso ha completado";
+
+/* Processed on: */
+"Processed on:" = "Fecha de tramitación:";
+
+/* Qty Increment */
+"Qty Increment" = "Cantidad de incremento";
+
+/* Qty Taken */
+"Qty Taken" = "Cantidad Tomada";
+
+/* Qty Taken (%@) */
+"Qty Taken (%@)" = "Cantidad Tomado (%@)";
+
+/* Qty Units */
+"Qty Units" = "Unidades de Cantidad";
+
+/* Quantity: */
+"Quantity:" = "Cantidad:";
+
+/* Recorded Pain Level */
+"Recorded Pain Level" = "Dolor registró el nivel";
+
+/* Red */
+"Red" = "Roja";
+
+/* Refresh */
+"Refresh" = "Recargar";
+
+/* Refresh Report Data */
+"Refresh Report Data" = "Actualizar datos de informe";
+
+/* Regenerate */
+"Regenerate" = "Regenerar";
+
+/* Regenerate Report */
+"Regenerate Report" = "Regenerar Informe";
+
+/* Rel Humidity */
+"Rel Humidity" = "Humedad";
+
+/* Relative Humidity % */
+"Relative Humidity %" = "Humedad %";
+
+/* Report Categories */
+"Report Categories" = "Categorías informe";
+
+/* Report Options */
+"Report Options" = "Opciones de informe";
+
+/* Report Output Cache */
+"Report Output Cache" = "Informe de caché de resultados";
+
+/* Report created using: Chronic Pain Tracker */
+"Report created using: Chronic Pain Tracker" = "Informe creado con: Chronic Pain Tracker";
+
+/* Report generated: */
+"Report generated:" = "Informe generado:";
+
+/* Report name: */
+"Report name:" = "Nombre del informe:";
+
+/* Report sections: */
+"Report sections:" = "Las secciones del informe:";
+
+/* Report title */
+"Reports" = "Informes";
+
+/* Sat */
+"Sat" = "Sa";
+
+/* Save */
+"Save" = "Guardar";
+
+/* Save Diary */
+"Save Diary" = "Guardar Diario";
+
+/* Saved Reports */
+"Saved Reports" = "Informes guardados";
+
+/* Saves the changes made to this DiaryEntry and returns to the Diary History tableview. */
+"Saves the changes made to this DiaryEntry and returns to the Diary History tableview." = "Guarda los cambios realizados en esta entrada de diario y vuelve a la Historia tableview Diario.";
+
+/* Saving New Entries */
+"Saving New Entries" = "Ahorro de nuevas entradas";
+
+/* Saving Path Data */
+"Saving Path Data" = "Ahorro de Dibujo";
+
+/* Section count: */
+"Section Count:" = "Número de secciones:";
+
+/* Select a Milestone Category */
+"Select a Milestone Category" = "Seleccione una categoría Hito";
+
+/* Select filter method */
+"Select filter method" = "Elija un método para filtrar";
+
+/* Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry. */
+"Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry." = "Select one or more Trackers from the table below.\nTap the Apply button to add them to your Diary Entry.";
+
+/* Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries. */
+"Select the Diary above to begin creating Diary Entries. Tap the accessory button to edit the Diary name or description.\n\nIf you need the ability to manage multiple Diaries (eg. for a separate injury or for a spouse), then we suggest you look at the full version of Chronic Pain Tracker. It supports unlimited separate Diaries." = "Seleccione Diario de arriba para empezar a crear anotaciones en el diario. Pulse el botón de accesorios para modificar el nombre de Agenda o de descripción.\n\nSi usted necesita la capacidad de manejar múltiples diarios (por ejemplo, por una lesión por separado o de un cónyuge), entonces le sugerimos que consulte a la versión completa del Rastreador de dolor crónico . Soporta ilimitada Diarios independientes.";
+
+/* Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis. */
+"Select the time of day for the Reminder to be triggered. This notification will be repeated on a daily basis." = "Seleccione la hora del día para que el aviso se activará. Esta notificación se repite a diario.";
+
+/* Selection Error */
+"Selection Error" = "Error con la Selección";
+
+/* Selection count: */
+"Selection count:" = "Número seleccionado:";
+
+/* Serious Application Error */
+"Serious Application Error" = "Error de la aplicación seria";
+
+/* Settings */
+"Settings" = "Configuración";
+
+/* Show Milestone on Graphs */
+"Show Milestone on Graphs" = "Mostrar Milestone en Gráficos";
+
+/* Simplifying Path Data */
+"Simplifying Path Data" = "Simplifying Path Data";
+
+/* Single Diary Entry Report */
+"Single Diary Entry Report" = "Diario Reporte Individual de entrada";
+
+/* Sleep */
+"Sleep" = "Dormir";
+
+/* Staleness Factor: */
+"Staleness Factor:" = "Estancamiento Factor:";
+
+/* Staleness factor: */
+"Staleness factor:" = "Estancamiento factor:";
+
+/* Start date */
+"Start date" = "Fecha de inicio";
+
+/* Start date: */
+"Start date:" = "Fecha de inicio:";
+
+/* Start Date */
+"Start:" = "Iniciar:";
+
+/* State */
+"State" = "Estado";
+
+/* Station ID */
+"Station ID" = "Identidad de la estación";
+
+/* Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique. */
+"Step 1: Provide a name and description for your Diary.\nPlease note, Diary names must be unique." = "Paso 1:. Proporcione un nombre y una descripción para el diario.\nPor favor, tenga en cuenta, los nombres de diario debe ser único.";
+
+/* Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports. */
+"Step 2: Define data used in report generation.\nThe patient name will be added to exported reports. The email address is the default send-to address when exporting reports." = "Paso 2: Definición de los datos utilizados en la generación de informes.\nEl nombre del paciente se añadirá a los informes exportados.. La dirección de correo electrónico es la opción predeterminada de envío a domicilio, cuando la exportación de informes.";
+
+/* Database Actions\n(Note: these actions cannot be reversed) */
+"Step 3: (Optional) If you are upgrading from an earlier version of CPT, you can import your previous entries into this Diary.\nIf you are a new user, this step is not necessary." = "Paso 3: (opcional). Si está actualizando desde una versión anterior de la CPT, puedes importar tus entradas anteriores en este diario.\nSi es un usuario nuevo, este paso no es necesario.";
+
+/* Step Date Range Backward */
+"Step Date Range Backward" = "Fecha de Paso atrás Rango";
+
+/* Step Date Range Forward */
+"Step Date Range Forward" = "Paso Fecha de la estufa hacia adelante";
+
+/* Stores processed data for report graphs */
+"Stores processed data for report graphs" = "Stores processed data for report graphs";
+
+/* Summary & Analysis Report */
+"Summary & Analysis Report" = "Resumen y análisis de Informe\n";
+
+/* Sun */
+"Sun" = "Do";
+
+/* Symptoms */
+"Symptoms" = "Síntomas";
+
+/* Tap \"View Report\" to generate a PDF or HTML version of the report for export. */
+"Tap \"View Report\" to generate a PDF or HTML version of the report for export." = "Toque en \"Ver informe\" para generar una versión PDF o HTML del informe para la exportación.";
+
+/* Tap the Tracker row to choose which info to include in the report. */
+"Tap the Tracker row to choose which info to include in the report." = "Toque la fila Tracker para elegir qué información incluir en el informe.";
+
+/* Tap the action key to generate the report. */
+"Tap the action key to generate the report." = "Pulse la tecla de acción para generar el informe.";
+
+/* Temperature (℃) */
+"Temperature (℃)" = "Temperatura (℃)";
+
+/* Temperature (℉) */
+"Temperature (℉)" = "Temperatura (℉)";
+
+/* Temperature vs Time */
+"Temperature vs Time" = "Temperatura vs Tiempo";
+
+/* That Display Name already exists. Please enter a unique name. */
+"That Display Name already exists. Please enter a unique name." = "Nombre para mostrar que ya existe. Por favor, introduzca un nombre único.";
+
+/* That name is already being used by another Diary. */
+"That name is already being used by another Diary." = "Ese nombre ya está siendo utilizado por otro diario.";
+
+/* The Display Name must not be blank. */
+"The Display Name must not be blank." = "El nombre para mostrar que no debe estar en blanco.";
+
+/* The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker. */
+"The Lite version of this application does not support importing data from previous versions.\n\nWith the full version, you could import data from a previous version of Chronic Pain Tracker." = "La versión Lite de esta aplicación no es compatible con la importación de datos de versiones anteriores.\n\nCon la versión completa, puede importar datos desde una versión anterior del Rastreador de dolor crónico.";
+
+/* The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed. */
+"The Lite version of this application supports usage of a single Diary only.\n\nThis Diary cannot be deleted, but you can modify the name/description as needed." = "La versión Lite de esta aplicación es compatible con el uso de un Diario de una sola vez.\n\nEste diario no se pueden eliminar, pero puede modificar el nombre / descripción según sea necesario.";
+
+/* The Patient Name will appear on reports. */
+"The Patient Name will appear on reports." = "El nombre del paciente aparecerán en los informes.";
+
+/* The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance. */
+"The application has encountered a serious error. Please press the device's Home button to exit and then restart the app. If this error continues, please contact support@chronicstimulation.com for assistance." = "La aplicación ha detectado un grave error. Por favor presione el botón del dispositivo principal para salir y reiniciar la aplicación. Si el error persiste, póngase en contacto con support@chronicstimulation.com para obtener ayuda.";
+
+/* The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report. */
+"The attached HTML file contains your Chronic Pain Tracker report data. Open it in any traditional browser to view and/or print the report." = "El archivo adjunto HTML contiene su dolor crónico de datos del informe Tracker. Abrirlo en cualquier navegador tradicional de ver y / o imprimir el informe.";
+
+/* The data transfer options allow you to import/export a date based range of Diary Entries to/from the database. */
+"The data transfer options allow you to import/export a date based range of Diary Entries to/from the database." = "Las opciones de transferencia de datos le permiten importar / exportar un rango de fechas basado en anotaciones en el diario de a / desde la base de datos.";
+
+/* The export process was not successful. Please try again, or contact Customer Support for additional assistance. */
+"The export process was not successful. Please try again, or contact Customer Support for additional assistance." = "El proceso de exportación no tuvo éxito. Por favor, inténtelo de nuevo o póngase en contacto con Atención al Cliente para obtener asistencia adicional.";
+
+/* The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored. */
+"The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored." = "The notification refers to a Diary (%@) that no longer exists or has been renamed. The notification will be ignored.";
+
+/* The selection is a Folder. Please select a File and try again. */
+"The selection is a Folder. Please select a File and try again." = "La selección es una carpeta. Por favor, seleccione un archivo y vuelva a intentarlo.";
+
+/* The update you have just loaded needs to make one or more changes to the app's database before you can continue. Please select OK to begin the updates. */
+"The update you have just loaded needs to make one or more changes to the app's database before you can continue.\n\nPlease select OK to begin the update process." = "La actualización tiene que hacer uno o más cambios en la base de datos de la aplicación antes de continuar. Por favor, seleccione Aceptar para comenzar el proceso de actualización.";
+
+/* There are no Diaries available to report on. Please first create a Diary with entries before running reports. */
+"There are no Diaries available to report on. Please first create a Diary with entries before running reports." = "No hay diarios disponibles para informar. Por favor, primero debe crear un diario con las entradas antes de la ejecución de informes.";
+
+/* There are no Diary Entries to export within the date range provided (%@ to %@). */
+"There are no Diary Entries to export within the date range provided (%@ to %@)." = "No hay anotaciones en el diario a la exportación dentro del rango de fechas previstas (%@ a %@).";
+
+/* There was a problem saving your Tracker Collection template. Please try again. */
+"There was a problem saving your Tracker Collection template. Please try again." = "Hubo un problema al guardar la plantilla Colección Tracker. Por favor, inténtelo de nuevo.";
+
+/* This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail. */
+"This information is used during report generation. The patient name will be added to exported reports, and the email address is the default send-to address used when exporting reports via e-mail." = "Esta información es utilizada durante la generación del informe. El nombre del paciente se añadirán a los informes exportados, y la dirección de correo electrónico es la opción predeterminada de envío a abordar cuando utiliza la exportación de informes a través de correo electrónico.";
+
+/* This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team. */
+"This table provides access to the caches and secondary data stores used by the application.\nThere is no need to reset these items unless instructed to do so by the Chronic Stimulation Support Team." = "Esta tabla proporciona acceso a las memorias caché y almacena los datos secundarios utilizados por la aplicación.\nNo hay necesidad de restablecer estos elementos a menos que se le indique por el Equipo de Apoyo a la estimulación crónica.";
+
+/* This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue? */
+"This will permanently delete your Diary data. There is no recovery from this option. Do you wish to continue?" = "Esto borrará los datos del diario. No hay recuperación de esta opción. ¿Desea continuar?";
+
+/* This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone. */
+"This will remove the Diary and all of it's data from the database. Please note, this step can NOT be undone." = "Esto eliminará el diario y todos son datos de la base de datos. Tenga en cuenta que este paso no se puede deshacer.";
+
+/* This will reset the list to its original system values. It cannot be undone. Do you want to proceed? */
+"This will reset the list to its original system values. It cannot be undone. Do you want to proceed?" = "Esto restablecerá la lista de sus valores originales del sistema. No se puede deshacer. ¿Desea continuar?";
+
+/* Thu */
+"Thu" = "Ju";
+
+/* Time to process: */
+"Time to process:" = "Tiempo para procesar:";
+
+/* Timestamp */
+"Timestamp" = "Fecha y hora";
+
+/* Title */
+"Title" = "Título";
+
+/* Top Pain Descriptions */
+"Top Pain Descriptions" = "Descripciones Dolor";
+
+/* Top Pain Triggers */
+"Top Pain Triggers" = "Principales causas de dolor";
+
+/* Tracker Collections */
+"Tracker Collections" = "Tracker Collections";
+
+/* Tracker Count:
+   Tracker count: */
+"Tracker Count:" = "Tracker Count:";
+
+/* Tracker Selection */
+"Tracker Selection" = "Rastreador de Selección";
+
+/* Treatment */
+"Treatment" = "Tratamiento";
+
+/* Treatment Cloud */
+"Treatment Cloud" = "Nube Tratamiento";
+
+/* Treatment Frequency */
+"Treatment Frequency" = "Frecuencia del tratamiento";
+
+/* Trigger */
+"Trigger" = "Gatillo";
+
+/* Trigger Cloud */
+"Trigger Cloud" = "Nube Gatillo";
+
+/* Trigger Frequency */
+"Trigger Frequency" = "Trigger Frequency";
+
+/* Tue */
+"Tue" = "Ma";
+
+/* UV Index */
+"UV Index" = "Índice UV";
+
+/* Units */
+"Units" = "Unidades";
+
+/* Update is Running */
+"Update is Running" = "Update se está ejecutando";
+
+/* Upgrade */
+"Upgrade" = "Mejorar";
+
+/* Upgrade Now */
+"Upgrade Now" = "Actualizar ahora";
+
+/* Usage count: */
+"Usage count:" = "Uso de contar con:";
+
+/* Use the Date/Time Picker to select the desired timestamp for this DiaryEntry. */
+"Use the Date/Time Picker to select the desired timestamp for this DiaryEntry." = "Utilice la Fecha / Selector de hora para seleccionar la fecha y hora que desee para esta DiaryEntry.";
+
+/* View label */
+"View:" = "Ver:";
+
+/* Weather */
+"Weather" = "Tiempo";
+
+/* Weather Data */
+"Weather Data" = "Datos Meteorológicos";
+
+/* Wed */
+"Wed" = "Mi";
+
+/* Weekday Pain Levels */
+"Weekday Pain Levels" = "Niveles de dolor diario";
+
+/* Which type of report do you want to create? */
+"Which type of report do you want to create?" = "¿Qué tipo de informe desea crear?";
+
+/* Windchill */
+"Windchill" = "Vientos helados";
+
+/* Yellow */
+"Yellow" = "Amarillo";
+
+/* Yes */
+"Yes" = "Sí";
+
+/* You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox. */
+"You are not currently logged into your Dropbox account. Before the report can be saved, you must log into Dropbox." = "Usted no se ha iniciado la sesión en su cuenta de Dropbox. Antes de que el informe se puede guardar, debe iniciar sesión en Dropbox.";
+
+/* You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds. */
+"You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder. Reminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds." = "Puede crear uno o más recordatorios diarios para ayudar a controlar la entrada de datos en la aplicación. Simplemente haga clic en el botón Agregar y seleccione la hora de la tarea. Los recordatorios pueden ser eliminados por el cambio al modo de edición pulsando y manteniendo pulsado sobre la mesa durante 2 segundos.";
+
+/* You can remove this Diary from your database. Please note, this step can NOT be undone. */
+"You can remove this Diary from your database. Please note, this step can NOT be undone." = "Puede eliminar este diario desde su base de datos. Tenga en cuenta que este paso no se puede deshacer.";
+
+/* You did not enter a valid number. Please try again. */
+"You did not enter a valid number. Please try again." = "No ha introducido un número válido. Por favor, inténtalo de nuevo.";
+
+/* You do not have any apps on your device that have registered for opening this type of file. */
+"You do not have any apps on your device that have registered for opening this type of file." = "Usted no tiene ninguna aplicación en el dispositivo que se han registrado para abrir este tipo de archivo.";
+
+/* You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed? */
+"You have %i items from a previous version which can be imported into the current platform. Do you wish to proceed?" = "Usted tiene %i elementos de una versión anterior que se pueden importar en la plataforma actual. ¿Desea continuar?";
+
+/* You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed? */
+"You have %i items from a previous version which can be imported into the current platform. With this many items, the import process could take several minutes. Therefore it is advisable to have a full battery charge or be powered via a USB cable during the process. Do you wish to proceed?" = "Usted tiene %i elementos de una versión anterior que se pueden importar en la plataforma actual. Con tantos materiales, el proceso de importación puede tardar varios minutos. Por lo tanto, es aconsejable disponer de una carga completa de batería o se alimenta a través de un cable USB durante el proceso. ¿Desea continuar?";
+
+/* You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@\n\nDo you wish to continue? */
+"You have selected the following zip file for Diary Entry import:\n\n%@\n\n%@\n\nDo you wish to continue?" = "Usted ha seleccionado el archivo zip siguientes para la importación Diario entrada:\n\n%@\n\n%@\n\n¿Desea continuar";
+
+/* You must enter a numerical value for the analysis time. */
+"You must enter a numerical value for the analysis time." = "Debe introducir un valor numérico para el tiempo de análisis.";
+
+/* You must enter a numerical value for the increment quantity. */
+"You must enter a numerical value for the increment quantity." = "Debe introducir un valor numérico de la cantidad de incremento.";
+
+/* You must select a Collection from the list below before it can be applied to your Diary Entry. */
+"You must select a Collection from the list below before it can be applied to your Diary Entry." = "Usted debe seleccionar una colección de la siguiente lista antes de que pueda ser aplicado a su entrada en el diario.";
+
+/* You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available. */
+"You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available." = "You previously deined the request to activate the Location Manager services. This service is required for the Weather Tracker.\n\nTo grant permission, exit Chronic Pain Tracker and go to the Settings icon -> General -> Location Services page. Enable location services for the application. Then restart the app and the Weather Tracker will be available.";
+
+/* Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue? */
+"Your Diary Entry already contains one or more Trackers. If you continue, those Trackers will be deleted and replaced with the Trackers from the selected Collection. Do you wish to continue?" = "Su entrada en el diario ya contiene uno o más seguidores. Si continúa, los perseguidores se elimina y se reemplaza con los perseguidores de la colección seleccionada. ¿Desea continuar?";
+
+/* Your collection cannot be saved without a proper name. Please try again. */
+"Your collection cannot be saved without a proper name. Please try again." = "Su colección no puede ser salvo sin un nombre propio. Por favor, inténtalo de nuevo.";
+
+/* Zip */
+"Zip" = "Código postal";
+
+/* Entries this month */
+"entries this month" = "las entradas de este mes";
+
+/* to: */
+"to:" = "a:";
+
+/* 1 Month */
+" 1 Month" = "1 Mes";
+
+/* 2 Month */
+" 2 Month" = "2 Meses";
+
+/* 3 Month */
+" 3 Month" = "3 Meses";
+
+/* 6 Month */
+" 6 Month" = "6 Meses";
+
+/* 9 Month */
+" 9 Month" = "9 Meses";
+
+/* 12 Month */
+"12 Month" = "12 Meses";
+
+/* Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed. */
+"Access previously generated report documents (PDF, HTML, and CSV output).\n\nReview them live on your device, OR Print, E-mail, or Sync them to other devices as needed." = "Acceda a los documentos generados con anterioridad informe (PDF, HTML, CSV y salida).\n\nRevise ellos viven en el dispositivo, o imprimir, correo electrónico, o sincronizarlos con otros dispositivos como sea necesario.";
+
+/* Add Diary Entry */
+"Add Diary Entry" = "Añadir entrada de diario";
+
+/* Add Diary */
+"Add Diary" = "Añadir Diary";
+
+/* Add-On Features */
+"Add-On Features" = "Funciones complementarias";
+
+/* Backup & Restore */
+"Backup & Restore" = "Copia de seguridad y restauración";
+
+/* Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record. */
+"Complete details of each Diary Entry displayed in an easy to review format.\n\nGives you and your doctor full visibility into your day to day health record." = "Los detalles completos de cada Entrada en el diario muestra en un formato fácil de revisar.\n\nLe da a usted ya su médico visibilidad completa en su día a día record de salud.";
+
+/* proVersionTextViewText */
+"Congratulations. This version of Chronic Pain Tracker already includes all currently available feature add-ons. With future updates, we may offer additional features here, so check back later.\n\nWe do appreciate your business and hope that our product helps you to better manage your chronic pain condition. If you have questions, suggestions, or want to share your story about the impact Chronic Pain Tracker has had for you, please contact us at support@chronicstimulation.com." = "Felicitaciones. Esta versión de Chronic Pain Tracker ya incluye toda la característica actualmente disponible add-ons. Con las actualizaciones futuras, pueden ofrecer características adicionales aquí, así que compruébelo más tarde.\n\nApreciamos su negocio y esperamos que nuestro producto le ayuda a manejar mejor su condición de dolor crónico. Si tiene preguntas, sugerencias, o quieres compartir tu historia sobre el Chronic Pain Tracker impacto ha tenido para usted, por favor póngase en contacto con nosotros en support@chronicstimulation.com.";
+
+/* Contents */
+"Contents" = "Contenu";
+
+/* CPT Help */
+"CPT Help" = "CPT Ayuda";
+
+/* Daily Pain Avg vs Time */
+"Daily Pain Avg vs Time" = "El dolor medio diario vs Tiempo";
+
+/* Database Restore Starting */
+"Database Restore Starting" = "Restaurar base de datos de inicio";
+
+/* Diary Capacity Limit */
+"Diary Capacity Limit" = "Diario del límite de capacidad";
+
+/* Diary History Report */
+"Diary History Report" = "Diario Reporte Histórico";
+
+/* Diary: %@ */
+"Diary: %@" = "Diario: %@";
+
+/* entries */
+"entries" = "entradas";
+
+/* Expand Your Diary Capacity: */
+"Expand Your Diary Capacity:" = "Amplíe su capacidad Diario:";
+
+/* Export Graph */
+"Export Graph" = "Exportar Gráfico";
+
+/* Feature Addition */
+"Feature Addition" = "Adición de funciones";
+
+/* Feature Expansion Options: */
+"Feature Expansion Options:" = "Función Opciones de expansión:";
+
+/* Filtering is Active */
+"Filtering is Active" = "El filtrado es activo";
+
+/* Filtering is Inactive */
+"Filtering is Inactive" = "El filtrado es inactivo";
+
+/* Graph Settings */
+"Graph Settings" = "Configuración Gráfica";
+
+/* Help */
+"Help" = "Ayudar";
+
+/* Month Selection */
+"Month Selection" = "Mes Selección";
+
+/* Multi-Diary Support */
+"Multi-Diary Support" = "Soporte Multi-Diary";
+
+/* No Backup File Selected */
+"No Backup File Selected" = "No Backup File Selected";
+
+/* Not Available */
+"Not Available" = "No Disponible";
+
+/* Pain Entries vs Time */
+"Pain Entries vs Time" = "Entradas Pain vs Tiempo";
+
+/* Pain Range per Other Symptom */
+"Pain Range per Other Symptom" = "Dolor Nivel vs Otros síntomas";
+
+/* Pain Range per Pain Description */
+"Pain Range per Pain Description" = "Dolor Nivel vs \nDescripciones Dolor";
+
+/* Pain Range per Pain Trigger */
+"Pain Range per Pain Trigger" = "Dolor Nivel vs \nTipo de disparo";
+
+/* Pain Range per Precipitation */
+"Pain Range per Precipitation" = "Nivel de dolor vs Precipitación";
+
+/* Pain Range per Pressure Range */
+"Pain Range per Pressure Range" = "Dolor Nivel vs \nPresión barométrica";
+
+/* Pain Range per Temp Range */
+"Pain Range per Temp Range" = "Nivel de dolor vs \ntemperatura exterior";
+
+/* Pain Range per Temperature Range */
+"Pain Range per Temperature Range" = "Nivel de dolor vs \ntemperatura exterior";
+
+/* Pain Range per Treatment */
+"Pain Range per Treatment" = "Dolor Nivel vs Tratamiento";
+
+/* Report Archive */
+"Report Archive" = "Reportar Archivo";
+
+/* Save & Continue */
+"Save & Continue" = "Guardar y continuar";
+
+/* Select a period to view. */
+"Select a period to view." = "Seleccione un período para ver.";
+
+/* Select the graph timeframe: */
+"Select the graph timeframe:" = "Seleccione el marco de gráfico en tiempo:";
+
+/* Select the type of graph to display: */
+"Select the type of graph to display:" = "Seleccione el tipo de gráfico que desea mostrar:";
+
+/* Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends. */
+"Statistical analysis of your Diary prepares you for next doctor's visit with a visual summary of your chronic pain history.\n\nMore than 30 different visualizations help you identify key health trends." = "El análisis estadístico de su Diario que se prepara para la visita del médico que viene con un resumen visual de su historial de dolor crónico.\n\nMás de 30 diferentes visualizaciones ayudará a identificar las tendencias clave de la salud.";
+
+/* Stop Showing Help */
+"Stop Showing Help" = "Dejar de mostrar la Ayuda";
+
+/* Summary Report */
+"Summary Report" = "Resumen del informe";
+
+/* Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary. */
+"Tap the Diary you wish to work with. This will become the Active diary for creating new diary entries, viewing diary history and running reports.\n\nYou can edit the Diary details by tapping the blue Accessory button.\n\nTap the \"Add Diary\" button to create a new Diary." = "Toque en el diario que desea trabajar. Esto se convertirá en el diario activo para la creación de nuevas entradas de diario, ver el historial diario y ejecutar informes.\n\nPuede editar los detalles del diario pulsando el botón azul de accesorios.\n\nToque en el \"Diario Add\" para crear un nuevo diario.";
+
+/* The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report? */
+"The Diary Entry must be saved before the report can be run. Do you wish to Save and Continue with the Report?" = "La Entrada en el diario debe guardarse antes de que el informe se puede ejecutar. ¿Desea Guardar y continuar con el informe?";
+
+/* The purchase of %@ was cancelled or failed to process. */
+"The purchase of %@ was cancelled or failed to process." = "La compra de %@ fue cancelado o dejado de procesar.";
+
+/* The purchase of %@ was successfully completed. */
+"The purchase of %@ was successfully completed." = "La compra de %@ se completó con éxito.";
+
+/* These optional feature components can be purchased at any time. */
+"These optional feature components can be purchased at any time." = "Estos componentes de las funciones opcionales se pueden comprar en cualquier momento.";
+
+/* This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button. */
+"This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Add/Remove Trackers button." = "Esta entrada del diario está actualmente vacía.\n\nAntes de grabar los datos, es necesario seleccionar uno o más elementos Rastreador pulsando el botón Agregar / Quitar Trackers.";
+
+/* This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more. */
+"This option allows you to Restore your local database to a backup stored in your Dropbox account. This allows you to migrate your database from another device or another version of CPT (eg. Lite to Full versions).\n\nWARNING: This process will overwrite the local database and cannot be undone.\n\nTo proceed, select one of the backup files listed in the table to the right. Then tap the Restore button below. Depending on the size of your database, the process can take a few seconds or more." = "Esta opción le permite restaurar la base de datos local a una copia de seguridad almacenada en su cuenta de Dropbox. Esto le permite migrar su base de datos desde otro dispositivo u otra versión de la CPT (por ejemplo Lite a la versión completa).\n\nADVERTENCIA: Este proceso se sobreponen a la base de datos local y no se puede deshacer.\n\nPara continuar, seleccione uno de los archivos de copia de seguridad que figuran en la tabla a la derecha. A continuación, pulsa en el botón Restaurar a continuación. Dependiendo del tamaño de su base de datos, el proceso puede tardar algunos segundos o más.";
+
+/* Time vs Humidity */
+"Time vs Humidity" = "Humedad vs Tiempo";
+
+/* Time vs Pressure */
+"Time vs Pressure" = "La Presión vs Tiempo";
+
+/* Time vs Temperature */
+"Time vs Temperature" = "Temperatura vs Tiempo";
+
+/* Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application. */
+"Use this to create a backup of your CPT Database. A zipped backup will then be added to your Dropbox account so that it is accessible from other devices and other versions of the CPT application." = "Utilice esta opción para crear una copia de seguridad de su base de datos de CPT. Una copia de seguridad con cremallera será añadido a su cuenta de Dropbox para que sea accesible desde otros dispositivos y otras versiones de la aplicación CPT.";
+
+/* WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation? */
+"WARNING: You are about to overwrite your current Diary database. This process cannot be undone. Are you sure you want to proceed with the Restore operation?" = "ADVERTENCIA: Usted está a punto de sobrescribir la base de datos de diario actual. Este proceso no se puede deshacer. ¿Está seguro de que desea continuar con la operación de restauración?";
+
+/* Would you like to open the App Store and view Chronic Pain Tracker? */
+"Would you like to open the App Store and view Chronic Pain Tracker?" = "¿Te gustaría abrir la App Store y Chronic Pain Tracker vista?";
+
+/* Would you like to open this page in Safari? */
+"Would you like to open this page in Safari?" = "¿Te gustaría abrir esta página en Safari?";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the backup option can be used." = "Usted no ha iniciado sesión en tu cuenta de Dropbox. Usted debe ingresar a su cuenta de Dropbox y un enlace a esta aplicación antes de la opción de copia de seguridad se puede utilizar.";
+
+/* You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used. */
+"You are not currently logged into your Dropbox account. You must log into your Dropbox account and link to this app before the restore option can be used." = "Usted no ha iniciado sesión en tu cuenta de Dropbox. Usted debe ingresar a su cuenta de Dropbox y un enlace a esta aplicación antes de la opción de restauración se puede utilizar.";
+
+/* You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds. */
+"You can create one or more daily reminders to help manage the input of data into the application. Simply click the add button and select the time for the reminder.\n\nReminders can be deleted by switching to Edit mode by pressing and holding on the table for 2 seconds." = "Puede crear uno o más recordatorios diarios para ayudar a controlar la entrada de datos en la aplicación. Simplemente haga clic en el botón Agregar y seleccione la hora para el recordatorio.\n\nLos recordatorios se pueden eliminar cambiando al modo de edición pulsando y manteniendo sobre la mesa durante 2 segundos.";
+
+/* You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled. */
+"You have already purchased the Unlimited Diary Entry Support option.\nTherefore, there is no need to purchase this expansion option.\nThis transaction will now be cancelled." = "Usted ya ha comprado la entrada ilimitada Diary opción de soporte.\nPor lo tanto, no hay necesidad de comprar esta opción de expansión.\nEsta operación será ahora cancelado.";
+
+/* You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary. */
+"You have not yet enabled support for multiple Diaries. Purchase the Multi-Diary Support option in order to create and manage more than one Diary." = "Aún no ha habilitado el soporte para múltiples Diaries. Compre la opción de soporte multi-Diary con el fin de crear y gestionar más de un Diario.";
+
+/* You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours. */
+"You have two options for how to expand your Diary capacity.\nIf you'd prefer a pay-as-you-go model, simply purchase 50 or 200 entry expansion packs as needed.\nAlternatively, you can purchase the Unlimited Diary Entry Support feature and add as many Diary Entries as you'd like. The choice is yours." = "Usted tiene dos opciones para la forma de ampliar su capacidad Diario.\nSi prefiere un pay-as-you-go modelo, simplemente comprar 50 o 200 paquetes de expansión de entrada según sea necesario.\nAlternativamente, usted puede comprar la entrada ilimitada Diary función de apoyo y añadir anotaciones en el diario como usted quisiera. La elección es suya.";
+
+/* You need to select a file from the table to the right before the Restore process can begin. */
+"You need to select a file from the table to the right before the Restore process can begin." = "Es necesario seleccionar un archivo de la tabla a la derecha antes de que el proceso de restauración puede comenzar.";
+
+/* Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry. */
+"Your Diary is currently empty.\n\nTap the \"Add Diary Entry\" button to create your first Diary Entry." = "Su agenda está vacía.\n\nToque en el \"Añadir entrada Diary\" para crear su primera Entrada en el diario.";
+
+/* Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option. */
+"Your Diary is currently full. Before adding more entries, you need to increase Diary Entry Capacity by purchasing an expansion pack OR you can remove capacity limits by purchasing the Unlimited Diary Entry Support option." = "Su agenda está llena. Antes de agregar más entradas, es necesario aumentar la capacidad de entrada de diario mediante la compra de un paquete de expansión o puede quitar los límites de capacidad de compra de la entrada ilimitada Diary opción de soporte.";
+
+/* Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having. */
+"Do you want to send the most recent application log files with your e-mail? The log files can assist us in diagnosing any problems you may be having." = "¿Quieres enviar los archivos de aplicación más recientes de registro con su dirección de e-mail? Los archivos de registro nos puede ayudar en el diagnóstico de cualquier problema que pueda tener.";
+
+/* Diary %@ includes %i Diary Entries */
+"Diary %@ includes %i Diary Entries" = "Diario %@ incluye anotaciones en el diario %i";
+
+/* Recent Pain Levels */
+"Recent Pain Levels" = "Los niveles recientes de dolor";
+
+/* Showing %i entries. */
+"Showing %i entries." = "Mostrando %i entradas.";
+
+/* Showing all Diary Entries with no filtering. */
+"Showing all Diary Entries with no filtering." = "Desplegando todas las anotaciones en el diario sin filtro.";
+
+/* Showing Diary Entries between %@ and %@. */
+"Showing Diary Entries between %@ and %@." = "Mostrando anotaciones en el diario entre %@ y %@.";
+
+/* Showing Diary Entries for %@ and later. */
+"Showing Diary Entries for %@ and later." = "Mostrando anotaciones en el diario de %@ y posteriores.";
+
+/* Diary Details */
+"Diary Details" = "Detalles del Diario";
+
+/* The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export. */
+"The Diary is Empty.\n\nThe current diary does not contain any Diary Entries to export." = "El diario está vacía.\n\nEl diario actual no contiene anotaciones en el diario que desea exportar.";
+
+/* The Diary must have a unique Name before being saved. Please change the Name and then try to save again. */
+"The Diary must have a unique Name before being saved. Please change the Name and then try to save again." = "El diario debe tener un nombre único antes de ser salvos. Por favor, cambie el nombre e intente guardar de nuevo.";
+
+/* Active */
+"Active" = "Activo";
+
+/* Default */
+"Default" = "Defecto";
+
+/* Deleting Diary */
+"Deleting Diary" = "Eliminación de diario";
+
+/* Diaries */
+"Diaries" = "Diarios";
+
+/* Change Timestamp */
+"Change Timestamp" = "Cambio Hora/Fecha";
+
+/* Select Trackers */
+"Select Trackers" = "Seleccione Trackers";
+
+/* Generate Report */
+"Generate Report" = "Generar Informe";
+
+/* Use Current Time/Date */
+"Use Current Time/Date" = "Seleccione Ahora";
+
+/* It is %@.\nTime for your next Chronic Pain Tracker diary entry. */
+"It is %@.\nTime for your next Chronic Pain Tracker diary entry." = "Es %@.\nLa hora de su próxima entrada Chronic Pain Tracker diario.";
+
+/* Change Reporting Period */
+"Change Reporting Period" = "Cambiar Período";
+
+/* Change the Reporting Period to use data from earlier in your Diary. */
+"Change the Reporting Period to use data from earlier in your Diary." = "Cambie el período de presentación de informes para utilizar los datos de antes en su Diario.";
+
+/* Sample Output: */
+"Sample Output:" = "Muestra de Salida:";
+
+/* Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report. */
+"Tap \"View Report\" to generate a PDF or HTML version of the Diary data.\n\nTap icons to select which Tracker to include in your report." = "Toque en \"Ver informe\" para generar una versión PDF o HTML de los datos del diario.\n\nToque en los iconos para seleccionar el Rastreador para incluir en el informe.";
+
+/* Today */
+"Today" = "Hoy";
+
+/* Activate Sync Services */
+"Activate Sync Services" = "Active Sync Services";
+
+/* Activity Level Frequency */
+"Activity Level Frequency" = "Nivel de Actividad Frecuencia";
+
+/* Activity Level History */
+"Activity Level History" = "Nivel de Actividad";
+
+/* Activity Level */
+"Activity Level" = "Nivel de Actividad";
+
+/* Activity */
+"Activity" = "Actividad";
+
+/* Apply a Collection */
+"Apply a Collection" = "Utilice Coleccion";
+
+/* Before you can create Diary Entries, you need to Add a New Diary. */
+"Before you can create Diary Entries, you need to Add a New Diary." = "Antes de crear anotaciones en el diario, es necesario agregar un nuevo diario.";
+
+/* Blood Pressure (mmHg) */
+"Blood Pressure (mmHg)" = "Presión arterial (mmHg)";
+
+/* Blood Pressure History */
+"Blood Pressure History" = "Presión Arterial";
+
+/* Body Weight (kg) */
+"Body Weight (kg)" = "Peso corporal (kg)";
+
+/* Body Weight (lbs) */
+"Body Weight (lbs)" = "Peso corporal (lbs)";
+
+/* Body Weight History */
+"Body Weight History" = "Historia peso corporal";
+
+/* BP */
+"BP" = "Presión Arterial";
+
+/* Daily Sleep History */
+"Daily Sleep History" = "Diario Historia del sueño";
+
+/* Deactivate Sync on this Device */
+"Deactivate Sync on this Device" = "Desactivar Sync en este dispositivo";
+
+/* Define a Collection */
+"Define a Collection" = "Nueva colección";
+
+/* Disposition */
+"Disposition" = "Disposición";
+
+/* Do want to Restore previously made purchases? */
+"Do want to Restore previously made purchases?" = "No desea restaurar las compras realizadas anteriormente?";
+
+/* Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker. */
+"Do you want the Sync Manager to encrypt your data stored in the cloud repository?\n\nIf so, you will be asked to provide a password that must be used on each device running Chronic Pain Tracker." = "¿Quieres que el Administrador de sincronización para cifrar los datos almacenados en el repositorio de nube?\n\nSi es así, se le pedirá que proporcione una contraseña que se debe utilizar en cada dispositivo que ejecuta Chronic Pain Tracker.";
+
+/* Encryption Option */
+"Encryption Option" = "Opción Encryption";
+
+/* Enter Password */
+"Enter Password" = "Introduzca su contraseña";
+
+/* Entry Error */
+"Entry Error" = "Error de Entrada";
+
+/* Height */
+"Height" = "Altura";
+
+/* Hours of Sleep */
+"Hours of Sleep" = "Horas de sueño";
+
+/* Login */
+"Login" = "Login";
+
+/* Manual Synchronization Failed */
+"Manual Synchronization Failed" = "Sincronización Manual Error";
+
+/* Manual Synchronization Succeeded */
+"Manual Synchronization Succeeded" = "Sincronización Manual Sucesor";
+
+/* Mental Disposition History */
+"Mental Disposition History" = "Mental Historia Disposición";
+
+/* Mental */
+"Mental" = "Mental";
+
+/* Mood History */
+"Mood History" = "Historia del estado de ánimo";
+
+/* Mood Stability History */
+"Mood Stability History" = "Mood Historia de Estabilidad";
+
+/* Operation Failed */
+"Operation Failed" = "Error en la operación";
+
+/* Operation Succeded */
+"Operation Succeded" = "Operación correcta";
+
+/* Operation Succeeded */
+"Operation Succeeded" = "Operación correcta";
+
+/* Overnight Sleep Hours */
+"Overnight Sleep Hours" = "Durante la noche las horas de sueño";
+
+/* Overnight Sleep Interruption Frequency */
+"Overnight Sleep Interruption Frequency" = "Noche del sueño Interrupción Frecuencia";
+
+/* Pain Range per Activity Level */
+"Pain Range per Activity Level" = "Dolor Nivel vs Nivel de Actividad";
+
+/* Pain Range per Activity Levels */
+"Pain Range per Activity Levels" = "Dolor Nivel vs Nivel de Actividad";
+
+/* Pain Range per BMI Level */
+"Pain Range per BMI Level" = "Dolor Nivel vs BMI";
+
+/* Pain Range per BMI Range */
+"Pain Range per BMI Range" = "Dolor Nivel vs BMI";
+
+/* Pain Range per Diastolic BP */
+"Pain Range per Diastolic BP" = "Dolor Nivel vs Presión diastólica";
+
+/* Pain Range per Mood Disposition */
+"Pain Range per Mood Disposition" = "Nivel de dolor vs \nDisposición Mental";
+
+/* Pain Range per Mood Range */
+"Pain Range per Mood Range" = "Nivel de dolor vs \nDisposición Mental";
+
+/* Pain Range per Mood Stability Level */
+"Pain Range per Mood Stability Level" = "Dolor Nivel vs \nEstabilidad Mental";
+
+/* Pain Range per Mood Stability */
+"Pain Range per Mood Stability" = "Dolor Nivel vs \nEstabilidad Mental";
+
+/* Pain Range per Pulse Rate */
+"Pain Range per Pulse Rate" = "Dolor Nivel vs a la \nfrecuencia del pulso";
+
+/* Pain Range per Sleep Hours */
+"Pain Range per Sleep Hours" = "Dolor Nivel Horas vs \ndel sueño";
+
+/* Pain Range per Sleep Quality */
+"Pain Range per Sleep Quality" = "Nivel de dolor vs \nCalidad del sueño";
+
+/* Pain Range per Stress Level */
+"Pain Range per Stress Level" = "Dolor Nivel vs Estrés Mental";
+
+/* Pain Range per Systolic BP */
+"Pain Range per Systolic BP" = "Nivel de dolor frente a \nla presión sistólica";
+
+/* Pain Range per Total Sleep Hours */
+"Pain Range per Total Sleep Hours" = "Dolor Nivel Horas vs del sueño";
+
+/* Pain Range per Weight Level */
+"Pain Range per Weight Level" = "Dolor Nivel vs Nivel Peso";
+
+/* Pain Range per Weight Range */
+"Pain Range per Weight Range" = "Dolor Nivel vs Nivel Peso";
+
+/* Password */
+"Password" = "Contraseña";
+
+/* Pulse Rate (BPM) */
+"Pulse Rate (BPM)" = "La frecuencia del pulso (BPM)";
+
+/* Pulse Rate History */
+"Pulse Rate History" = "Historia de la frecuencia del pulso";
+
+/* Quality of Sleep */
+"Quality of Sleep" = "Calidad del sueño";
+
+/* Sleep Aid Impact on Sleep Hours */
+"Sleep Aid Impact on Sleep Hours" = "Dormir Impacto Medicamentos";
+
+/* Sleep  Aid Impact */
+"Sleep Aid Impact" = "Dormir Impacto Medicamentos";
+
+/* Sleep Hours Per Day */
+"Sleep Hours Per Day" = "Las horas de sueño por día";
+
+/* Sleep Hours */
+"Sleep Hours" = "Horas de sueño";
+
+/* Sleep Interruption Frequency */
+"Sleep Interruption Frequency" = "La interrupción del sueño Frecuencia";
+
+/* Stress History */
+"Stress History" = "Historia Estrés";
+
+/* Stress Level History */
+"Stress Level History" = "Historia Estrés";
+
+/* This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button. */
+"This Diary Entry is currently empty.\n\nBefore recording your data, you need to select one or more Tracker items by tapping the Select Trackers button." = "Este Entrada del diario está actualmente vacía.\n\nAntes de grabar los datos, es necesario seleccionar uno o más elementos del perseguidor pulsando el botón Select Trackers.";
+
+/* Time to Fall Asleep Frequency */
+"Time to Fall Asleep Frequency" = "Tiempo antes de dormir";
+
+/* Time To Fall Asleep Frequency */
+"Time To Fall Asleep Frequency" = "Tiempo antes de dormir";
+
+/* Time to Fall Asleep */
+"Time to Fall Asleep" = "Tiempo antes de dormir";
+
+/* Time vs Activity Level */
+"Time vs Activity Level" = "Nivel de Actividad vs Tiempo";
+
+/* Times Sleep Interrupted */
+"Times Sleep Interrupted" = "La interrupción del sueño Conde";
+
+/* Type of Sleep */
+"Type of Sleep" = "Tipo del sueño";
+
+/* Was Sleeping Aid Used? */
+"Was Sleeping Aid Used?" = "Dormía Aid usado?";
+
+/* Weight */
+"Weight" = "Peso";
+
+/* Temperature */
+"Temperature" = "Temperatura";
+
+/* End Date: */
+"End Date:" = "Fecha de finalización:";
+
+/* Remove Entries from Diary */
+"Remove Entries from Diary" = "Eliminar las Entradas Exportadas";
+
+/* Remove Entries */
+"Remove Entries" = "Eliminar las Entradas";
+
+/* Start Date: */
+"Start Date:" = "Fecha de inicio:";
+
+/* Moving Avg Period */
+"Moving Avg Period" = "Mover Período medio";
+
+/* days */
+"days" = "días";
+
+/* Pain when taken: */
+"Pain when taken: " = "Nivel de dolor cuando se tomó:";
+
+/* Daily Totals: */
+"Daily Totals: " = "Total Diario:";
+
+/* Pain Impact: */
+"Pain Impact: " = "Efecto sobre el Dolor";
+
+/* Refresh Weather Data */
+"Refresh Weather Data" = "Actualizar datos del tiempo";
+
+/* Submit */
+"Submit" = "Presentar";
+

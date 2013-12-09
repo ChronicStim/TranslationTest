@@ -1,0 +1,76 @@
+/* @LANGUAGE ja 
+   @DIRECTORY Translations 
+   @FILE Localizable.strings */
+
+/* AboveSeaLevel */
+"AboveSeaLevel" = "海面の上";
+
+/* AccuracyFormat */
+"AccuracyFormat" = "精度のフォーマット";
+
+/* Acquired Location */
+"Acquired Location" = "取得した場所";
+
+/* AltitudeFormat */
+"AltitudeFormat" = "高度のフォーマット";
+
+/* BelowSeaLevel */
+"BelowSeaLevel" = "海面下";
+
+/* CourseFormat */
+"CourseFormat" = "コースフォーマット";
+
+/* DataUnavailable */
+"DataUnavailable" = "データ利用不可";
+
+/* East */
+"East" = "東";
+
+/* Error */
+"Error" = "エラーが発生";
+
+/* LatLongFormat */
+"LatLongFormat" = "フォーマットをLatLong";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Mail not configured";
+
+/* No comment provided by engineer. */
+"No, Thanks" = "No, Thanks";
+
+/* North */
+"North" = "北米";
+
+/* InAppSettingsKit */
+"OK" = "OK";
+
+/* Localized Page Count String */
+"Page %d of %d" = "ページ%d月%d日";
+
+/* No comment provided by engineer. */
+"Rate %@" = "Rate %@";
+
+/* No comment provided by engineer. */
+"Remind me later" = "Remind me later";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* South */
+"South" = "南";
+
+/* SpeedFormat */
+"SpeedFormat" = "速度のフォーマット";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "This device is not configured for sending Email. Please configure the Mail settings in the Settings app.";
+
+/* Updating */
+"Updating" = "更新";
+
+/* West */
+"West" = "西";
+
+/* No comment provided by engineer. */
+"Your great ratings are what drive new features. If %@ has helped you better manage your chronic pain, would you mind taking a moment to rate it?" = "Your great ratings are what drive new features. If %@ has helped you better manage your chronic pain, would you mind taking a moment to rate it?";
+
